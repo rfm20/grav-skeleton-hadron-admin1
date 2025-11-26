@@ -1,0 +1,10 @@
+1763461486
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:10:"home/_hero";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:3:{s:5:"title";s:4:"Hero";s:12:"hero_classes";s:19:"parallax text-light";s:10:"hero_image";s:11:"header.webp";}s:11:"frontmatter";s:69:"title: Hero
+hero_classes: parallax text-light
+hero_image: header.webp";s:8:"markdown";s:610:"# learn about [span class="hadron-font"]**Hadron**[/span]
+## Website & Webshop: modern, fast, for beginners and professionals
+
+Hadron is more than just a modern and customizable [Grav](https://getgrav.org) theme and skeleton. It is optimized for beginners to quickly create a simple website, while also being suitable for professionals who want to use Hadron as a foundation for a complex website with custom-developed features.
+
+Hadron is licences under the  [MIT licence](https://github.com/Crabston/grav-skeleton-hadron?tab=MIT-1-ov-file#readme) and can be used freely for personal and commercial purposes.
+";}s:7:"storage";a:8:{s:3:"key";s:10:"home/_hero";s:11:"storage_key";s:24:"01.home/01._hero|hero.en";s:8:"template";s:4:"hero";s:17:"storage_timestamp";i:1754217411;s:8:"markdown";a:2:{s:2:"de";a:1:{s:4:"hero";i:1754217411;}s:2:"en";a:1:{s:4:"hero";i:1754217411;}}s:8:"checksum";s:32:"7bbe45b4a651e7762c88c0db835355e3";s:6:"exists";b:1;s:4:"lang";s:2:"en";}}

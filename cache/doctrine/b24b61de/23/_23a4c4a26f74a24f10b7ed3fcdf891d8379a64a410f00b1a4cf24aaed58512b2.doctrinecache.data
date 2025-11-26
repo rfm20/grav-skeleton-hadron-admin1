@@ -1,0 +1,9 @@
+1764142520
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:30:"examples/modular_grav/_callout";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:3:{s:5:"title";s:25:"Website Text Hervorhebung";s:4:"menu";s:16:"Einfache Inhalte";s:11:"image_align";s:5:"right";}s:11:"frontmatter";s:74:"title: Website Text Hervorhebung
+menu: Einfache Inhalte
+image_align: right";s:8:"markdown";s:556:"## **Dein Inhalt** Unchained!
+
+Du bist nicht länger ein _Gefangener deines CMS_. Grav **ermächtigt** dich, alles zu erstellen, von einer [einfachen Einzelseite](https://demo.getgrav.org/onepage-skeleton?target=_blank) bis hin zu einem [schönen Blog](https://demo.getgrav.org/blog-skeleton?target=_blank), bis hin zu einer leistungsstarken und funktionsreichen [Shop-Seite](https://demo.getgrav.org/shop-skeleton?target=_blank) und eigentlich allem, was du dir vorstellen kannst!
+
+[Mehr erfahren...](https://getgrav.org?classes=btn,btn-secondary,btn-lg)
+";}s:7:"storage";a:8:{s:3:"key";s:30:"examples/modular_grav/_callout";s:11:"storage_key";s:47:"05.examples/03.modular_grav/03._callout|text.de";s:8:"template";s:4:"text";s:17:"storage_timestamp";i:1754217411;s:8:"markdown";a:2:{s:2:"de";a:1:{s:4:"text";i:1754217411;}s:2:"en";a:1:{s:4:"text";i:1754217411;}}s:8:"checksum";s:32:"f96e7640d187fad9283dce8789b61408";s:6:"exists";b:1;s:4:"lang";s:2:"de";}}

@@ -1,0 +1,20 @@
+1764142119
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:8:"kegiatan";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:6:{s:5:"title";s:18:"Kegiatan & Laporan";s:7:"sitemap";a:3:{s:10:"changefreq";s:7:"monthly";s:8:"priority";d:0.8;s:7:"lastmod";s:10:"02-08-2025";}s:4:"date";s:16:"02-08-2025 00:00";s:8:"page-toc";a:1:{s:5:"depth";i:3;}s:7:"sidebar";a:2:{s:7:"display";b:0;s:8:"show_toc";b:0;}s:11:"media_order";s:23:"a1 program kegiatan.pdf";}s:11:"frontmatter";s:237:"title: 'Kegiatan & Laporan'
+sitemap:
+    changefreq: monthly
+    priority: 0.8
+    lastmod: 02-08-2025
+date: '02-08-2025 00:00'
+page-toc:
+    depth: 3
+sidebar:
+    display: false
+    show_toc: false
+media_order: 'a1 program kegiatan.pdf'";s:8:"markdown";s:235:"[div class="columns"]
+[div class="column col-9 col-md-12 extra-spacing"]
+
+![688093ffadf80-2025-07-23](688093ffadf80-2025-07-23.jpg "688093ffadf80-2025-07-23")
+
+# Kalender Kegiatan
+[a1 program kegiatan.pdf](a1%20program%20kegiatan.pdf)
+";}s:7:"storage";a:9:{s:3:"key";s:8:"kegiatan";s:11:"storage_key";s:22:"03.kegiatan|default.en";s:8:"template";s:7:"default";s:17:"storage_timestamp";i:1764140640;s:8:"markdown";a:2:{s:2:"de";a:1:{s:7:"default";i:1764136622;}s:2:"en";a:1:{s:7:"default";i:1764140068;}}s:8:"children";a:7:{s:6:"images";b:0;s:10:"kegiatan-1";b:0;s:10:"kegiatan-2";b:0;s:10:"kegiatan-3";b:0;s:10:"kegiatan-4";b:0;s:10:"kegiatan-5";b:0;s:10:"kegiatan-6";b:0;}s:8:"checksum";s:32:"fb617543660b733f68891d944dbca132";s:6:"exists";b:1;s:4:"lang";s:2:"en";}}

@@ -1,0 +1,78 @@
+1763273754
+a:2:{s:7:"content";s:5731:"<div class="notices blue">
+<p>This page contains a brief introduction to Hadron and describes the main features and possibilities.</p>
+</div>
+<p>===</p>
+<h2 id="what-is-hadron"><a href="#what-is-hadron" class="toc-anchor before" data-anchor-icon="#" aria-label="Anchor"></a>What is Hadron?</h2>
+<p>Hadron is a modern <a href="https://getgrav.org" target="_blank" rel="nofollow noopener noreferrer" class="external-link no-image">Grav</a> theme based on <a href="https://github.com/getgrav/grav-theme-quark" target="_blank" rel="nofollow noopener noreferrer" class="external-link no-image">Quark</a>. As a child theme of Quark, it contains extended features compared to the original Quark theme. It also offers advanced design options.</p>
+<h2 id="what-is-the-difference-be"><a href="#what-is-the-difference-be" class="toc-anchor before" data-anchor-icon="#" aria-label="Anchor"></a>What is the difference between the Hadron Skeleton &amp; Theme?</h2>
+<p>Hadron comes in 2 variants: as a theme and as a skeleton. The skeleton includes the theme.</p>
+<p>The theme is a modular part of Grav. Similar to plugins, themes can be installed more or less freely. Depending on the theme, there are different types of pages that can be used, as well as other options to edit the behavior of the page.</p>
+<p>The skeleton is a larger part of Grav. More precisely, a skeleton contains the entire <code>/user</code> folder. This includes pages, configurations, plugins, themes, and possibly also accounts and other data.</p>
+<p>Thus, the skeleton can be used as a ready-made template for a website, which can be edited and published directly. The theme, however, requires an existing page.</p>
+<h2 id="should-i-use-the-skeleton"><a href="#should-i-use-the-skeleton" class="toc-anchor before" data-anchor-icon="#" aria-label="Anchor"></a>Should I use the Skeleton or the Theme?</h2>
+<p>Depending on the use case, it is better to use the skeleton or the theme.</p>
+<h3 id="why-the-skeleton"><a href="#why-the-skeleton" class="toc-anchor before" data-anchor-icon="#" aria-label="Anchor"></a>Why the Skeleton?</h3>
+<p>You should use the Hadron skeleton in the following cases:</p>
+<ul>
+<li>you want a ready-made page that you can edit, including pages, configuration &amp; themes/ plugins</li>
+<li>you want to create a page with Grav</li>
+<li>you are looking for an easy way to get started with Grav</li>
+<li>you want to try out Hadron live (demo)</li>
+</ul>
+<h3 id="when-the-theme"><a href="#when-the-theme" class="toc-anchor before" data-anchor-icon="#" aria-label="Anchor"></a>When the Theme?</h3>
+<p>In the following cases, it makes more sense to use the theme instead of the skeleton:</p>
+<ul>
+<li>you have already created a page with Grav and are looking for a (different) theme</li>
+<li>you use the Quark theme but want more features</li>
+<li>you do not want to use a standard template but build everything from scratch</li>
+</ul>
+<h2 id="features-of-hadron"><a href="#features-of-hadron" class="toc-anchor before" data-anchor-icon="#" aria-label="Anchor"></a>Features of Hadron</h2>
+<p>The Hadron theme offers the following features:</p>
+<ul>
+<li>German translations</li>
+<li>responsive tables</li>
+<li>navigation with drop-down menu</li>
+<li>featured posts in blogs</li>
+<li>built-in support for Embed.ly</li>
+<li>built-in support for H5P</li>
+<li>advanced theme options</li>
+<li>further improvements</li>
+</ul>
+<h3 id="features-adopted-from-qua"><a href="#features-adopted-from-qua" class="toc-anchor before" data-anchor-icon="#" aria-label="Anchor"></a>Features adopted from Quark</h3>
+<p>The following features have been adopted from the Quark theme:</p>
+<ul>
+<li>Lightweight and minimal for optimal performance</li>
+<li>Spectre CSS Framework</li>
+<li>Fully responsive with full-page mobile navigation</li>
+<li>SCSS based CSS source files for easy customization</li>
+<li>Built-in support for on-page navigation</li>
+<li>Multiple page template types</li>
+<li>Fontawesome icon support</li>
+</ul>
+<h3 id="skeleton-features"><a href="#skeleton-features" class="toc-anchor before" data-anchor-icon="#" aria-label="Anchor"></a>Skeleton Features:</h3>
+<p>These features are only available through the skeleton:</p>
+<ul>
+<li>Ready-to-use Grav instance with Hadron theme</li>
+<li>Default groups configuration to easily manage user permissions via admin</li>
+<li>Default pages for standard, blog, contact, modular, and other pages</li>
+<li>Default plugins + config to enhance the site for publishing</li>
+<li>Default config for sendgrid email support</li>
+<li>Default config for doppler secrets manager (needs our <a href="https://github.com/Crabston/grav" target="_blank" rel="nofollow noopener noreferrer" class="external-link no-image">custom Grav Core</a>)</li>
+</ul>
+<h3 id="future-hadron-features"><a href="#future-hadron-features" class="toc-anchor before" data-anchor-icon="#" aria-label="Anchor"></a>Future Hadron Features</h3>
+<p>In the future, Hadron will have additional features:</p>
+<ul>
+<li>Built-in support for multi-language pages (theme only)</li>
+<li>Various optimizations</li>
+<li>Availability in multiple languages (theme only)</li>
+<li>Available in Grav Package Manager</li>
+<li>Further translations of other extensions (skeleton only)</li>
+<li>Further improvements</li>
+</ul>
+<h2 id="how-to-install-hadron"><a href="#how-to-install-hadron" class="toc-anchor before" data-anchor-icon="#" aria-label="Anchor"></a>How to install Hadron?</h2>
+<p>To install Hadron, visit the respective guides:</p>
+<ul>
+<li><a href="/grav/grav-skeleton-hadron+admin1/en/hadron/theme/installation">Install Hadron Theme</a></li>
+<li><a href="/grav/grav-skeleton-hadron+admin1/en/hadron/skeleton/installation">Install Hadron Skeleton</a></li>
+</ul>";s:12:"content_meta";N;}

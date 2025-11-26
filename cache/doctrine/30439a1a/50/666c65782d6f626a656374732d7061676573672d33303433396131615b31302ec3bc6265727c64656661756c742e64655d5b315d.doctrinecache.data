@@ -1,0 +1,6 @@
+1763449962
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:5:"über";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:4:{s:9:"published";b:0;s:5:"title";s:5:"Über";s:4:"slug";s:5:"über";s:8:"routable";b:0;}s:11:"frontmatter";s:72:"# TODO: remove
+published: false
+title: Über
+slug: über
+routable: false";s:8:"markdown";s:0:"";}s:7:"storage";a:9:{s:3:"key";s:5:"über";s:11:"storage_key";s:19:"10.über|default.de";s:8:"template";s:7:"default";s:17:"storage_timestamp";i:1754217411;s:8:"markdown";a:1:{s:2:"de";a:1:{s:7:"default";i:1754217411;}}s:8:"children";a:3:{s:10:"01.kontakt";b:0;s:12:"02.impressum";b:0;s:14:"03.datenschutz";b:0;}s:8:"checksum";s:32:"d3adfbe3ff33c0c8ee364dc545665f64";s:6:"exists";b:1;s:4:"lang";s:2:"de";}}

@@ -1,0 +1,15 @@
+1764139190
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:23:"examples/modular/_cards";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:2:{s:5:"title";s:5:"Cards";s:5:"cards";a:2:{i:0;a:5:{s:5:"image";s:28:"/examples/modular/image.webp";s:5:"title";s:17:"Title of the Card";s:4:"text";s:90:"This is an example text for the card. Here you can add a brief description or information.";s:4:"page";s:5:"/home";s:9:"link_text";s:14:"This is a link";}i:1;a:5:{s:5:"image";s:28:"/examples/modular/image.webp";s:5:"title";s:12:"Another Card";s:4:"text";s:91:"This is also an example text for another card. Here you can provide additional information.";s:4:"page";s:5:"/home";s:9:"link_text";s:12:"another link";}}}s:11:"frontmatter";s:445:"title: Cards
+cards:
+  - image: /examples/modular/image.webp
+    title: Title of the Card
+    text: This is an example text for the card. Here you can add a brief description or information.
+    page: /home
+    link_text: This is a link
+  - image: /examples/modular/image.webp
+    title: Another Card
+    text: This is also an example text for another card. Here you can provide additional information.
+    page: /home
+    link_text: another link";s:8:"markdown";s:216:"## Cards
+This module is an example of using cards. It can be used to present various information or features in a compact format. Each card can include an image, a title, text, and a link that leads to another page.
+";}s:7:"storage";a:8:{s:3:"key";s:23:"examples/modular/_cards";s:11:"storage_key";s:41:"05.examples/02.modular/06._cards|cards.en";s:8:"template";s:5:"cards";s:17:"storage_timestamp";i:1754217411;s:8:"markdown";a:2:{s:2:"de";a:1:{s:5:"cards";i:1754217411;}s:2:"en";a:1:{s:5:"cards";i:1754217411;}}s:8:"checksum";s:32:"7c084d450b282418275855f7c92caba2";s:6:"exists";b:1;s:4:"lang";s:2:"en";}}

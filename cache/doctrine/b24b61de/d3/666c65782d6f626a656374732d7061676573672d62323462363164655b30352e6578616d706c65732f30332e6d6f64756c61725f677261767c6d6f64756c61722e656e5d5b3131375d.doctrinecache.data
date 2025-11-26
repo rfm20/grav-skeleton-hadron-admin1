@@ -1,0 +1,12 @@
+1764139617
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:21:"examples/modular_grav";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:7:{s:5:"title";s:19:"Modular page (Grav)";s:7:"content";a:1:{s:5:"items";s:13:"@self.modular";}s:9:"published";b:1;s:12:"body_classes";s:41:"title-h1h2 header-dark header-transparent";s:11:"onpage_menu";b:1;s:7:"sitemap";a:3:{s:10:"changefreq";s:5:"never";s:8:"priority";d:0.3;s:7:"lastmod";s:10:"01-08-2025";}s:4:"date";s:10:"01-08-2025";}s:11:"frontmatter";s:236:"title: Modular page (Grav)
+content:
+  items: '@self.modular'
+published: true
+body_classes: 'title-h1h2 header-dark header-transparent'
+onpage_menu: true
+sitemap:
+  changefreq: never
+  priority: 0.3
+  lastmod: 01-08-2025
+date: 01-08-2025";s:8:"markdown";s:0:"";}s:7:"storage";a:9:{s:3:"key";s:21:"examples/modular_grav";s:11:"storage_key";s:38:"05.examples/03.modular_grav|modular.en";s:8:"template";s:7:"modular";s:17:"storage_timestamp";i:1754217411;s:8:"markdown";a:2:{s:2:"de";a:1:{s:7:"modular";i:1754217411;}s:2:"en";a:1:{s:7:"modular";i:1754217411;}}s:8:"children";a:4:{s:8:"01._hero";b:0;s:14:"02._highlights";b:0;s:11:"03._callout";b:0;s:12:"04._features";b:0;}s:8:"checksum";s:32:"43d65e5a2343f9f5a0fe671e97dfd810";s:6:"exists";b:1;s:4:"lang";s:2:"en";}}

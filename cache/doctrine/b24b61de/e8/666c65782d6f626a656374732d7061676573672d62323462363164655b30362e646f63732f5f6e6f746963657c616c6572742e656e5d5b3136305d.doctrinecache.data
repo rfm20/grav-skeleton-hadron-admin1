@@ -1,0 +1,12 @@
+1764142632
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:12:"docs/_notice";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:4:{s:11:"alert_color";s:4:"blue";s:5:"title";s:6:"Notice";s:9:"published";b:1;s:7:"visible";b:1;}s:11:"frontmatter";s:61:"alert_color: blue
+title: Notice
+published: true
+visible: true";s:8:"markdown";s:385:"**Welcome to the Hadron Documentation!**
+
+These are technical guides for Hadron, created for system administrators & developers who want to use Hadron as a theme and skeleton for a website with Grav CMS.
+
+The links to the repositories are as follows:
+- [Hadron Theme](https://github.com/Crabston/grav-theme-hadron)
+- [Hadron Skeleton](https://github.com/Crabston/grav-skeleton-hadron)
+";}s:7:"storage";a:8:{s:3:"key";s:12:"docs/_notice";s:11:"storage_key";s:24:"06.docs/_notice|alert.en";s:8:"template";s:5:"alert";s:17:"storage_timestamp";i:1754217411;s:8:"markdown";a:2:{s:2:"de";a:1:{s:5:"alert";i:1754217411;}s:2:"en";a:1:{s:5:"alert";i:1754217411;}}s:8:"checksum";s:32:"dfccf45cd037a2c703d3e56a45ce94ed";s:6:"exists";b:1;s:4:"lang";s:2:"en";}}

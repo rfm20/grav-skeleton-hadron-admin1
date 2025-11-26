@@ -1,0 +1,775 @@
+<?php
+
+use Twig\Environment;
+use Twig\Error\LoaderError;
+use Twig\Error\RuntimeError;
+use Twig\Markup;
+use Twig\Sandbox\SecurityError;
+use Twig\Sandbox\SecurityNotAllowedTagError;
+use Twig\Sandbox\SecurityNotAllowedFilterError;
+use Twig\Sandbox\SecurityNotAllowedFunctionError;
+use Twig\Source;
+use Twig\Template;
+
+/* @Page:C:/xampp/htdocs/grav/grav-skeleton-hadron+admin1/user/pages/05.profil */
+class __TwigTemplate_1edbc3347d0c83d1b0ddc55386cea639724d0fe0ad6368ce6365bedd3fb0c223 extends \Twig\Template
+{
+    public function __construct(Environment $env)
+    {
+        parent::__construct($env);
+
+        $this->parent = false;
+
+        $this->blocks = [
+        ];
+    }
+
+    protected function doDisplay(array $context, array $blocks = [])
+    {
+        // line 1
+        echo "<div class=\"columns\">
+<div class=\"column col-9 col-md-12 extra-spacing\">
+<p><img src=\"/grav/grav-skeleton-hadron%20admin1/components/688093ffadf80-2025-07-23.jpg\" alt=\"688093ffadf80-2025-07-23\" title=\"688093ffadf80-2025-07-23\"></p>
+<h1>Sejarah</h1>
+<p>Januari 2013, resmi terbentuk Badan Pemberdayaan Masyarakat dan Pemerintahan Daerah (BPMPD) Provinsi Kalimantan Barat dan Drs.Y.Alexander,M.Si di percaya untuk memimpin lembaga baru di pemerintahan Provinsi Kalimantan Barat ini. Dari aspek historis, yakni konferensi besar Gubernur seluruh Indonesia yang dipimpin oleh Presiden Soekarno tahun 1954 membentuk Kementrian Pembangunan Masyarakat Desa, Kementrian Pembangunan Masyarakat tahun 1950, Badan Koordinasi Pembangunan MasyarakatDesa dan Deputi Transkopemda tahun 1960, Biro Departemen Pembangunan Masyarakat tahun 1963, Direktorat Pembangunan Masyarakat Desa tahun 1964, Deputi Pembangunan Masyarakat Desa tahun 1966, Deputi Pembangunan Masyarakat Desa dan Pengairan Rakyat/Deputi Kementrian Pembangunan Masyarakat Desa tahun 1966, Direktorat Jendral Pembangunan Masyarakat Desa tahun 1967, Ditjen Bangdes tahun 1978, Direktorat Pembangunan Masyarakat Desa tahun 1992, Ditjen Pemberdayaan Masyarakat Desa Tahun 1999, Ditjen Bina Pemberdayaan Masyarakat Desa tahun 2001, Direktorat Jendral Pemberdayaan Masyarakat dan desa tahun 2003 sampai saat ini.</p>
+<p>Dari Aspek Fungsi, meliputi dua fungsi, pertama fungsi asli Pemberdayaan Masyarakat Desa, yakni partisipasi masyarakat, kelembagaan masyarakat, perencanaan dari bawah, profil desa, pelantikan tokoh masyarakat, pemberdayaan adat, usaha ekonomi desa, pelayanan administrasi pemerintahan, ketentraman dan ketertiban. Kedua, fungsi koordinasi, mengkoordinasi program/kegiatan dari berbagai sektor pendidikan, kesehatan, pertanian pangan, perkebunan, perikanan, pertanian, kebutuhan, industri, perdagangan dan infastruktur.</p>
+<p>Selanjutnya Aspek Pelaksanaan Kebijakan dan Program Pembangunan Nasional yakni Peningkatan. Partisipasi Masyarakat, Penanggulangan Kemiskinan (PNPM-MPd), Bulan Bhakti Gotong Royong Masyarakat, Pelaksanaan Lomba Desa dan Kelurahan, Gelas TTG, Desa Mandiri Energi (Energi Alternatif), TMMD (TNI Menuggal Masuk Desa), Pembangunan Lembaga Keuangan Mikro Perdesaan (UED, SP, BUMDes), Pemantapan Pos layanan Terpadu (Posyandu), Peningkatan Kapasitas Penyelenggaraan Pemeritahan Desa.</p>
+<p>Berdasarkan pertimbangan aspek historis, aspek fungsi dan aspek penanganan program pembangunan nasional serta dampak maka bentuk kelembagaan pemberdayaan masyarakat dan pemerintahan desa adalah Badan Pemberdayaan Masyarakat dan Pemerintahan Desa. Diharapkan kabupaten/kota bisa menyesuaikan kembali organisasinya sesuai dengan keadaan daerah masing-masing guna memudahkan sinkronisasi an kordinasi.</p>
+<p>Karena ada di beberapa daerah masih menggembangkan beberapa organisasi padahal kita mau fokuskan pemberdayaan masyarakat, sebagai upaya pemerintahan provinsi memajukan seluruh desa di Provinsi Kalimantan Barat. Semenjak menyelesaikan tugasnya sebagai wakil bupati Kabupaten Kapuas Hulu Periode 2005-2010, pada Januari 2011, Bapak Alexander dipercaya menempati jabatan sebagai Kepala Badan Penanaman Modal Daerah (BPMD) Pemerintahan Provinsi Kalimantan Barat, selama satu tahun tiga bulan di BPMD, Bapak Alexander berprestasi menghantarkan Gubernur Kalimantan Barat pada akhir 2011 menerima Penghargaan Regional Champion yang diserahkan langsung oleh Menteri Kordinator Perekonomian RI, Hayta Rajasa, karena berprestasi dibidang investasi di Kalimantan Barat.</p>
+<p>Kemudian Mei 2012, Bapak Alexander dipercaya menjabat Kepala Badan Pemberdayaan Perempuan, Anak Masyarakat dan KB. Prestasi gemilang dicapai dimana pada peringatan Hari Ibu tanggal 22 Desember 2012, Gubernur Kalimantan Barat mendapat Anugrah Prahita Eka Praya dari Presiden RI, keberhasilan di bidang gender yakni Pengarustamaan Gender.</p>
+<p>Kini dipercaya menjabat Kepala Badan Pemberdayaa Masyarakat dan Pemerinahan Desa Provinsi Kalimantan Barat, Alexander bertekat membuat desa di seluruh Kalbar menjadi mandiri, dengan tolak ukur yakni bisa membawa Kalbar memasuki peringkat 10 besar pada lomba desa tingkat nasional tahun 2013.</p>
+<p>Hingga kemudian pada tahun 2016 terbit Peraturan Daerah Provinsi Kalimantan Barat Nomor 8 Tahun 2016 tentang Pembentukan dan Susunan Perangkat Daerah Provinsi Kalimantan Barat dan Peraturan Gubernur Kalimantan Barat Nomor 107 Tahun 2016 tentang Kedudukan, Struktur Organisasi, Tugas dan Fungsi, Serta Tata Kerja Dinas Pemberdayaan Masyarakat dan Desa sehingga nama Badan Pemberdayaan Masyarakat dan Pemerintahan Desa (BPMPD) berganti nama menjadi Dinas Pemberdayaan Masyarakat dan Desa (Dinas PMD) pada Januari 2017.</p>
+<p>===</p>
+<h2 id=\"comment\"><a href=\"#comment\" class=\"toc-anchor before\" data-anchor-icon=\"#\" aria-label=\"Anchor\"></a>Comment</h2>
+<div class=\"notices blue\">
+<p><strong>Default Component</strong><br>
+Comments can be inserted in Markdown to hide text that should not be displayed on the page, but is visible to other authors.
+The comment is still visible in the page source, so it should not be used for confidential information.</p>
+</div>
+<!--
+This comment will not be displayed on the page, but is visible in the source code.
+-->
+<pre><code class=\"language-md\">&lt;!--
+This comment will not be displayed on the page, but is visible in the source code.
+--&gt;</code></pre>
+<h2 id=\"headings\"><a href=\"#headings\" class=\"toc-anchor before\" data-anchor-icon=\"#\" aria-label=\"Anchor\"></a>Headings</h2>
+<div class=\"notices blue\">
+<p><strong>Default Component</strong><br>
+Headings are used to structure and organize the text. Headings can have levels from H1 to H6, with H1 being the highest level and H6 the lowest.</p>
+</div>
+<h1>H1 Heading</h1>
+<h2 id=\"h2-heading\"><a href=\"#h2-heading\" class=\"toc-anchor before\" data-anchor-icon=\"#\" aria-label=\"Anchor\"></a>H2 Heading</h2>
+<h3 id=\"h3-heading\"><a href=\"#h3-heading\" class=\"toc-anchor before\" data-anchor-icon=\"#\" aria-label=\"Anchor\"></a>H3 Heading</h3>
+<h4 id=\"h4-heading\"><a href=\"#h4-heading\" class=\"toc-anchor before\" data-anchor-icon=\"#\" aria-label=\"Anchor\"></a>H4 Heading</h4>
+<h5 id=\"h5-heading\"><a href=\"#h5-heading\" class=\"toc-anchor before\" data-anchor-icon=\"#\" aria-label=\"Anchor\"></a>H5 Heading</h5>
+<h6 id=\"h6-heading\"><a href=\"#h6-heading\" class=\"toc-anchor before\" data-anchor-icon=\"#\" aria-label=\"Anchor\"></a>H6 Heading</h6>
+<pre><code class=\"language-md\"># H1 Heading
+
+## H2 Heading
+
+### H3 Heading
+
+#### H4 Heading
+
+##### H5 Heading
+
+###### H6 Heading</code></pre>
+<h2 id=\"paragraphs\"><a href=\"#paragraphs\" class=\"toc-anchor before\" data-anchor-icon=\"#\" aria-label=\"Anchor\"></a>Paragraphs</h2>
+<div class=\"notices blue\">
+<p><strong>Default Component</strong><br>
+Paragraphs are sections of text that are separated by a blank line. Line breaks within a paragraph are ignored unless they are marked with two spaces at the end of the line.</p>
+</div>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent risus leo, dictum in vehicula sit amet, feugiat tempus tellus. Duis quis sodales risus.<br>
+Etiam euismod ornare consequat.</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent risus leo, dictum in vehicula sit amet, feugiat tempus tellus. Duis quis sodales risus. Etiam euismod ornare consequat.</p>
+<pre><code class=\"language-md\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent risus leo, dictum in vehicula sit amet, feugiat tempus tellus. Duis quis sodales risus.  
+Etiam euismod ornare consequat.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent risus leo, dictum in vehicula sit amet, feugiat tempus tellus. Duis quis sodales risus. Etiam euismod ornare consequat.</code></pre>
+<h2 id=\"markdown-elements\"><a href=\"#markdown-elements\" class=\"toc-anchor before\" data-anchor-icon=\"#\" aria-label=\"Anchor\"></a>Markdown elements</h2>
+<div class=\"notices blue\">
+<p><strong>Default Component</strong><br>
+Markdown elements are special text formats that can be used in Markdown. These can also be used in other Markdown editors.</p>
+</div>
+<p><strong>Bold</strong> <code>**Bold**</code></p>
+<p><em>Italic</em> <code>_Italic_</code></p>
+<p><del>Strikethrough</del> <code>~~Strikethrough~~</code></p>
+<p><code>Inline Code</code> <code>`Inline Code`</code></p>
+<blockquote>
+<p>Blockquote <code>&gt; Blockquote</code></p>
+</blockquote>
+<p><a href=\"https://example.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" class=\"external-link no-image\">Link</a> <code>[Link](https://example.com)</code></p>
+<p><a href=\"https://example.com\" title=\"Title of the Links\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" class=\"external-link no-image\">Link with Title</a> <code>[Link with Title](https://example.com \"Title of the Links\")</code></p>
+<hr>
+<p>Horizontal Line: <code>---</code></p>
+<h2 id=\"html-text-elements\"><a href=\"#html-text-elements\" class=\"toc-anchor before\" data-anchor-icon=\"#\" aria-label=\"Anchor\"></a>HTML text elements</h2>
+<div class=\"notices blue\">
+<p><strong>Default Component</strong><br>
+HTML elements can be used in Markdown to add special text formatting that is not supported in Markdown, but is generally used on websites.</p>
+</div>
+<!-- TODO: update -->
+<p><abbr>I18N</abbr> <code>&lt;abbr&gt;</code></p>
+<p><cite>Blockquote</cite> <code>&lt;cite&gt;</code></p>
+<p><kbd>Ctrl + S</kbd> <code>&lt;kbd&gt;</code></p>
+<p>Text<sup>Superscripted</sup> <code>&lt;sup&gt;</code></p>
+<p>Text<sub>Subscripted</sub> <code>&lt;sub&gt;</code></p>
+<p><var>x = y + 2</var> <code>&lt;var&gt;</code></p>
+<h2 id=\"media\"><a href=\"#media\" class=\"toc-anchor before\" data-anchor-icon=\"#\" aria-label=\"Anchor\"></a>Media</h2>
+<div class=\"notices blue\">
+<p><strong>Default Component</strong><br>
+Media is inserted in Markdown similar to links, but with an exclamation mark (<code>!</code>) before the link.
+Supported media include images, videos, and audio files.</p>
+</div>
+<div class=\"notices blue\">
+<p>More information about media can be found in the <a href=\"https://learn.getgrav.org/17/content/media\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" class=\"external-link no-image\">official Grav documentation</a></p>
+</div>
+<h3 id=\"images\"><a href=\"#images\" class=\"toc-anchor before\" data-anchor-icon=\"#\" aria-label=\"Anchor\"></a>Images</h3>
+<div class=\"notices blue\">
+<p>Syntax: <code>![Image description](Image-path)</code></p>
+</div>
+<p><img src=\"/grav/grav-skeleton-hadron%20admin1/components/grav-logo.png\" alt=\"Grav logo\"></p>
+<pre><code class=\"language-md\">![Grav logo](grav-logo.png)</code></pre>
+<h4 id=\"image-with-link\"><a href=\"#image-with-link\" class=\"toc-anchor before\" data-anchor-icon=\"#\" aria-label=\"Anchor\"></a>Image with Link</h4>
+<div class=\"notices blue\">
+<p>An image that also works as a link.<br>
+Syntax: <code>[![Image description](Image-path)](Link)</code></p>
+</div>
+<p><a href=\"https://example.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" class=\"external-link image\">
+  <img src=\"/grav/grav-skeleton-hadron%20admin1/components/grav-logo.png\" alt=\"Grav logo\">
+</a></p>
+<pre><code class=\"language-md\">[![Grav logo](grav-logo.png)](https://example.com)</code></pre>
+<h4 id=\"image-with-options\"><a href=\"#image-with-options\" class=\"toc-anchor before\" data-anchor-icon=\"#\" aria-label=\"Anchor\"></a>Image with Options</h4>
+<div class=\"notices blue\">
+<p>Syntax: <code>![Image description](Image-path?Option1&amp;Option2&amp;Option3)</code><br>
+<strong>Options:</strong></p>
+<ul>
+<li><code>lightbox</code> - opens the image in a lightbox when clicked</li>
+<li><code>resize=200</code> - resizes the image to a width of 200 pixels</li>
+</ul>
+</div>
+<p><img src=\"/grav/grav-skeleton-hadron%20admin1/components/grav-logo.png?lightbox=1&amp;resize=200\" alt=\"Grav logo\"></p>
+<pre><code class=\"language-md\">![Grav logo](grav-logo.png?lightbox&amp;resize=200)</code></pre>
+<h3 id=\"videos\"><a href=\"#videos\" class=\"toc-anchor before\" data-anchor-icon=\"#\" aria-label=\"Anchor\"></a>Videos</h3>
+<div class=\"notices blue\">
+<p>Syntax: <code>![Video description](Video-path?Options)</code></p>
+<ul>
+<li><code>autoplay[=1|0]</code> - 1: starts the video automatically (default: 0)</li>
+<li><code>loop[=1|0]</code> - 1: repeats the video (default: 0)</li>
+<li><code>controls[=1|0]</code> - 1: shows the controls (default: 1)</li>
+<li><code>muted[=1|0]</code> - 1: mutes the video (default: 0)</li>
+</ul>
+</div>
+<p><img src=\"/grav/grav-skeleton-hadron%20admin1/components/beispiel-video.mp4?autoplay=1&amp;loop=1&amp;muted=1&amp;resize=600\" alt=\"Example Video\"></p>
+<pre><code class=\"language-md\">![Example Video](beispiel-video.mp4?autoplay&amp;loop&amp;muted&amp;resize=600)</code></pre>
+<h3 id=\"audio\"><a href=\"#audio\" class=\"toc-anchor before\" data-anchor-icon=\"#\" aria-label=\"Anchor\"></a>Audio</h3>
+<div class=\"notices blue\">
+<p>Syntax: <code>![Audio description](Audio-path?Options)</code></p>
+<ul>
+<li><code>autoplay[=1|0]</code> - 1: starts the audio automatically (default: 0)</li>
+<li><code>loop[=1|0]</code> - 1: repeats the audio (default: 0)</li>
+<li><code>controls[=1|0]</code> - 1: shows the controls (default: 1)</li>
+<li><code>muted[=1|0]</code> - 1: mutes the audio (default: 0)</li>
+</ul>
+</div>
+<p><img src=\"/grav/grav-skeleton-hadron%20admin1/components/beispiel-audio.mp3\" alt=\"Example Audio\"></p>
+<pre><code class=\"language-md\">![Example Audio](beispiel-audio.mp3)</code></pre>
+<h3 id=\"youtube-variant-1\"><a href=\"#youtube-variant-1\" class=\"toc-anchor before\" data-anchor-icon=\"#\" aria-label=\"Anchor\"></a>YouTube (Variant 1)</h3>
+<div class=\"notices blue\">
+<p><strong>depends on <a href=\"https://github.com/getgrav/grav-plugin-youtube\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" class=\"external-link no-image\">YouTube Plugin</a></strong><br>
+Syntax: <code>[plugin:youtube](Video-path)</code></p>
+</div>
+<div class=\"grav-youtube-wrapper \">
+  <div class=\"grav-youtube\">
+      <iframe src=\"https://www.youtube-nocookie.com/embed/K4TOrB7at0Y?rel=0&amp;showinfo=1\" frameborder=\"0\" allowfullscreen></iframe>
+  </div>
+</div>
+<pre><code class=\"language-md\">[\\plugin:youtube](https://www.youtube.com/watch?v=K4TOrB7at0Y)</code></pre>
+<h3 id=\"youtube-variant-2\"><a href=\"#youtube-variant-2\" class=\"toc-anchor before\" data-anchor-icon=\"#\" aria-label=\"Anchor\"></a>YouTube (Variant 2)</h3>
+<div class=\"notices blue\">
+<p><strong>depends on <a href=\"https://github.com/getgrav/grav-plugin-youtube\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" class=\"external-link no-image\">YouTube Plugin</a></strong><br>
+Syntax: <code>[\\youtube OPTIONS] https://www.youtube.com/watch?v=VIDEO-PATH [/youtube]</code></p>
+<ul>
+<li><code>autoplay[=1|0]</code> - 1: starts the video automatically (default: 0)</li>
+<li><code>controls[=1|0]</code> - 1: shows the controls (default: 1)</li>
+<li><code>loop[=1|0]</code> - 1: repeats the video (default: 0)</li>
+</ul>
+</div>
+<div class=\"grav-youtube-wrapper \">
+  <div class=\"grav-youtube\">
+      <iframe src=\"https://www.youtube-nocookie.com/embed/K4TOrB7at0Y?autoplay=1&amp;controls=0&amp;playlist=K4TOrB7at0Y&amp;loop=1&amp;rel=0&amp;showinfo=1\" frameborder=\"0\" allowfullscreen></iframe>
+  </div>
+</div>
+<pre><code class=\"language-md\">[youtube autoplay=1 controls=0 loop=1]
+https://www.youtube.com/watch?v=K4TOrB7at0Y
+[/youtube]</code></pre>
+<h3 id=\"pdf\"><a href=\"#pdf\" class=\"toc-anchor before\" data-anchor-icon=\"#\" aria-label=\"Anchor\"></a>PDF</h3>
+<!-- TODO: add example and link to tutorial for more options -->
+<p>_see <a href=\"https://tutorials.crabston.ch/grav/plugins/shortcode-media#pdf?utm_source=usehadron.dev&amp;utm_medium=hadron-docs\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" class=\"external-link no-image\">Crabston Tutorials &gt; Plugins &gt; Shortcode Media</a>_</p>
+<h3 id=\"dokumente\"><a href=\"#dokumente\" class=\"toc-anchor before\" data-anchor-icon=\"#\" aria-label=\"Anchor\"></a>Dokumente</h3>
+<!-- TODO: add example and link to tutorial for more options -->
+<p>_see <a href=\"https://tutorials.crabston.ch/grav/plugins/shortcode-media#docviewwer?utm_source=usehadron.dev&amp;utm_medium=hadron-docs\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" class=\"external-link no-image\">Crabston Tutorials &gt; Plugins &gt; Shortcode Media</a>_</p>
+<h2 id=\"code\"><a href=\"#code\" class=\"toc-anchor before\" data-anchor-icon=\"#\" aria-label=\"Anchor\"></a>Code</h2>
+<div class=\"notices blue\">
+<p><strong>Default Component</strong><br>
+Code blocks can be inserted in Markdown to display code or scripts. These can also be highlighted with syntax highlighting by specifying the language of the code.</p>
+</div>
+<pre><code class=\"language-js\">// Code
+const foo = 'bar';
+function bar() {
+  return foo;
+}
+console.log(bar());</code></pre>
+<pre><code class=\"language-md\">\\```js
+// Code
+const foo = 'bar';
+function bar() {
+    return foo;
+}
+console.log(bar());
+\\```</code></pre>
+<h2 id=\"blockquote\"><a href=\"#blockquote\" class=\"toc-anchor before\" data-anchor-icon=\"#\" aria-label=\"Anchor\"></a>Blockquote</h2>
+<div class=\"notices blue\">
+<p><strong>Default Component</strong><br>
+Blockquotes are elements that can be used in Markdown to highlight text. They can also be combined with other elements.</p>
+</div>
+<blockquote>
+<p>The advance of technology is based on making it fit in so that you don't really even notice it,
+so it's part of everyday life.</p>
+<p><cite>- Bill Gates</cite></p>
+</blockquote>
+<pre><code class=\"language-md\">&gt; The advance of technology is based on making it fit in so that you don't really even notice it,
+&gt; so it's part of everyday life.
+&gt;
+&gt; &lt;cite&gt;- Bill Gates&lt;/cite&gt;</code></pre>
+<h2 id=\"lists\"><a href=\"#lists\" class=\"toc-anchor before\" data-anchor-icon=\"#\" aria-label=\"Anchor\"></a>Lists</h2>
+<div class=\"notices blue\">
+<p><strong>Default Component</strong><br>
+Lists can be used in Markdown to display items in an ordered or unordered manner. Lists can also be nested.</p>
+</div>
+<h3 id=\"unordered-lists\"><a href=\"#unordered-lists\" class=\"toc-anchor before\" data-anchor-icon=\"#\" aria-label=\"Anchor\"></a>unordered lists</h3>
+<ul>
+<li>List Item 1</li>
+<li>List Item 2
+<ul>
+<li>List Item 2.1</li>
+<li>List Item 2.2</li>
+<li>List Item 2.2.1</li>
+</ul></li>
+<li>List Item 3</li>
+</ul>
+<pre><code class=\"language-md\">- List Item 1
+- List Item 2
+  - List Item 2.1
+  - List Item 2.2
+    - List Item 2.2.1
+- List Item 3</code></pre>
+<h3 id=\"ordered-lists\"><a href=\"#ordered-lists\" class=\"toc-anchor before\" data-anchor-icon=\"#\" aria-label=\"Anchor\"></a>ordered lists</h3>
+<ol>
+<li>List Item 1</li>
+<li>List Item 2
+<ol>
+<li>List Item 2.1</li>
+<li>List Item 2.2</li>
+<li>List Item 2.2.1</li>
+</ol></li>
+<li>List Item 3</li>
+</ol>
+<pre><code class=\"language-md\">1. List Item 1
+2. List Item 2
+  1. List Item 2.1
+  2. List Item 2.2
+    1. List Item 2.2.1
+3. List Item 3</code></pre>
+<h2 id=\"tables\"><a href=\"#tables\" class=\"toc-anchor before\" data-anchor-icon=\"#\" aria-label=\"Anchor\"></a>Tables</h2>
+<div class=\"notices blue\">
+<p><strong>Default Component</strong><br>
+Tables can be created in Markdown to display data in a tabular format.
+To do this, it should be noted that the alignment of the columns is defined in the second row:</p>
+<ul>
+<li><code>:---</code>: left-aligned</li>
+<li><code>:---:</code>: centered</li>
+<li><code>---:</code>: right-aligned</li>
+</ul>
+<p>Another feature of tables is that they are displayed correctly even if the formatting with spaces is not correct.</p>
+</div>
+<table>
+<thead>
+<tr>
+<th style=\"text-align: left;\">Name</th>
+<th style=\"text-align: center;\">Genre</th>
+<th style=\"text-align: right;\">Published</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style=\"text-align: left;\">The Shawshank Redemption</td>
+<td style=\"text-align: center;\">Crime, Drama</td>
+<td style=\"text-align: right;\">14. Oktober 1994</td>
+</tr>
+<tr>
+<td style=\"text-align: left;\">The Godfather</td>
+<td style=\"text-align: center;\">Crime, Drama</td>
+<td style=\"text-align: right;\">24. März 1972</td>
+</tr>
+<tr>
+<td style=\"text-align: left;\">Schindler's List</td>
+<td style=\"text-align: center;\">Biography, Drama, History</td>
+<td style=\"text-align: right;\">4. Februar 1994</td>
+</tr>
+<tr>
+<td style=\"text-align: left;\">No Genre</td>
+<td style=\"text-align: center;\"></td>
+<td style=\"text-align: right;\">7. Mai 1990</td>
+</tr>
+<tr>
+<td style=\"text-align: left;\">Se7en</td>
+<td style=\"text-align: center;\">Crime, Drama, Mystery</td>
+<td style=\"text-align: right;\">22. September 1995</td>
+</tr>
+</tbody>
+</table>
+<pre><code class=\"language-md\">| Name                     |           Genre           |          Published |
+|:-------------------------|:-------------------------:|-------------------:|
+| The Shawshank Redemption |       Crime, Drama        |   14. Oktober 1994 |
+| The Godfather            |       Crime, Drama        |      24. März 1972 |
+| Schindler's List         | Biography, Drama, History |    4. Februar 1994 |
+| No Genre                 |                           |        7. Mai 1990 |
+| Se7en                    |   Crime, Drama, Mystery   | 22. September 1995 |</code></pre>
+<h3 id=\"mobile-friendly-tables\"><a href=\"#mobile-friendly-tables\" class=\"toc-anchor before\" data-anchor-icon=\"#\" aria-label=\"Anchor\"></a>mobile-friendly tables</h3>
+<div class=\"notices blue\">
+<p><strong>depends on <a href=\"https://github.com/Crabston/grav-theme-hadron\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" class=\"external-link no-image\">Hadron Theme</a></strong><br>
+With a special feature of the Hadron theme, tables are also displayed well on mobile devices (mainly necessary for wide tables). The table is then displayed as follows:
+<img src=\"/grav/grav-skeleton-hadron%20admin1/components/responsive-tabelle.webp?lightbox=1\" alt=\"Display table on mobile devices\"></p>
+</div>
+<pre><code class=\"language-md\">[div class=\"table-responsive\"]
+
+| Name                     |           Genre           |          Published |
+|:-------------------------|:-------------------------:|-------------------:|
+| The Shawshank Redemption |       Crime, Drama        |   14. Oktober 1994 |
+| The Godfather            |       Crime, Drama        |      24. März 1972 |
+| Schindler's List         | Biography, Drama, History |    4. Februar 1994 |
+| No Genre                 |                           |        7. Mai 1990 |
+| Se7en                    |   Crime, Drama, Mystery   | 22. September 1995 |
+[/div]</code></pre>
+<h2 id=\"shortcode-elements\"><a href=\"#shortcode-elements\" class=\"toc-anchor before\" data-anchor-icon=\"#\" aria-label=\"Anchor\"></a>Shortcode elements</h2>
+<div class=\"notices blue\">
+<p><strong>depends on <a href=\"https://github.com/getgrav/grav-plugin-shortcode-core\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" class=\"external-link no-image\">Shortcode Core Plugin</a></strong><br>
+Shortcodes are special tags that can be used in Markdown to add special functions or components. These are written in square brackets <code>[]</code> and require the Shortcode Plugin.</p>
+</div>
+<p>This is a sample text <mark class=\"mark-class-default\">with this <strong>highlighted</strong> part and <em>Markdown</em> syntax</mark> and the rest is normal.</p>
+<p>This is an <span style=\"text-decoration: underline;\">underlined text</span>.</p>
+<pre><code class=\"language-md\">This is a sample text [mark]with this **highlighted** part and _Markdown_ syntax[/mark] and the rest is normal.
+
+This is an [u]underlined text[/u].</code></pre>
+<h2 id=\"alignment\"><a href=\"#alignment\" class=\"toc-anchor before\" data-anchor-icon=\"#\" aria-label=\"Anchor\"></a>Alignment</h2>
+<div class=\"notices blue\">
+<p><strong>depends on <a href=\"https://github.com/getgrav/grav-plugin-shortcode-core\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" class=\"external-link no-image\">Shortcode Core Plugin</a></strong><br>
+With alignment, texts can be aligned to the left, centered, or right.</p>
+</div>
+<div style=\"text-align: left;\">
+<p>This text is left aligned.</p>
+</div>
+<div style=\"text-align: center;\">
+<p>This text is centered.</p>
+</div>
+<div style=\"text-align: right;\">
+<p>This text is right aligned.</p>
+</div>
+<pre><code class=\"language-md\">[left]
+This text is left aligned.
+[/left]
+
+[center]
+This text is centered.
+[/center]
+
+[right]
+This text is right aligned.
+[/right]</code></pre>
+<h2 id=\"columns\"><a href=\"#columns\" class=\"toc-anchor before\" data-anchor-icon=\"#\" aria-label=\"Anchor\"></a>Columns</h2>
+<div class=\"notices blue\">
+<p><strong>depends on <a href=\"https://github.com/getgrav/grav-plugin-shortcode-core\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" class=\"external-link no-image\">Shortcode Core Plugin</a></strong><br>
+Columns are used to split text into multiple columns.</p>
+</div>
+<div class=\"notices blue\">
+<p><a href=\"https://github.com/getgrav/grav-plugin-shortcode-core#columns\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" class=\"external-link no-image\">Docs: Shortcode Core Plugin</a></p>
+</div>
+<div class=\"sc-columns\" style=\"columns:2 auto;-moz-columns:2 auto;column-gap:normal;-moz-column-gap:normal;\">
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat.</p>
+<p>Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+</div>
+<pre><code class=\"language-md\">[columns count=2]
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat.
+
+Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+[/columns]</code></pre>
+<h2 id=\"details\"><a href=\"#details\" class=\"toc-anchor before\" data-anchor-icon=\"#\" aria-label=\"Anchor\"></a>Details</h2>
+<div class=\"notices blue\">
+<p><strong>depends on <a href=\"https://github.com/getgrav/grav-plugin-shortcode-core\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" class=\"external-link no-image\">Shortcode Core Plugin</a></strong><br>
+Details are a good way to hide content that is not important for the main flow of the document. These can be displayed by clicking on the button.</p>
+</div>
+<div class=\"notices blue\">
+<p><a href=\"https://github.com/getgrav/grav-plugin-shortcode-core#detailssummary\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" class=\"external-link no-image\">Docs: Shortcode Core Plugin</a></p>
+</div>
+<details><summary>Click here to show more information</summary>
+<p>Here are additional details that can be revealed by clicking the button.</p>
+</details>
+<pre><code class=\"language-md\">[details=\"Click here to show more information\"]
+Here are additional details that can be revealed by clicking the button.
+[/details]</code></pre>
+<h2 id=\"notices\"><a href=\"#notices\" class=\"toc-anchor before\" data-anchor-icon=\"#\" aria-label=\"Anchor\"></a>Notices</h2>
+<div class=\"notices blue\">
+<p><strong>depends on <a href=\"https://github.com/getgrav/grav-plugin-markdown-notices\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" class=\"external-link no-image\">Markdown Notices Plugin</a></strong><br>
+Notices can be used to highlight important information.</p>
+</div>
+<div class=\"notices yellow\">
+<p>Warning</p>
+</div>
+<div class=\"notices red\">
+<p>Error</p>
+</div>
+<div class=\"notices blue\">
+<p>Info</p>
+</div>
+<div class=\"notices green\">
+<p>Success</p>
+</div>
+<pre><code class=\"language-md\">! Warning
+
+!! Error
+
+!!! Info
+
+!!!! Success</code></pre>
+<h2 id=\"accordion\"><a href=\"#accordion\" class=\"toc-anchor before\" data-anchor-icon=\"#\" aria-label=\"Anchor\"></a>Accordion</h2>
+<div class=\"notices blue\">
+<p><strong>depends on <a href=\"https://github.com/getgrav/grav-plugin-shortcode-ui\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" class=\"external-link no-image\">Shortcode UI Plugin</a></strong><br>
+Accordions are used to divide content into sections that can be opened or closed as needed.</p>
+</div>
+<div class=\"notices blue\">
+<p><a href=\"https://github.com/getgrav/grav-plugin-shortcode-ui#accordion\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" class=\"external-link no-image\">Docs: Shortcode UI Plugin</a></p>
+</div>
+<div class=\"accordion-wrapper\">
+                    <div>
+            <input id=\"b36301a7ad0\" name=\"b36301a7ad\" type=\"radio\">
+            <label for=\"b36301a7ad0\">Sections 1</label>
+            <article>
+<p>Bacon ipsum dolor amet beef burgdoggen shoulder, meatball prosciutto kevin brisket chicken turkey. Kevin rump pancetta short loin capicola brisket landjaeger fatback picanha pork belly ribeye. Strip steak chuck turducken kevin t-bone ribeye cupim capicola alcatra rump. Venison pork chop biltong cupim pig rump meatloaf sausage pork. Strip steak kevin tongue brisket ball tip, venison turducken flank frankfurter corned beef pancetta fatback drumstick ham. Drumstick pastrami leberkas meatball flank tongue turkey ground round pork belly doner frankfurter porchetta jowl.</p>
+</article>
+        </div>
+                    <div>
+            <input id=\"b36301a7ad1\" name=\"b36301a7ad\" type=\"radio\" checked>
+            <label for=\"b36301a7ad1\">Sections 2</label>
+            <article>
+<p>Short loin swine shankle flank picanha andouille burgdoggen landjaeger hamburger drumstick. Beef ham tail, tri-tip flank ham hock meatball picanha corned beef t-bone shank turkey ball tip shoulder. Flank corned beef chicken, meatloaf venison ball tip ham hock tail salami jowl short ribs pork belly drumstick. Meatball chicken hamburger beef filet mignon doner pork picanha pork chop fatback rump ham tri-tip ball tip landjaeger. Sausage leberkas shoulder tongue short loin shankle. Prosciutto tri-tip frankfurter shoulder drumstick capicola. Pork loin shank strip steak pork belly tongue cow.</p>
+</article>
+        </div>
+                    <div>
+            <input id=\"b36301a7ad2\" name=\"b36301a7ad\" type=\"radio\">
+            <label for=\"b36301a7ad2\">Sections 3</label>
+            <article>
+<p>Bacon ipsum dolor amet beef burgdoggen shoulder, meatball prosciutto kevin brisket chicken turkey. Kevin rump pancetta short loin capicola brisket landjaeger fatback picanha pork belly ribeye. Strip steak chuck turducken kevin t-bone ribeye cupim capicola alcatra rump. Venison pork chop biltong cupim pig rump meatloaf sausage pork. Strip steak kevin tongue brisket ball tip, venison turducken flank frankfurter corned beef pancetta fatback drumstick ham. Drumstick pastrami leberkas meatball flank tongue turkey ground round pork belly doner frankfurter porchetta jowl.</p>
+</article>
+        </div>
+    </div>
+<pre><code class=\"language-md\">[ui-accordion independent=false open=1]
+[ui-accordion-item title=\"Section 1\"]
+Bacon ipsum dolor amet beef burgdoggen shoulder, meatball prosciutto kevin brisket chicken turkey. Kevin rump pancetta short loin capicola brisket landjaeger fatback picanha pork belly ribeye. Strip steak chuck turducken kevin t-bone ribeye cupim capicola alcatra rump. Venison pork chop biltong cupim pig rump meatloaf sausage pork. Strip steak kevin tongue brisket ball tip, venison turducken flank frankfurter corned beef pancetta fatback drumstick ham. Drumstick pastrami leberkas meatball flank tongue turkey ground round pork belly doner frankfurter porchetta jowl.
+[/ui-accordion-item]
+[ui-accordion-item title=\"Section 2\"]
+Short loin swine shankle flank picanha andouille burgdoggen landjaeger hamburger drumstick. Beef ham tail, tri-tip flank ham hock meatball picanha corned beef t-bone shank turkey ball tip shoulder. Flank corned beef chicken, meatloaf venison ball tip ham hock tail salami jowl short ribs pork belly drumstick. Meatball chicken hamburger beef filet mignon doner pork picanha pork chop fatback rump ham tri-tip ball tip landjaeger. Sausage leberkas shoulder tongue short loin shankle. Prosciutto tri-tip frankfurter shoulder drumstick capicola. Pork loin shank strip steak pork belly tongue cow.
+[/ui-accordion-item]
+[ui-accordion-item title=\"Section 3\"]
+Bacon ipsum dolor amet beef burgdoggen shoulder, meatball prosciutto kevin brisket chicken turkey. Kevin rump pancetta short loin capicola brisket landjaeger fatback picanha pork belly ribeye. Strip steak chuck turducken kevin t-bone ribeye cupim capicola alcatra rump. Venison pork chop biltong cupim pig rump meatloaf sausage pork. Strip steak kevin tongue brisket ball tip, venison turducken flank frankfurter corned beef pancetta fatback drumstick ham. Drumstick pastrami leberkas meatball flank tongue turkey ground round pork belly doner frankfurter porchetta jowl.
+[/ui-accordion-item]
+[/ui-accordion]</code></pre>
+<h2 id=\"tabs\"><a href=\"#tabs\" class=\"toc-anchor before\" data-anchor-icon=\"#\" aria-label=\"Anchor\"></a>Tabs</h2>
+<div class=\"notices blue\">
+<p><strong>depends on <a href=\"https://github.com/getgrav/grav-plugin-shortcode-ui\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" class=\"external-link no-image\">Shortcode UI Plugin</a></strong><br>
+Tabs can be used to display content in different tabs.</p>
+</div>
+<div class=\"notices blue\">
+<p><a href=\"https://github.com/getgrav/grav-plugin-shortcode-ui#tabs\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" class=\"external-link no-image\">Docs: Shortcode UI Plugin</a></p>
+</div>
+<div class=\"tabs-wrapper ui-theme-lite top-left\">
+    <ul class=\"tabs-nav\">
+                    <li class=\"current\"><a href=\"#fee8628abe0\" id=\"Tab0\" rel=\"tab\">First Tab</a></li>
+                    <li><a href=\"#fee8628abe1\" id=\"Tab1\" rel=\"tab\">Second Tab</a></li>
+        </ul>
+    <div class=\"tabs\">
+            <div class=\"tab\" id=\"fee8628abe0\" style=\"display: block\">
+<p>In tempor sed sapien eu porttitor. Aliquam cursus facilisis ante. Etiam neque nunc, blandit vel lacus et, faucibus accumsan lacus. Proin posuere varius purus quis faucibus. Quisque et enim vitae orci <a href=\"#\">placerat tincidunt</a> id ac eros. Fusce et gravida libero.</p>
+<p>Phasellus cursus odio ex, in <strong>mattis lorem tincidunt</strong> vel. Donec nibh odio, dapibus non ligula a, semper ornare massa. Nulla consectetur eu nunc sed ultrices. Integer at turpis dolor.</p>
+</div>
+            <div class=\"tab\" id=\"fee8628abe1\" style=\"display: none\">
+<p>In tempor sed sapien <strong>eu porttitor</strong>. Aliquam cursus facilisis ante. Etiam neque nunc, blandit vel lacus et, faucibus accumsan lacus. Proin posuere varius purus quis faucibus. <a href=\"#\">Quisque et enim</a> vitae orci placerat tincidunt id ac eros. Fusce et gravida libero.</p>
+<p>Phasellus cursus odio ex, in mattis lorem tincidunt vel. <a href=\"#\">Donec nibh odio</a>, dapibus non ligula a, semper ornare massa. Nulla consectetur eu nunc sed ultrices. Integer at turpis dolor.</p>
+</div>
+        </div>
+</div>
+
+<pre><code class=\"language-md\">[ui-tabs position=top-left active=0 theme=lite]
+[ui-tab title=\"First Tab\"]
+In tempor sed sapien eu porttitor. Aliquam cursus facilisis ante. Etiam neque nunc, blandit vel lacus et, faucibus accumsan lacus. Proin posuere varius purus quis faucibus. Quisque et enim vitae orci [placerat tincidunt](#) id ac eros. Fusce et gravida libero.
+
+Phasellus cursus odio ex, in **mattis lorem tincidunt** vel. Donec nibh odio, dapibus non ligula a, semper ornare massa. Nulla consectetur eu nunc sed ultrices. Integer at turpis dolor.
+[/ui-tab]
+[ui-tab title=\"Second Tab\"]
+In tempor sed sapien **eu porttitor**. Aliquam cursus facilisis ante. Etiam neque nunc, blandit vel lacus et, faucibus accumsan lacus. Proin posuere varius purus quis faucibus. [Quisque et enim](#) vitae orci placerat tincidunt id ac eros. Fusce et gravida libero.
+
+Phasellus cursus odio ex, in mattis lorem tincidunt vel. [Donec nibh odio](#), dapibus non ligula a, semper ornare massa. Nulla consectetur eu nunc sed ultrices. Integer at turpis dolor.
+[/ui-tab]
+[/ui-tabs]</code></pre>
+<h2 id=\"gallery\"><a href=\"#gallery\" class=\"toc-anchor before\" data-anchor-icon=\"#\" aria-label=\"Anchor\"></a>Gallery</h2>
+<div class=\"notices blue\">
+<p><strong>depends on <a href=\"https://github.com/sal0max/grav-plugin-shortcode-gallery-plusplus\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" class=\"external-link no-image\">Shortcode Gallery Plugin</a></strong><br>
+Galleries can be used to display multiple images in a gallery.<br>
+Options:</p>
+<ul>
+<li><code>lastRow=justify</code> - Justify the last row</li>
+<li><code>captions=false</code> - Hide captions</li>
+</ul>
+</div>
+<div class=\"notices blue\">
+<p><a href=\"https://github.com/sal0max/grav-plugin-shortcode-gallery-plusplus#gallery-settings\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" class=\"external-link no-image\">Docs: Shortcode Gallery++ Plugin</a></p>
+</div>
+<p id=\"668758967\">
+    <a href=\"/grav/grav-skeleton-hadron%20admin1/components/images/jeremy-bishop-EwKXn5CapA4-unsplash.webp\" class=\"glightbox-668758967\" data-description=\"\">
+        <img src=\"/grav/grav-skeleton-hadron%20admin1/components/images/jeremy-bishop-EwKXn5CapA4-unsplash.webp\" alt=\"unsplash/jeremy-bishop\">
+    </a>
+    <a href=\"/grav/grav-skeleton-hadron%20admin1/components/images/piotr-chrobot-6oUsyeYXgTg-unsplash.webp\" class=\"glightbox-668758967\" data-description=\"\">
+        <img src=\"/grav/grav-skeleton-hadron%20admin1/components/images/piotr-chrobot-6oUsyeYXgTg-unsplash.webp\" alt=\"unsplash/piotr-chrobot\">
+    </a>
+    <a href=\"/grav/grav-skeleton-hadron%20admin1/components/images/ben-o-bro-wpU4veNGnHg-unsplash.webp\" class=\"glightbox-668758967\" data-description=\"\">
+        <img src=\"/grav/grav-skeleton-hadron%20admin1/components/images/ben-o-bro-wpU4veNGnHg-unsplash.webp\" alt=\"unsplash/ben-o-bro\">
+    </a>
+    <a href=\"/grav/grav-skeleton-hadron%20admin1/components/images/aaron-burden-dXYE1d08BiY-unsplash.webp\" class=\"glightbox-668758967\" data-description=\"\">
+        <img src=\"/grav/grav-skeleton-hadron%20admin1/components/images/aaron-burden-dXYE1d08BiY-unsplash.webp\" alt=\"unsplash/aaron-burden\">
+    </a>
+    <a href=\"/grav/grav-skeleton-hadron%20admin1/components/images/qingbao-meng-01_igFr7hd4-unsplash.webp\" class=\"glightbox-668758967\" data-description=\"\">
+        <img src=\"/grav/grav-skeleton-hadron%20admin1/components/images/qingbao-meng-01_igFr7hd4-unsplash.webp\" alt=\"unsplash/qingbao-meng\">
+    </a>
+    <a href=\"/grav/grav-skeleton-hadron%20admin1/components/images/blake-verdoorn-cssvEZacHvQ-unsplash.webp\" class=\"glightbox-668758967\" data-description=\"\">
+        <img src=\"/grav/grav-skeleton-hadron%20admin1/components/images/blake-verdoorn-cssvEZacHvQ-unsplash.webp\" alt=\"unsplash/blake-verdoorn\">
+    </a>
+    <a href=\"/grav/grav-skeleton-hadron%20admin1/components/images/robert-lukeman-_RBcxo9AU-U-unsplash.webp\" class=\"glightbox-668758967\" data-description=\"\">
+        <img src=\"/grav/grav-skeleton-hadron%20admin1/components/images/robert-lukeman-_RBcxo9AU-U-unsplash.webp\" alt=\"unsplash/robert-lukeman\">
+    </a>
+    <a href=\"/grav/grav-skeleton-hadron%20admin1/components/images/max-bender-VmX3vmBecFE-unsplash.webp\" class=\"glightbox-668758967\" data-description=\"\">
+        <img src=\"/grav/grav-skeleton-hadron%20admin1/components/images/max-bender-VmX3vmBecFE-unsplash.webp\" alt=\"unsplash/max-bender\">
+    </a>
+    <a href=\"/grav/grav-skeleton-hadron%20admin1/components/images/pedro-lastra-Nyvq2juw4_o-unsplash.webp\" class=\"glightbox-668758967\" data-description=\"\">
+        <img src=\"/grav/grav-skeleton-hadron%20admin1/components/images/pedro-lastra-Nyvq2juw4_o-unsplash.webp\" alt=\"unsplash/pedro-lastra\">
+    </a>
+    <a href=\"/grav/grav-skeleton-hadron%20admin1/components/images/abhi-verma-WH3gEB21roA-unsplash.webp\" class=\"glightbox-668758967\" data-description=\"\">
+        <img src=\"/grav/grav-skeleton-hadron%20admin1/components/images/abhi-verma-WH3gEB21roA-unsplash.webp\" alt=\"unsplash/abhi-verma\">
+    </a>
+</p>
+
+<pre><code class=\"language-md\">[gallery lastRow=justify]
+![unsplash/jeremy-bishop](images/jeremy-bishop-EwKXn5CapA4-unsplash.webp)
+![unsplash/piotr-chrobot](images/piotr-chrobot-6oUsyeYXgTg-unsplash.webp)
+![unsplash/ben-o-bro](images/ben-o-bro-wpU4veNGnHg-unsplash.webp)
+![unsplash/aaron-burden](images/aaron-burden-dXYE1d08BiY-unsplash.webp)
+![unsplash/qingbao-meng](images/qingbao-meng-01_igFr7hd4-unsplash.webp)
+![unsplash/blake-verdoorn](images/blake-verdoorn-cssvEZacHvQ-unsplash.webp)
+![unsplash/robert-lukeman](images/robert-lukeman-_RBcxo9AU-U-unsplash.webp)
+![unsplash/max-bender](images/max-bender-VmX3vmBecFE-unsplash.webp)
+![unsplash/pedro-lastra](images/pedro-lastra-Nyvq2juw4_o-unsplash.webp)
+![unsplash/abhi-verma](images/abhi-verma-WH3gEB21roA-unsplash.webp)
+[/gallery]</code></pre>
+<h2 id=\"owl-carousel\"><a href=\"#owl-carousel\" class=\"toc-anchor before\" data-anchor-icon=\"#\" aria-label=\"Anchor\"></a>Owl Carousel</h2>
+<div class=\"notices blue\">
+<p><strong>depends on <a href=\"https://github.com/getgrav/grav-plugin-shortcode-owl-carousel\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" class=\"external-link no-image\">Shortcode Owl Carousel Plugin</a></strong><br>
+Owl Carousel is a plugin that is used to display images in a carousel.<br>
+Options:</p>
+<ul>
+<li><code>items=1</code> - Number of items to display</li>
+<li><code>margin=10</code> - Margin between items</li>
+<li><code>loop=true</code> - Infinite loop</li>
+<li><code>nav=true</code> - Show navigation</li>
+<li><code>stagePadding=200</code> - Padding to the edge</li>
+</ul>
+</div>
+<div class=\"notices blue\">
+<p><a href=\"https://github.com/getgrav/grav-plugin-shortcode-owl-carousel\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" class=\"external-link no-image\">Docs: Shortcode Owl Carousel Plugin</a></p>
+</div>
+<div class=\"owl-carousel owl-theme\" id=\"owl-233ef2695c\">
+    <img src=\"/grav/grav-skeleton-hadron%20admin1/components/images/aaron-burden-dXYE1d08BiY-unsplash.webp\" alt=\"unsplash/aaron-burden\">
+<img src=\"/grav/grav-skeleton-hadron%20admin1/components/images/abhi-verma-WH3gEB21roA-unsplash.webp\" alt=\"unsplash/abhi-verma\">
+<img src=\"/grav/grav-skeleton-hadron%20admin1/components/images/ben-o-bro-wpU4veNGnHg-unsplash.webp\" alt=\"unsplash/ben-o-bro\">
+<img src=\"/grav/grav-skeleton-hadron%20admin1/components/images/pedro-lastra-Nyvq2juw4_o-unsplash.webp\" alt=\"unsplash/pedro-lastra\">
+<img src=\"/grav/grav-skeleton-hadron%20admin1/components/images/piotr-chrobot-6oUsyeYXgTg-unsplash.webp\" alt=\"unsplash/piotr-chrobot\">
+<img src=\"/grav/grav-skeleton-hadron%20admin1/components/images/qingbao-meng-01_igFr7hd4-unsplash.webp\" alt=\"unsplash/qingbao-meng\">
+<img src=\"/grav/grav-skeleton-hadron%20admin1/components/images/robert-lukeman-_RBcxo9AU-U-unsplash.webp\" alt=\"unsplash/robert-lukeman\">
+
+</div>
+
+
+<pre><code class=\"language-md\">[owl-carousel items=1 margin=10 loop=true nav=true stagePadding=200]
+![unsplash/aaron-burden](images/aaron-burden-dXYE1d08BiY-unsplash.webp)
+![unsplash/abhi-verma](images/abhi-verma-WH3gEB21roA-unsplash.webp)
+![unsplash/ben-o-bro](images/ben-o-bro-wpU4veNGnHg-unsplash.webp)
+![unsplash/pedro-lastra](images/pedro-lastra-Nyvq2juw4_o-unsplash.webp)
+![unsplash/piotr-chrobot](images/piotr-chrobot-6oUsyeYXgTg-unsplash.webp)
+![unsplash/qingbao-meng](images/qingbao-meng-01_igFr7hd4-unsplash.webp)
+![unsplash/robert-lukeman](images/robert-lukeman-_RBcxo9AU-U-unsplash.webp)
+[/owl-carousel]</code></pre>
+</div>
+<div class=\"column col-3 col-md-12\">
+<p></p><div style=\"position: sticky; top: 4rem;\">
+
+<div class=\"page-toc\">
+                <h4>Table of Contents</h4>
+        <ul>
+            
+                    <li class=\"first\">
+            <a href=\"#comment\">Comment</a>
+                    </li>
+                    <li >
+            <a href=\"#headings\">Headings</a>
+                    </li>
+                    <li >
+            <a href=\"#h2-heading\">H2 Heading</a>
+                            <ul>
+                    
+                    <li class=\"first\">
+            <a href=\"#h3-heading\">H3 Heading</a>
+                    </li>
+    
+                </ul>
+                    </li>
+                    <li >
+            <a href=\"#paragraphs\">Paragraphs</a>
+                    </li>
+                    <li >
+            <a href=\"#markdown-elements\">Markdown elements</a>
+                    </li>
+                    <li >
+            <a href=\"#html-text-elements\">HTML text elements</a>
+                    </li>
+                    <li >
+            <a href=\"#media\">Media</a>
+                            <ul>
+                    
+                    <li class=\"first\">
+            <a href=\"#images\">Images</a>
+                    </li>
+                    <li >
+            <a href=\"#videos\">Videos</a>
+                    </li>
+                    <li >
+            <a href=\"#audio\">Audio</a>
+                    </li>
+                    <li >
+            <a href=\"#youtube-variant-1\">YouTube (Variant 1)</a>
+                    </li>
+                    <li >
+            <a href=\"#youtube-variant-2\">YouTube (Variant 2)</a>
+                    </li>
+                    <li >
+            <a href=\"#pdf\">PDF</a>
+                    </li>
+                    <li class=\"last\">
+            <a href=\"#dokumente\">Dokumente</a>
+                    </li>
+    
+                </ul>
+                    </li>
+                    <li >
+            <a href=\"#code\">Code</a>
+                    </li>
+                    <li >
+            <a href=\"#blockquote\">Blockquote</a>
+                    </li>
+                    <li >
+            <a href=\"#lists\">Lists</a>
+                            <ul>
+                    
+                    <li class=\"first\">
+            <a href=\"#unordered-lists\">unordered lists</a>
+                    </li>
+                    <li class=\"last\">
+            <a href=\"#ordered-lists\">ordered lists</a>
+                    </li>
+    
+                </ul>
+                    </li>
+                    <li >
+            <a href=\"#tables\">Tables</a>
+                            <ul>
+                    
+                    <li class=\"first\">
+            <a href=\"#mobile-friendly-tables\">mobile-friendly tables</a>
+                    </li>
+    
+                </ul>
+                    </li>
+                    <li >
+            <a href=\"#shortcode-elements\">Shortcode elements</a>
+                    </li>
+                    <li >
+            <a href=\"#alignment\">Alignment</a>
+                    </li>
+                    <li >
+            <a href=\"#columns\">Columns</a>
+                    </li>
+                    <li >
+            <a href=\"#details\">Details</a>
+                    </li>
+                    <li >
+            <a href=\"#notices\">Notices</a>
+                    </li>
+                    <li >
+            <a href=\"#accordion\">Accordion</a>
+                    </li>
+                    <li >
+            <a href=\"#tabs\">Tabs</a>
+                    </li>
+                    <li >
+            <a href=\"#gallery\">Gallery</a>
+                    </li>
+                    <li class=\"last\">
+            <a href=\"#owl-carousel\">Owl Carousel</a>
+                    </li>
+    
+        </ul>
+    </div>
+</div>
+</div>
+</div>";
+    }
+
+    public function getTemplateName()
+    {
+        return "@Page:C:/xampp/htdocs/grav/grav-skeleton-hadron+admin1/user/pages/05.profil";
+    }
+
+    public function getDebugInfo()
+    {
+        return array (  30 => 1,);
+    }
+
+    /** @deprecated since 1.27 (to be removed in 2.0). Use getSourceContext() instead */
+    public function getSource()
+    {
+        @trigger_error('The '.__METHOD__.' method is deprecated since version 1.27 and will be removed in 2.0. Use getSourceContext() instead.', E_USER_DEPRECATED);
+
+        return $this->getSourceContext()->getCode();
+    }
+
+    public function getSourceContext()
+    {
+        return new Source("", "@Page:C:/xampp/htdocs/grav/grav-skeleton-hadron+admin1/user/pages/05.profil", "");
+    }
+}

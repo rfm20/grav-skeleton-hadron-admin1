@@ -1,0 +1,16 @@
+1764739520
+a:2:{s:7:"content";s:848:"                
+    <div class="notices blue list-blog-header">
+        <div class="list-blog-padding">
+            <div class="listbullet">
+                <body><p><strong>Welcome to the Hadron Documentation!</strong></p>
+<p>These are technical guides for Hadron, created for system administrators &amp; developers who want to use Hadron as a theme and skeleton for a website with Grav CMS.</p>
+<p>The links to the repositories are as follows:</p>
+<ul>
+<li><a href="https://github.com/Crabston/grav-theme-hadron" target="_blank" rel="nofollow noopener noreferrer" class="external-link no-image">Hadron Theme</a></li>
+<li><a href="https://github.com/Crabston/grav-skeleton-hadron" target="_blank" rel="nofollow noopener noreferrer" class="external-link no-image">Hadron Skeleton</a></li>
+</ul></body>
+            </div>
+        </div>
+    </div>
+";s:12:"content_meta";N;}

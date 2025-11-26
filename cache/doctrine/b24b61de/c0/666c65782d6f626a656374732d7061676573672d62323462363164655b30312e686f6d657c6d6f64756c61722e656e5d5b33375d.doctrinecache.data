@@ -1,0 +1,19 @@
+1764135868
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:4:"home";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:9:{s:5:"title";s:4:"Home";s:4:"slug";s:4:"home";s:7:"content";a:2:{s:5:"items";s:13:"@self.modular";s:5:"order";a:2:{s:2:"by";s:6:"folder";s:3:"dir";s:3:"asc";}}s:12:"body_classes";s:41:"title-h1h2 header-dark header-transparent";s:11:"onpage_menu";b:0;s:8:"page-toc";a:1:{s:7:"anchors";a:1:{s:4:"link";b:0;}}s:7:"sitemap";a:2:{s:10:"changefreq";s:6:"yearly";s:7:"lastmod";s:10:"31-07-2025";}s:4:"date";s:10:"31-07-2025";s:8:"metadata";a:1:{s:11:"description";s:184:"Hadron is a Grav theme and skeleton that serves as a template for beginners to create websites and webshops, but can also be used by professionals as a foundation for complex projects.";}}s:11:"frontmatter";s:488:"title: Home
+slug: home
+content:
+  items: '@self.modular'
+  order:
+    by: folder
+    dir: asc
+body_classes: 'title-h1h2 header-dark header-transparent'
+onpage_menu: false
+page-toc:
+  anchors:
+    link: false
+sitemap:
+  changefreq: yearly
+  lastmod: 31-07-2025
+date: 31-07-2025
+metadata:
+  description: 'Hadron is a Grav theme and skeleton that serves as a template for beginners to create websites and webshops, but can also be used by professionals as a foundation for complex projects.'";s:8:"markdown";s:0:"";}s:7:"storage";a:9:{s:3:"key";s:4:"home";s:11:"storage_key";s:18:"01.home|modular.en";s:8:"template";s:7:"modular";s:17:"storage_timestamp";i:1754217411;s:8:"markdown";a:2:{s:2:"de";a:1:{s:7:"modular";i:1754217411;}s:2:"en";a:1:{s:7:"modular";i:1754217411;}}s:8:"children";a:3:{s:8:"01._hero";b:0;s:14:"02._highlights";b:0;s:11:"03._contact";b:0;}s:8:"checksum";s:32:"d432c553e5bb85ca549d906ab7e7cb38";s:6:"exists";b:1;s:4:"lang";s:2:"en";}}

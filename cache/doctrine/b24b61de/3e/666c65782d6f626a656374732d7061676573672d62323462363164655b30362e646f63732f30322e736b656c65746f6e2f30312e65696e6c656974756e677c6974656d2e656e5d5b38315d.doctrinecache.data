@@ -1,0 +1,49 @@
+1764137666
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:24:"docs/skeleton/einleitung";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:9:{s:5:"title";s:30:"Introduction | Hadron Skeleton";s:4:"menu";s:12:"Introduction";s:4:"slug";s:12:"introduction";s:7:"sitemap";a:3:{s:10:"changefreq";s:6:"yearly";s:8:"priority";d:0.5;s:7:"lastmod";s:10:"10-10-2024";}s:4:"date";s:10:"10-10-2024";s:8:"taxonomy";a:2:{s:8:"category";s:6:"Hadron";s:3:"tag";a:2:{i:0;s:8:"Skeleton";i:1;s:12:"Introduction";}}s:17:"header_image_file";s:9:"hero.webp";s:10:"hero_image";s:9:"hero.webp";s:12:"hero_classes";s:32:"text-light overlay-dark parallax";}s:11:"frontmatter";s:323:"title: Introduction | Hadron Skeleton
+menu: Introduction
+slug: introduction
+sitemap:
+  changefreq: yearly
+  priority: 0.5
+  lastmod: 10-10-2024
+date: 10-10-2024
+taxonomy:
+  category: Hadron
+  tag: [ Skeleton, Introduction ]
+header_image_file: hero.webp
+hero_image: hero.webp
+hero_classes: 'text-light overlay-dark parallax'";s:8:"markdown";s:2407:"!!! This page contains an introduction to the Hadron Skeleton and shows the possibilities and features.
+
+===
+
+## Introduction
+The Hadron Skeleton is a ready-to-use template for a website that can be edited and published directly. It contains all necessary pages, configurations, plugins and themes to create a website with Grav. The Hadron Skeleton is based on the Hadron Theme and offers advanced features and configurations, which aren't available in the theme.
+
+## Hadron
+Hadron comes in 2 variants: as a theme and as a skeleton. The skeleton includes the theme, as well as additional features and configurations. Learn more about the [Hadron Theme](/hadron/theme/introduction).
+
+## Features
+The Hadron Skeleton includes the following features:
+
+### ready-to-use template
+The Hadron Skeleton is a ready-to-use template for a website that can be edited and published directly. This allows you to quickly and easily create a website with Grav without having to start from scratch.
+
+### Default groups for optimal user permissions
+The Hadron Skeleton includes default groups for optimal user permissions. This allows users with different permissions to be created to ensure the security of the website.
+
+### Default pages
+The template includes various example pages that serve as a starting point for creating a website. These include normal pages, modular, blogs, contact page and more.
+
+### Pre-installed plugins
+The Hadron Skeleton includes a selection of pre-installed plugins that extend the functionality of the website. These include plugins for SEO, shortcode, media and other components & functions.
+
+### Default configuration for SendGrid Email
+In addition to the email configuration, there is also a default configuration for SendGrid Email. This allows emails to be sent via SendGrid. This function supports the Doppler Secrets Manager.
+
+### Default configuration for Doppler Secrets Manager
+An additional feature of this skeleton is the default configuration for the Doppler Secrets Manager. This allows secret information such as API keys, passwords and other sensitive data to be securely stored and retrieved.  
+For this feature, our [modified Grav Core](https://github.com/Crabston/grav) is required, so that these can be automatically fetched by Doppler.
+
+## Next steps
+To install the Hadron Skeleton, follow the instructions [Hadron Skeleton Installation](/hadron/skeleton/installation).
+";}s:7:"storage";a:8:{s:3:"key";s:24:"docs/skeleton/einleitung";s:11:"storage_key";s:41:"06.docs/02.skeleton/01.einleitung|item.en";s:8:"template";s:4:"item";s:17:"storage_timestamp";i:1754217411;s:8:"markdown";a:2:{s:2:"de";a:1:{s:4:"item";i:1754217411;}s:2:"en";a:1:{s:4:"item";i:1754217411;}}s:8:"checksum";s:32:"9fc0e59a6e1d76bc108529c257d5b07c";s:6:"exists";b:1;s:4:"lang";s:2:"en";}}

@@ -1,0 +1,63 @@
+1763461426
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:8:"examples";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:6:{s:5:"title";s:8:"Examples";s:4:"slug";s:8:"examples";s:7:"sitemap";a:3:{s:10:"changefreq";s:6:"yearly";s:8:"priority";d:0.7;s:7:"lastmod";s:10:"01-08-2025";}s:4:"date";s:10:"01-08-2025";s:7:"content";a:2:{s:5:"items";a:1:{i:0;s:14:"@self.children";}s:5:"order";a:2:{s:2:"by";s:6:"folder";s:3:"dir";s:3:"asc";}}s:25:"display_child_page_titles";b:1;}s:11:"frontmatter";s:225:"title: Examples
+slug: examples
+sitemap:
+  changefreq: yearly
+  priority: 0.7
+  lastmod: 01-08-2025
+date: 01-08-2025
+content:
+  items:
+    - '@self.children'
+  order:
+    by: folder
+    dir: asc
+display_child_page_titles: true";s:8:"markdown";s:1136:"[div class="columns"]
+[div class="column col-9 col-md-12 extra-spacing"]
+
+# Examples
+
+On this page, you will find a selection of examples that showcase the capabilities of Hadron and Grav.
+
+## 0. Search
+[![Search](00-search.webp?resize=500)](search)
+
+## 1. Default page
+[![Default page](01-default.webp?resize=500)](default)
+
+## 2. Modular page
+[![Modular page](02-modular.webp?resize=500)](modular)
+
+## 3. Modular page (Grav)
+[![Modulare page (Grav)](03-modular_grav.webp?resize=500)](modular_grav)
+
+## 4. Blog
+[![Blog](04-blog.webp?resize=500)](blog)
+
+## 5. Shop
+[![Shop](05-shop.webp?resize=500)](shop)
+
+## 6. Private page
+_(User: `demo`; Password: `Demo1234`)_
+[![Private page](06-private.webp?resize=500)](private)
+
+## 7. Form
+[![Form](07-form.webp?resize=500)](form)
+
+## 8. Multi-section page
+[![Multi-section page](08-sections.webp?resize=500)](sections)
+
+## 9. H5P (Interactive Content)
+[![H5P](09-h5p.webp?resize=500)](h5p)
+
+## 10. Embedded pages
+[![Embedded pages](10-embedlycard.webp?resize=500)](embedlycard)
+
+[/div]
+
+[div class="column col-3 col-md-12"]
+[div style="position: sticky; top: 4rem;"][TOC][/div]
+[/div]
+
+[/div]
+";}s:7:"storage";a:9:{s:3:"key";s:8:"examples";s:11:"storage_key";s:22:"03.examples|default.en";s:8:"template";s:7:"default";s:17:"storage_timestamp";i:1754217411;s:8:"markdown";a:2:{s:2:"de";a:1:{s:7:"default";i:1754217411;}s:2:"en";a:1:{s:7:"default";i:1754217411;}}s:8:"children";a:11:{s:9:"00.search";b:0;s:10:"01.default";b:0;s:10:"02.modular";b:0;s:15:"03.modular_grav";b:0;s:7:"04.blog";b:0;s:7:"05.shop";b:0;s:10:"06.private";b:0;s:7:"07.form";b:0;s:11:"08.sections";b:0;s:6:"09.h5p";b:0;s:14:"10.embedlycard";b:0;}s:8:"checksum";s:32:"dca4df9d3c13f3c02b0ba0fb3af8270d";s:6:"exists";b:1;s:4:"lang";s:2:"en";}}

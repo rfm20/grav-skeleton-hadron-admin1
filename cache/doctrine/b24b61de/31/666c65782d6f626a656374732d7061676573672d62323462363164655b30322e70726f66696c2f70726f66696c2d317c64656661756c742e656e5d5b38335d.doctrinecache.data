@@ -1,0 +1,45 @@
+1764137800
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:15:"profil/profil-1";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:3:{s:5:"title";s:12:"Profil Badan";s:4:"date";s:16:"26-11-2025 06:26";s:7:"visible";b:1;}s:11:"frontmatter";s:60:"title: 'Profil Badan'
+date: '26-11-2025 06:26'
+visible: true";s:8:"markdown";s:2373:"[div class="columns"]
+[div class="column col-9 col-md-12 extra-spacing"]
+
+===
+
+## Visi
+“Terwujudnya Kesejahteraan Masyarakat Kalimantan Barat melalui Percepatan Pembangunan Infrastruktur dan Perbaikan Tata Kelola Pemerintahan”
+
+## Misi
+Mewujudkan percepatan pembangunan infrastruktur.
+Mewujudkan tata kelola pemerintahan berkualitas dengan prinsip-prinsip Good Governance.
+Mewujudkan kualitas hidup masyarakat.
+Mewujudkan masyarakat sejahtera.
+Mewujudkan masyarakat yang tertib.
+Mewujudkan pembangunan berwawasan lingkungan.
+
+## Tugas Pokok dan Fungsi
+BERDASARKAN PERATURAN GUBERNUR KALIMANTAN BARAT NOMOR 122 TAHUN 2021 TENTANG KEDUDUKAN, SUSUNAN ORGANISASI, TUGAS DAN FUNGSI, SERTA TATA KERJA DINAS PEMBERDAYAAN MASYARAKAT DAN DESA PROVINSI KALIMANTAN BARAT
+
+
+Dinas Pemberdayaan Masyarakat dan Desa Provinsi Kalimantan Barat mempunyai tugas membantu Gubernur melaksanakan urusan pemerintahan yang menjadi kewenangan daerah dan tugas pembantuan di bidang pemberdayaan masyarakat dan desa sesuai ketentuan peraturan perundang-undangan.
+
+Untuk melaksanakan tugas Dinas, menyelenggarakan fungsi :
+
+Perumusan program kerja di bidang pemberdayaan masyarakat dan desa.
+Perumusan kebijakan di bidang pemerintahan desa, penataan dan kerjasama desa, serta pembangunan dan pemberdayaan masyarakat desa.
+Pelaksanaan kebijakan di bidang pemerintahan desa, penataan dan kerjasama desa, serta pembangunan dan pemberdayaan masyarakat desa.
+Penyelenggaraan urusan pemerintahan di bidang pemerintahan desa, penataan dan kerjasama desa, serta pembangunan dan pemberdayaan masyarakat desa sesuai ketentuan peraturan perundang-undangan.
+Pengoordinasian dan pembinaan teknis di bidang pemerintahan desa, penataan dan kerjasama desa, serta pembangunan dan pemberdayaan masyarakat desa.
+Pelaksanaan evaluasi dan pelaporan di bidang pemerintahan desa, penataan dan kerjasama desa, serta pernbangunan dan pemberdayaan masyarakat desa.
+Pelaksanaan reformasi birokrasi, Sistem Akuntabilitas Kinerja Instansi Pernerintah (SAKIP), dan pelayanan publik di lingkungan Dinas.
+Pelaksanaan administrasi di lingkungan Dinas
+Pelaksanaan fungsi lain dan tugas pembantuan yang diberikan oleh Gubernur di bidang pemberdayaan masyarakat dan desa sesuai ketentuan peraturan perundang-undangan.
+
+[/div]
+
+[div class="column col-3 col-md-12"]
+[div style="position: sticky; top: 4rem;"][TOC][/div]
+[/div]
+
+[/div]
+";}s:7:"storage";a:8:{s:3:"key";s:15:"profil/profil-1";s:11:"storage_key";s:29:"02.profil/profil-1|default.en";s:8:"template";s:7:"default";s:17:"storage_timestamp";i:1764135266;s:8:"markdown";a:1:{s:2:"en";a:1:{s:7:"default";i:1764135266;}}s:8:"checksum";s:32:"4b225b830b0623639c1d6caa19b6cd5e";s:6:"exists";b:1;s:4:"lang";s:2:"en";}}

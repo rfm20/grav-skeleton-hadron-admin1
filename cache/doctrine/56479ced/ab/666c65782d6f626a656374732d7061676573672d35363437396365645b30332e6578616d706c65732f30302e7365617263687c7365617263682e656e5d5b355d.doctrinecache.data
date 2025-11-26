@@ -1,0 +1,11 @@
+1764037475
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:15:"examples/search";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:6:{s:5:"title";s:6:"Search";s:9:"published";b:1;s:8:"template";s:6:"search";s:4:"icon";s:6:"search";s:7:"sitemap";a:3:{s:10:"changefreq";s:5:"never";s:8:"priority";d:0.3;s:7:"lastmod";s:10:"01-08-2025";}s:4:"date";s:10:"01-08-2025";}s:11:"frontmatter";s:143:"title: Search
+published: true
+template: search
+icon: search
+sitemap:
+  changefreq: never
+  priority: 0.3
+  lastmod: 01-08-2025
+date: 01-08-2025";s:8:"markdown";s:168:"This page uses the open source [TNTSearch plugin](https://github.com/trilbymedia/grav-plugin-tntsearch) and includes the ability for fuzzy (i.e. approximate) searches.
+";}s:7:"storage";a:8:{s:3:"key";s:15:"examples/search";s:11:"storage_key";s:31:"03.examples/00.search|search.en";s:8:"template";s:6:"search";s:17:"storage_timestamp";i:1754217411;s:8:"markdown";a:2:{s:2:"de";a:1:{s:6:"search";i:1754217411;}s:2:"en";a:1:{s:6:"search";i:1754217411;}}s:8:"checksum";s:32:"1d2c2190ef71c67994465132b0a07dbf";s:6:"exists";b:1;s:4:"lang";s:2:"en";}}

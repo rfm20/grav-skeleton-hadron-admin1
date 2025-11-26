@@ -1,0 +1,9 @@
+1764142520
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:13:"home/_contact";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:1:{s:5:"title";s:7:"Kontakt";}s:11:"frontmatter";s:14:"title: Kontakt";s:8:"markdown";s:518:"## Kontakt
+
+Haben Sie eine Frage zu Hadron? Schreiben Sie uns ein Mail an [hadron@crabston.dev](mailto:hadron@crabston.dev).
+
+Suchen Sie einen Webentwickler oder Webdesigner, der Ihre neue Website mit Hadron erstellt? Sie finden dazu weitere Informationen auf der Website der [Crabston GmbH](zhttps://crabston.ch/?utm_source=usehadron.dev&utm_medium=contact), die Entwickler von Hadron.
+
+[Kontaktformular](https://crabston.ch/über/kontakt?classes=btn,btn-secondary,btn-lg&utm_source=usehadron.dev&utm_medium=contact)
+";}s:7:"storage";a:8:{s:3:"key";s:13:"home/_contact";s:11:"storage_key";s:27:"01.home/03._contact|text.de";s:8:"template";s:4:"text";s:17:"storage_timestamp";i:1754217411;s:8:"markdown";a:2:{s:2:"de";a:1:{s:4:"text";i:1754217411;}s:2:"en";a:1:{s:4:"text";i:1754217411;}}s:8:"checksum";s:32:"f001c28d414112f00e714abe3e4a5650";s:6:"exists";b:1;s:4:"lang";s:2:"de";}}

@@ -1,0 +1,14 @@
+name: Hadron Site
+version: 2.2.1
+description: 'Hadron is a modern and fast Grav Theme and Skeleton for Grav with many other features. Use the Hadron skeleton to start a new website or webshop with  our pre made templates and examples. As a beginner, Hadron is perfect because it includes everything you need to start. For professionals, the Hadron skeleton works as a solid base for new custom builds.'
+icon: circle
+author:
+  name: 'Crabston GmbH'
+  email: contact@crabston.dev
+  url: 'https://crabston.dev'
+homepage: https://github.com/Crabston/grav-skeleton-hadron
+demo: https://usehadron.dev/
+keywords: hadron, grav, skeleton, modern, fast, customization, quark, spectre.css, website, webshop
+bugs: https://github.com/Crabston/grav-skeleton-hadron/issues
+readme: https://github.com/Crabston/grav-skeleton-hadron/blob/main/README.md
+license: MIT

@@ -1,0 +1,33 @@
+1764141148
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:16:"home/_highlights";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:3:{s:5:"title";s:10:"Highlights";s:5:"class";s:10:"offset-box";s:8:"features";a:9:{i:0;a:3:{s:6:"header";s:10:"Grav based";s:4:"icon";s:10:"fa fa-grav";s:4:"text";s:49:"With the Grav CMS, the website is easy to manage.";}i:1;a:3:{s:6:"header";s:19:"Website and Webshop";s:4:"icon";s:21:"fa fa-window-maximize";s:4:"text";s:77:"Foundation with examples and templates for websites with an optional webshop.";}i:2;a:3:{s:6:"header";s:13:"modern design";s:4:"icon";s:10:"fa fa-star";s:4:"text";s:65:"With the Spectre CSS Framework for a modern and appealing design.";}i:3;a:3:{s:6:"header";s:17:"responsive layout";s:4:"icon";s:11:"fa fa-magic";s:4:"text";s:95:"The website automatically adapts to the screen size, whether on desktop, tablet, or smartphone.";}i:4;a:3:{s:6:"header";s:17:"easy to customize";s:4:"icon";s:10:"fa fa-edit";s:4:"text";s:64:"There are many customization options to personalize the website.";}i:5;a:3:{s:6:"header";s:22:"many standard features";s:4:"icon";s:15:"fa fa-microchip";s:4:"text";s:76:"The website includes many useful features that are ready to use immediately.";}i:6;a:3:{s:6:"header";s:13:"for beginners";s:4:"icon";s:11:"fa fa-users";s:4:"text";s:55:"Hadron can be used easily even without prior knowledge.";}i:7;a:3:{s:6:"header";s:14:"for developers";s:4:"icon";s:10:"fa fa-code";s:4:"text";s:70:"Hadron is modularly built and can be modified and extended as desired.";}i:8;a:3:{s:6:"header";s:11:"Open Source";s:4:"icon";s:15:"fa fa-code-fork";s:4:"text";s:69:"Hadron is open source under the MIT license and can be used for free.";}}}s:11:"frontmatter";s:1229:"title: Highlights
+class: offset-box
+features:
+  - header: Grav based
+    icon: fa fa-grav
+    text: With the Grav CMS, the website is easy to manage.
+  - header: Website and Webshop
+    icon: fa fa-window-maximize
+    text: Foundation with examples and templates for websites with an optional webshop.
+  - header: modern design
+    icon: fa fa-star
+    text: With the Spectre CSS Framework for a modern and appealing design.
+  - header: responsive layout
+    icon: fa fa-magic
+    text: The website automatically adapts to the screen size, whether on desktop, tablet, or smartphone.
+  - header: easy to customize
+    icon: fa fa-edit
+    text: There are many customization options to personalize the website.
+  - header: many standard features
+    icon: fa fa-microchip
+    text: The website includes many useful features that are ready to use immediately.
+  - header: for beginners
+    icon: fa fa-users
+    text: Hadron can be used easily even without prior knowledge.
+  - header: for developers
+    icon: fa fa-code
+    text: Hadron is modularly built and can be modified and extended as desired.
+  - header: Open Source
+    icon: fa fa-code-fork
+    text: Hadron is open source under the MIT license and can be used for free.";s:8:"markdown";s:86:"# Why [span class="hadron-font"]Hadron[/span]?
+## because it has everything you want:
+";}s:7:"storage";a:8:{s:3:"key";s:16:"home/_highlights";s:11:"storage_key";s:34:"01.home/02._highlights|features.en";s:8:"template";s:8:"features";s:17:"storage_timestamp";i:1754217411;s:8:"markdown";a:2:{s:2:"de";a:1:{s:8:"features";i:1754217411;}s:2:"en";a:1:{s:8:"features";i:1754217411;}}s:8:"checksum";s:32:"c3d54354c3f591d7ad5bd62104b67a7e";s:6:"exists";b:1;s:4:"lang";s:2:"en";}}

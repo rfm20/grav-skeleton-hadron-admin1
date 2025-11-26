@@ -1,0 +1,34 @@
+form:
+  validation: loose
+  fields:
+    section:
+      type: section
+      title: ADMIN.PAGES.MODALS.NEW_BLOG_ITEM.MODAL.TITLE
+
+    title:
+      type: text
+      label: ADMIN.PAGES.MODALS.NEW_BLOG_ITEM.TITLE.LABEL
+      validate:
+        required: true
+
+    folder:
+      type: hidden
+      default: '@slugify-title'
+
+    route:
+      type: parents
+      label: ADMIN.PAGES.MODALS.NEW_BLOG_ITEM.PARENT.LABEL
+      classes: fancy
+      validate:
+        required: true
+
+    name:
+      type: hidden
+      default: 'item'
+
+    visible:
+      type: hidden
+      default: ''
+
+    blueprint:
+      type: blueprint

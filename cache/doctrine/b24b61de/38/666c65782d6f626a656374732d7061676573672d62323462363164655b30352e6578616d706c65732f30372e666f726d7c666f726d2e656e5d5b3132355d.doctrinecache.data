@@ -1,0 +1,205 @@
+1764139799
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:13:"examples/form";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:4:{s:5:"title";s:4:"Form";s:7:"sitemap";a:3:{s:10:"changefreq";s:5:"never";s:8:"priority";d:0.3;s:7:"lastmod";s:10:"01-08-2025";}s:4:"date";s:10:"01-08-2025";s:4:"form";a:4:{s:4:"name";s:12:"example-form";s:6:"fields";a:2:{s:8:"honeypot";a:1:{s:4:"type";s:8:"honeypot";}s:4:"tabs";a:3:{s:4:"type";s:4:"tabs";s:6:"active";i:1;s:6:"fields";a:2:{s:4:"tab1";a:3:{s:4:"type";s:3:"tab";s:5:"title";s:19:"Contact Information";s:6:"fields";a:4:{s:5:"names";a:2:{s:4:"type";s:7:"columns";s:6:"fields";a:2:{s:7:"column1";a:2:{s:4:"type";s:6:"column";s:6:"fields";a:1:{s:9:"firstname";a:4:{s:4:"type";s:4:"text";s:5:"label";s:10:"First Name";s:11:"placeholder";s:3:"Eva";s:8:"validate";a:1:{s:8:"required";b:1;}}}}s:7:"column2";a:2:{s:4:"type";s:6:"column";s:6:"fields";a:1:{s:8:"lastname";a:4:{s:4:"type";s:4:"text";s:5:"label";s:9:"Last Name";s:11:"placeholder";s:7:"Example";s:8:"validate";a:1:{s:8:"required";b:1;}}}}}}s:12:"contact_info";a:2:{s:4:"type";s:7:"columns";s:6:"fields";a:2:{s:7:"column1";a:2:{s:4:"type";s:6:"column";s:6:"fields";a:1:{s:5:"email";a:4:{s:4:"type";s:5:"email";s:5:"label";s:5:"Email";s:11:"placeholder";s:17:"email@example.com";s:8:"validate";a:1:{s:8:"required";b:1;}}}}s:7:"column2";a:2:{s:4:"type";s:6:"column";s:6:"fields";a:1:{s:3:"tel";a:3:{s:4:"type";s:3:"tel";s:5:"label";s:5:"Phone";s:11:"placeholder";s:16:"+41 12 345 67 89";}}}}}s:7:"subject";a:4:{s:4:"type";s:4:"text";s:5:"label";s:7:"Subject";s:11:"placeholder";s:12:"Your Subject";s:8:"validate";a:1:{s:8:"required";b:1;}}s:7:"message";a:6:{s:4:"type";s:8:"textarea";s:5:"label";s:7:"Message";s:11:"placeholder";s:20:"Your message here...";s:4:"rows";i:5;s:4:"cols";i:40;s:8:"validate";a:1:{s:8:"required";b:1;}}}}s:4:"tab2";a:3:{s:4:"type";s:3:"tab";s:5:"title";s:17:"Additional Fields";s:6:"fields";a:11:{s:7:"section";a:3:{s:4:"type";s:7:"section";s:5:"title";s:17:"Additional Fields";s:4:"text";s:68:"This is a section with additional fields that you can add as needed.";}s:8:"checkbox";a:3:{s:4:"type";s:8:"checkbox";s:5:"label";s:8:"Checkbox";s:11:"description";s:28:"Description for the checkbox";}s:4:"date";a:3:{s:4:"type";s:4:"date";s:5:"label";s:4:"Date";s:8:"validate";a:2:{s:3:"min";i:1577836800;s:3:"max";i:1767139200;}}s:6:"number";a:3:{s:4:"type";s:6:"number";s:5:"label";s:6:"Number";s:8:"validate";a:2:{s:3:"min";i:1;s:3:"max";i:10;}}s:5:"radio";a:4:{s:4:"type";s:5:"radio";s:5:"label";s:5:"Radio";s:7:"default";s:3:"two";s:7:"options";a:3:{s:3:"one";s:10:"Option One";s:3:"two";s:10:"Option Two";s:5:"three";s:12:"Option Three";}}s:5:"range";a:4:{s:4:"type";s:5:"range";s:5:"label";s:5:"Range";s:7:"default";i:5;s:8:"validate";a:2:{s:3:"min";i:1;s:3:"max";i:10;}}s:6:"select";a:4:{s:4:"type";s:6:"select";s:5:"label";s:6:"Select";s:7:"default";s:3:"two";s:7:"options";a:4:{s:3:"one";s:10:"Option One";s:3:"two";s:10:"Option Two";s:5:"three";a:2:{s:5:"value";s:12:"Option Three";s:8:"disabled";b:1;}s:4:"four";s:11:"Option Four";}}s:15:"select_multiple";a:5:{s:4:"type";s:6:"select";s:5:"label";s:15:"Multiple Select";s:7:"default";s:3:"two";s:8:"multiple";b:1;s:7:"options";a:4:{s:3:"one";s:10:"Option One";s:3:"two";s:10:"Option Two";s:5:"three";a:2:{s:5:"value";s:12:"Option Three";s:8:"disabled";b:1;}s:4:"four";s:11:"Option Four";}}s:15:"select_optgroup";a:3:{s:4:"type";s:15:"select_optgroup";s:5:"label";s:18:"Select with Groups";s:7:"options";a:2:{i:0;a:1:{s:7:"Group 1";a:2:{i:0;s:10:"Option One";i:1;s:10:"Option Two";}}i:1;a:1:{s:7:"Group 2";a:2:{i:0;s:12:"Option Three";i:1;s:11:"Option Four";}}}}s:6:"toggle";a:5:{s:4:"type";s:6:"toggle";s:5:"label";s:6:"Toggle";s:9:"highlight";i:1;s:7:"options";a:2:{i:1;s:3:"Yes";i:0;s:2:"No";}s:8:"validate";a:1:{s:4:"type";s:4:"bool";}}s:3:"url";a:3:{s:4:"type";s:3:"url";s:5:"label";s:3:"URL";s:11:"placeholder";s:19:"https://crabston.ch";}}}}}}s:7:"buttons";a:2:{s:6:"submit";a:3:{s:4:"type";s:6:"submit";s:5:"value";s:6:"Submit";s:7:"classes";s:15:"btn btn-primary";}s:5:"reset";a:2:{s:4:"type";s:5:"reset";s:5:"value";s:5:"Reset";}}s:7:"process";a:2:{s:7:"message";s:30:"Thank you for your submission!";s:7:"display";s:8:"thankyou";}}}s:11:"frontmatter";s:5344:"title: Form
+sitemap:
+  changefreq: never
+  priority: 0.3
+  lastmod: 01-08-2025
+date: 01-08-2025
+form:
+  name: example-form
+  fields:
+    honeypot:
+      type: honeypot
+
+    tabs:
+      type: tabs
+      active: 1
+      fields:
+        tab1:
+          type: tab
+          title: Contact Information
+          fields:
+
+            names:
+              type: columns
+              fields:
+                column1:
+                  type: column
+                  fields:
+                    firstname:
+                      type: text
+                      label: First Name
+                      placeholder: Eva
+                      validate:
+                        required: true
+                column2:
+                  type: column
+                  fields:
+                    lastname:
+                      type: text
+                      label: Last Name
+                      placeholder: Example
+                      validate:
+                        required: true
+
+            contact_info:
+              type: columns
+              fields:
+                column1:
+                  type: column
+                  fields:
+                    email:
+                      type: email
+                      label: Email
+                      placeholder: email@example.com
+                      validate:
+                        required: true
+                column2:
+                  type: column
+                  fields:
+                    tel:
+                      type: tel
+                      label: Phone
+                      placeholder: +41 12 345 67 89
+
+            subject:
+              type: text
+              label: Subject
+              placeholder: Your Subject
+              validate:
+                required: true
+
+            message:
+              type: textarea
+              label: Message
+              placeholder: Your message here...
+              rows: 5
+              cols: 40
+              validate:
+                required: true
+
+        tab2:
+          type: tab
+          title: Additional Fields
+          fields:
+            section:
+              type: section
+              title: Additional Fields
+              text: This is a section with additional fields that you can add as needed.
+            checkbox:
+              type: checkbox
+              label: Checkbox
+              description: Description for the checkbox
+            #checkboxes:
+            #  type: checkboxes
+            #  label: Mehrere Checkboxen
+            #  default:
+            #    - one
+            #  options:
+            #    one: Option Eins
+            #    two: Option Zwei
+            #    three: Option Drei
+            date:
+              type: date
+              label: Date
+              validate:
+                min: 2020-01-01
+                max: 2025-12-31
+            number:
+              type: number
+              label: Number
+              validate:
+                min: 1
+                max: 10
+            radio:
+              type: radio
+              label: Radio
+              default: two
+              options:
+                one: Option One
+                two: Option Two
+                three: Option Three
+            range:
+              type: range
+              label: Range
+              default: 5
+              validate:
+                min: 1
+                max: 10
+            select:
+              type: select
+              label: Select
+              default: two
+              options:
+                one: Option One
+                two: Option Two
+                three:
+                  value: Option Three
+                  disabled: true
+                four: Option Four
+            select_multiple:
+              type: select
+              label: Multiple Select
+              default: two
+              multiple: true
+              options:
+                one: Option One
+                two: Option Two
+                three:
+                  value: Option Three
+                  disabled: true
+                four: Option Four
+            select_optgroup:
+              type: select_optgroup
+              label: Select with Groups
+              options:
+                - Group 1:
+                    - Option One
+                    - Option Two
+                - Group 2:
+                    - Option Three
+                    - Option Four
+            toggle:
+              type: toggle
+              label: Toggle
+              highlight: 1
+              options:
+                1: Yes
+                0: No
+              validate:
+                type: bool
+            url:
+              type: url
+              label: URL
+              placeholder: https://crabston.ch
+
+  buttons:
+    submit:
+      type: submit
+      value: Submit
+      classes: btn btn-primary
+    reset:
+      type: reset
+      value: Reset
+
+  process:
+    # NOTE: commented out to prevent spam
+    #email:
+    #  from: "{{ config.plugins.email.from }}"
+    #  to:
+    #    - "{{ config.plugins.email.to }}"
+    #    - "{{ form.value.email }}"
+    #  subject: "[Feedback]: {{ form.value.subject|e }}"
+    #  body: "{% include 'forms/data.html.twig' %}"
+    #save:
+    #  fileprefix: feedback-
+    #  dateformat: Ymd-His-u
+    #  extension: txt
+    #  body: "{% include 'forms/data.txt.twig' %}"
+    message: Thank you for your submission!
+    display: thankyou";s:8:"markdown";s:285:"# Form Example
+
+This is an example of a contact form. It includes fields for first name, last name, email, phone, subject, and message. The form can be submitted via email and the data can be saved to a file.
+
+!!! Due to spam and security reasons, form data is neither saved nor sent.
+";}s:7:"storage";a:9:{s:3:"key";s:13:"examples/form";s:11:"storage_key";s:27:"05.examples/07.form|form.en";s:8:"template";s:4:"form";s:17:"storage_timestamp";i:1754217411;s:8:"markdown";a:2:{s:2:"de";a:1:{s:4:"form";i:1754217411;}s:2:"en";a:1:{s:4:"form";i:1754217411;}}s:8:"children";a:1:{s:8:"thankyou";b:0;}s:8:"checksum";s:32:"b547fbf77b6ff363a495a24906ac9230";s:6:"exists";b:1;s:4:"lang";s:2:"en";}}

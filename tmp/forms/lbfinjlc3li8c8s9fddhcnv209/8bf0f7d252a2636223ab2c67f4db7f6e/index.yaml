@@ -1,0 +1,33 @@
+form: flex-pages
+id: 'tmp://forms/session/8bf0f7d252a2636223ab2c67f4db7f6e'
+unique_id: 8bf0f7d252a2636223ab2c67f4db7f6e
+url: '/pages/test01/:add'
+user:
+  username: admin
+  email: admin@admin.com
+timestamps:
+  created: 1763450086
+  updated: 1763450086
+data: null
+files: {  }
+object:
+  type: pages
+  key: test01
+  storage_key: ''
+  timestamp: 0
+  serialized:
+    __META:
+      clone: true
+    storage_key: ''
+    parent_key: ''
+    order: '11.'
+    folder: test01
+    template: item
+    lang: en
+    root: false
+    route: /
+    name: item
+    header:
+      title: test01
+      date: '18-11-2025 08:14'
+    frontmatter: "title: test01\ndate: '18-11-2025 08:14'\n"

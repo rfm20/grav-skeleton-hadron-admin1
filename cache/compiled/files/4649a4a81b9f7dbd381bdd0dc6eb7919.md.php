@@ -1,0 +1,53 @@
+<?php
+return [
+    '@class' => 'Grav\\Common\\File\\CompiledMarkdownFile',
+    'filename' => 'C:/xampp/htdocs/grav/grav-skeleton-hadron+admin1/user/pages/03.kegiatan/kegiatan-2/default.en.md',
+    'modified' => 1764137341,
+    'size' => 3451,
+    'data' => [
+        'header' => [
+            'title' => 'Bidang PKD',
+            'date' => '26-11-2025 06:26',
+            'visible' => true
+        ],
+        'frontmatter' => 'title: \'Bidang PKD\'
+date: \'26-11-2025 06:26\'
+visible: true',
+        'markdown' => '## Tupoksi Penataan dan Kerjasama Desa
+Untuk melaksanakan tugas sebagaimana dimaksud dalam Pasal 20, Bidang Penataan dan Kerjasama Desa mempunyai Fungsi :
+
+1. Penyusunan program kerja Bidang Penataan dan Kerjasama Desa.
+2. Penyiapan bahan dan perumusan kebijakan teknis di bidang penataan desa, kerjasama desa dan kawasan perdesaan, kelembagaan, sarana dan prasarana pelayanan pemerintahan.
+3. Penyelenggaraan urusan pemerintahan di bidang penataan desa, kerjasama desa dan kawasan perdesaan, kelembagaan, sarana dan prasarana pelayanan pemerintahan sesuai ketentuan peraturan perundang-undangan.
+4. Pemberian dukungan terhadap penyelenggaraan pemerintahan daerah di bidang penataan desa, kerjasama desa dan kawasan perdesaan, kelembagaan, sarana dan prasarana pelayanan pemerintahan sesuai ketentuan peraturan perundang-undangan.
+5. Pengoordinasian terhadap pelaksanaan tugas dan fungsi di bidang penataan desa, kerjasama desa dan kawasan perdesaan, kelembagaan, sarana dan prasarana pelayanan pemerintahan.
+6. Pembinaan dan pengawasan terhadap pelaksanaan tugas dan fungsi di bidang penataan desa, kerjasama desa dan kawasan perdesaan, kelembagaan, sarana dan prasarana pelayanan pemerintahan sesuai ketentuan peraturan perundang-undangan.
+7. Pelaksanaan monitoring, evaluasi dan pelaporan terhadap pelaksanaan tugas dan fungsi di bidang penataan desa, kerjasaa desa dan kawasan perdesaan, kelembagan, sarana dan prasarana pelayanan pemerintahan.
+8. Pemberian saran dan pertimbangan kepada Kepala Dinas berkenaan dengan tugas dan fungsi di bidang penataan desa, kerjasama desa dan kawasan perdesaan, kelembagaan, sarana dan prasarana pelayanan pemerintahan.
+9. Pelaksanaan fungsi lain yang diberikan oleh Kepala Dinas di bidang penataan dan kerjasama desa sesuai ketentuan peraturan perundang-undangan.
+
+
+### Bidang Penataan dan Kerjasama Desa
+
+Bidang Penataan dan Kerjasama Desa mempunyai tugas menyiapkan bahan dan merumuskan kebijakan teknis di bidang penataan desa, kerjasama desa dan kawasan perdesaan, kelembagaan, sarana dan prasarana pelayanan pemerintahan, serta bertanggungjawab memimpin seluruh kegiatan pelayanan dan administrasi di bidang penataan dan kerjasama desa.
+
+### Seksi Penataan Desa
+
+Seksi Penataan Desa sebagaimana dimaksud dalam Pasal 29 ayat (1) hurud a, mempunyai tugas mengumpul dan mengolah bahan kebijakan teknis di bidang penataan desa, serta mengendalikan pelaksanaan kegiatan sesuai dengan tugas dan fungsinya.
+
+### Seksi Kerjasama Desa dan Kawasan Perdesaan
+
+Seksi Kerjasama Desa dan Kawasan Perdesaan sebagaimana dimaksud dalam pasal 29 ayat (1) huruf b, mempunyai tugas mengumpul dan mengolah bahan kebijakan teknis di bidang kerjasama desa dan kawasan perdesaan, serta mengendalikan pelaksanaan kegiatan sesuai dengan tugas dan fungsinya.
+
+### Seksi Kelembagaan, Sarana dan Prasarana Pelayanan Pemerintahan
+
+Seksi Kelembagaan, Sarana dan Prasarana Pelayanan Pemerintahan sebagaimana dimaksud dalam Pasal 29 ayat (1) huruf c, mempunyai tugas mengumpul dan mengolah bahan kebijakan teknis di bidang kelembagaan, sarana dan prasarana kegiatan sesuai dengan tugas dan fungsinya.
+
+===
+## Publikasi PKD
+[Data BUMDESMA 2020](https://docs.google.com/spreadsheets/d/1SEQYqoTcddxn5kHEaNRxlYAhlTqaGD1P/edit?gid=129243836#gid=129243836)
+
+[Data Kawasan 2019](https://docs.google.com/spreadsheets/d/13HrJ6N5X0dt1jTI6WkjiC4e29wY1cBJR/edit?rtpof=true&sd=true)
+'
+    ]
+];

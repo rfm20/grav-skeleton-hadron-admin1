@@ -1,0 +1,70 @@
+<?php
+return [
+    '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
+    'filename' => 'C:/xampp/htdocs/grav/grav-skeleton-hadron+admin1/user/plugins/email-sendgrid/blueprints.yaml',
+    'modified' => 1754217414,
+    'size' => 1063,
+    'data' => [
+        'name' => 'Email Sendgrid',
+        'slug' => 'email-sendgrid',
+        'type' => 'plugin',
+        'version' => '1.0.0',
+        'testing' => false,
+        'description' => 'Sendgrid integration for new Email plugin',
+        'icon' => 'envelope',
+        'author' => [
+            'name' => 'Team Grav',
+            'email' => 'devs@getgrav.org'
+        ],
+        'homepage' => 'https://github.com/getgrav/grav-plugin-email-sendgrid',
+        'keywords' => 'grav, plugin, etc',
+        'bugs' => 'https://github.com/getgrav/grav-plugin-email-sendgrid/issues',
+        'docs' => 'https://github.com/getgrav/grav-plugin-email-sendgrid/blob/develop/README.md',
+        'license' => 'MIT',
+        'dependencies' => [
+            0 => [
+                'name' => 'grav',
+                'version' => '>=1.7.0'
+            ],
+            1 => [
+                'name' => 'email',
+                'version' => '>=4.0.0'
+            ]
+        ],
+        'form' => [
+            'validation' => 'loose',
+            'fields' => [
+                'enabled' => [
+                    'type' => 'toggle',
+                    'label' => 'PLUGIN_ADMIN.PLUGIN_STATUS',
+                    'highlight' => 1,
+                    'default' => 0,
+                    'options' => [
+                        1 => 'PLUGIN_ADMIN.ENABLED',
+                        0 => 'PLUGIN_ADMIN.DISABLED'
+                    ],
+                    'validate' => [
+                        'type' => 'bool'
+                    ]
+                ],
+                'transport' => [
+                    'type' => 'select',
+                    'size' => 'small',
+                    'label' => 'Transport',
+                    'default' => 'api',
+                    'options' => [
+                        'api' => 'API (faster)',
+                        'smtp' => 'SMTP'
+                    ]
+                ],
+                'api_key' => [
+                    'type' => 'text',
+                    'label' => 'API Key',
+                    'validate' => [
+                        'required' => true
+                    ]
+                ]
+            ]
+        ]
+    ]
+];

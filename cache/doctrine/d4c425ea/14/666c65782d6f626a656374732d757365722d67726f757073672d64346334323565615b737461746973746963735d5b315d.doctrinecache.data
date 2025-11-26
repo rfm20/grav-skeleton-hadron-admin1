@@ -1,0 +1,2 @@
+1763461702
+O:49:"Grav\Common\Flex\Types\UserGroups\UserGroupObject":4:{s:4:"type";s:11:"user-groups";s:3:"key";s:10:"statistics";s:8:"elements";a:5:{s:6:"access";a:1:{s:5:"admin";a:1:{s:10:"statistics";b:1;}}s:7:"enabled";b:1;s:12:"readableName";s:15:"Site Statistics";s:11:"description";s:35:"Kann Statistiken der Seite einsehen";s:9:"groupname";s:10:"statistics";}s:7:"storage";a:3:{s:11:"storage_key";s:10:"statistics";s:3:"key";s:10:"statistics";s:17:"storage_timestamp";i:1754217411;}}

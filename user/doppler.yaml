@@ -1,0 +1,3 @@
+setup:
+  project: usehadron-dev
+  config: prd

@@ -1,0 +1,9 @@
+1763450353
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:13:"home/_contact";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:1:{s:5:"title";s:7:"Contact";}s:11:"frontmatter";s:14:"title: Contact";s:8:"markdown";s:503:"## Contact
+
+Do you have a question about Hadron? Write us an e-mail to [hadron@crabston.dev](mailto:hadron@crabston.dev).
+
+Are you searching for a web developer or web designer, who builds your new website with Hadron? You can find more information on the website of [Crabston GmbH](https://crabston.ch/?utm_source=usehadron.dev&utm_medium=contact), the developer of hadron.
+
+[Contact form](https://crabston.ch/über/kontakt?classes=btn,btn-secondary,btn-lg&utm_source=usehadron.dev&utm_medium=contact)
+";}s:7:"storage";a:8:{s:3:"key";s:13:"home/_contact";s:11:"storage_key";s:27:"01.home/03._contact|text.en";s:8:"template";s:4:"text";s:17:"storage_timestamp";i:1754217411;s:8:"markdown";a:2:{s:2:"de";a:1:{s:4:"text";i:1754217411;}s:2:"en";a:1:{s:4:"text";i:1754217411;}}s:8:"checksum";s:32:"f001c28d414112f00e714abe3e4a5650";s:6:"exists";b:1;s:4:"lang";s:2:"en";}}

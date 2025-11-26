@@ -1,0 +1,31 @@
+1764138483
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:19:"kegiatan/kegiatan-1";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:3:{s:5:"title";s:13:"Bidang Pemdes";s:4:"date";s:16:"26-11-2025 06:26";s:7:"visible";b:1;}s:11:"frontmatter";s:61:"title: 'Bidang Pemdes'
+date: '26-11-2025 06:26'
+visible: true";s:8:"markdown";s:2261:"[div class="columns"]
+[div class="column col-9 col-md-12 extra-spacing"]
+
+===
+
+## Tupoksi Pemerintahan Desa
+Bidang Pemerintahan Desa mempunyai tugas menyiapkan bahan dan merumuskan kebijakan teknis di bidang perencanaan dan evaluasi perkembangan desa dan kelurahan, aparatur pemerintahan desa, keuangan dan aset desa, serta bertanggung jawab memimpin seluruh kegiatan pelayanan dan administrasi di bidang pemerintahan desa.
+
+Untuk melaksanakan tugas Bidang Pemerintaham Desa mempunyai fungsi:
+
+1. Penyusunan program kerja bidang Pemerintahan Desa.
+2. Penyiapan bahan dan Perumusan Kebijakan Teknis di bidang perencanaan dan evaluasi perkembangan desa dan kelurahan, aparatur pemerintahan desa, serta keuangan dan aset desa.
+3. Penyelenggaraan urusan pemerintahan di bidang perencanaan dan evaluasi perkembangan desa dan kelurahan, aparatur pemerintahan desa, serta keuangan dan aset desa sesuai ketentuan peraturan perundang-undangan.
+4. Pemberian dukungan terhadap penyelenggaraan pemerintahan desa di bidang perencanaan dan evaluasi perkembangan desa dan kelurahan, aparatur pemerintahan desa, serta keuangan dan aset desa sesuai ketentuan perundang-undangan.
+5. Pengordinasian terhadap pelaksanaan tugas dan fungsi di bidang perencanaan dan evaluasi perkembangan desa dan kelurahan, aparatur pemerintahan desa, serta keuangan dan aset desa.
+6. Pembinaan dan pengawasan terhadap pelaksanaan tugas dan fungsi di bidang perencanaan dan evaluasi perkembangan desa dan kelurahan, aparatur pemerintahan desa, serta keuangan dan aset desa sesuai ketentuan peraturan perundang-undangan.
+7. Pelaksanaan monitoring, evaluasi dan pelaporan terhadap pelaksanaan tugas dan fungsi di bidang perencanaan dan evaluasi perkembangan desa dan kelurahan, aparatur pemerintahan desa, serta keuangan dan aset desa.
+8. Pemberian saran dan pertimbangan kepada kepala Dinas berkenaan dengan tugas dan fungsi di bidang perencanaan dan evaluasi perkembangan desa dan kelurahan, aparatur pemerintahan des, serta keuangan dan aset desa.
+9. Pelaksanaan fungsi lain yang diberikan oleh Kepala Dinas di bidang pemerintahan desa seusai ketentuan peraturan perundang-undangan.
+
+[/div]
+
+[div class="column col-3 col-md-12"]
+[div style="position: sticky; top: 4rem;"][TOC][/div]
+[/div]
+
+[/div]
+";}s:7:"storage";a:8:{s:3:"key";s:19:"kegiatan/kegiatan-1";s:11:"storage_key";s:33:"03.kegiatan/kegiatan-1|default.en";s:8:"template";s:7:"default";s:17:"storage_timestamp";i:1764137064;s:8:"markdown";a:1:{s:2:"en";a:1:{s:7:"default";i:1764137064;}}s:8:"checksum";s:32:"9f8ad8e20b0842a04cff20bf6697c42b";s:6:"exists";b:1;s:4:"lang";s:2:"en";}}

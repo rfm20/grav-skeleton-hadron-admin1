@@ -1,0 +1,17 @@
+1764640774
+a:2:{s:7:"content";s:626:"
+<section class="section modular-sbs-list sbs sbs-list ">
+    <section class="container grid-lg">
+        	<div class="sbs layout-left">
+	<div class="sbs-image">
+		<img src="/examples/modular/image.webp" alt="The image description">
+	</div>
+
+	<div class="sbs-content center-left">
+		<body><h2 id="sbs-item"><a href="#sbs-item" class="toc-anchor before" data-anchor-icon="#" aria-label="Anchor"></a>SbS Item</h2>
+<p>The SbS item is a single block of an SbS layout. It can be positioned left or right and can contain an image and text. The text can be aligned to 9 positions.</p></body>
+	</div>
+</div>
+    </section>
+</section>
+";s:12:"content_meta";N;}

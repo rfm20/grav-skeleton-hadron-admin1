@@ -1,0 +1,80 @@
+<?php
+
+use Twig\Environment;
+use Twig\Error\LoaderError;
+use Twig\Error\RuntimeError;
+use Twig\Markup;
+use Twig\Sandbox\SecurityError;
+use Twig\Sandbox\SecurityNotAllowedTagError;
+use Twig\Sandbox\SecurityNotAllowedFilterError;
+use Twig\Sandbox\SecurityNotAllowedFunctionError;
+use Twig\Source;
+use Twig\Template;
+
+/* @Page:C:/xampp/htdocs/grav/grav-skeleton-hadron+admin1/user/pages/03.examples/02.modular/04._text */
+class __TwigTemplate_d63d345cab7c99f7966695b0486beeeccaaa07e4de6d882b5e93403fab103fdb extends \Twig\Template
+{
+    public function __construct(Environment $env)
+    {
+        parent::__construct($env);
+
+        $this->parent = false;
+
+        $this->blocks = [
+        ];
+    }
+
+    protected function doDisplay(array $context, array $blocks = [])
+    {
+        // line 1
+        echo "
+<section class=\"section modular-text \">
+    <section class=\"container grid-lg\">
+            <body><h2 id=\"text-module\"><a href=\"#text-module\" class=\"toc-anchor before\" data-anchor-icon=\"#\" aria-label=\"Anchor\"></a>Text Module</h2>
+<p>This is the text module for the modular page. It is used to display text content, such as paragraphs, headings, and other text elements without additional formatting. </p>
+<p>Lorem ipsum <strong>dolor sit amet</strong>, consectetur adipiscing elit. Inceptos cum arcu nunc <em>montes eleifend praesent</em> nulla dolor risus mattis ante taciti. Erat dictum <del>felis pharetra arcu curabitur</del> inceptos euismod aliquet molestie eros at ullamcorper. Ipsum risus <a href=\"#\">praesent ante vestibulum ullamcorper</a> conubia vitae ad conubia felis montes tortor. Quis dui molestie massa semper arcu nisl suscipit in nulla natoque per curabitur.</p>
+<blockquote>
+<p>Mus arcu luctus tellus justo auctor ad faucibus semper urna accumsan hac feugiat. Proin primis commodo netus ultrices ullamcorper dictumst massa arcu netus ac lacinia tempor. Placerat aptent ultrices cras a eu diam mi auctor suscipit at vivamus ultricies. Tellus sagittis pellentesque commodo faucibus eu hac feugiat at primis faucibus mus orci. Est netus turpis justo dui lobortis gravida neque nunc ridiculus mi netus morbi.</p>
+</blockquote>
+<figure class=\"image-caption caption-left figure-left\"><img src=\"/grav/grav-skeleton-hadron%20admin1/examples/modular/_text/chase-moyer-730496-unsplash.jpg?resize=600,450\" alt=\"Sky and Mountain\" title=\"Photo by Chase Moyer on Unsplash\" class=\"caption caption-left figure-left\"><figcaption class=\"\">Photo by Chase Moyer on Unsplash</figcaption></figure>
+<p>Turpis in scelerisque elementum pretium cubilia sollicitudin dictumst velit magna aenean facilisi tempus. Dui ridiculus nullam dictumst diam euismod venenatis consectetur integer convallis venenatis molestie torquent. Fermentum elit elementum auctor lacus egestas urna scelerisque mattis quam penatibus per venenatis. Proin neque cubilia posuere viverra porta eu arcu amet sit commodo maecenas feugiat. Consectetur turpis ante sed venenatis phasellus at dui nunc quisque rhoncus pretium dignissim.</p>
+<div style=\"clear: both;\"></div>
+<p>Elementum netus purus volutpat aliquam euismod aliquam malesuada magnis auctor bibendum litora elit. Mus dictum curae at euismod imperdiet mi ante mi scelerisque primis facilisi diam. Sed porttitor curabitur risus metus nullam litora gravida mattis pellentesque fermentum netus metus. Tempus aenean eget in class tortor integer potenti laoreet diam nostra ante elit. Pretium commodo potenti id nam arcu odio ac leo eu egestas dignissim a.</p>
+<h3 id=\"title-2\"><a href=\"#title-2\" class=\"toc-anchor before\" data-anchor-icon=\"#\" aria-label=\"Anchor\"></a>Title 2</h3>
+<p>Lorem ipsum <strong>dolor sit amet</strong>, consectetur adipiscing elit. Inceptos cum arcu nunc <em>montes eleifend praesent</em> nulla dolor risus mattis ante taciti. Erat dictum <del>felis pharetra arcu curabitur</del> inceptos euismod aliquet molestie eros at ullamcorper. Ipsum risus <a href=\"#\">praesent ante vestibulum ullamcorper</a> conubia vitae ad conubia felis montes tortor. Quis dui molestie massa semper arcu nisl suscipit in nulla natoque per curabitur.</p>
+<blockquote>
+<p>Mus arcu luctus tellus justo auctor ad faucibus semper urna accumsan hac feugiat. Proin primis commodo netus ultrices ullamcorper dictumst massa arcu netus ac lacinia tempor. Placerat aptent ultrices cras a eu diam mi auctor suscipit at vivamus ultricies. Tellus sagittis pellentesque commodo faucibus eu hac feugiat at primis faucibus mus orci. Est netus turpis justo dui lobortis gravida neque nunc ridiculus mi netus morbi.</p>
+</blockquote>
+<h4 id=\"subtitle\"><a href=\"#subtitle\" class=\"toc-anchor before\" data-anchor-icon=\"#\" aria-label=\"Anchor\"></a>Subtitle</h4>
+<figure class=\"image-caption caption-right figure-right\"><img src=\"/grav/grav-skeleton-hadron%20admin1/examples/modular/_text/chase-moyer-730496-unsplash.jpg?resize=600,450\" alt=\"Sky and Mountain\" title=\"Photo by Chase Moyer on Unsplash\" class=\"caption caption-right figure-right\"><figcaption class=\"\">Photo by Chase Moyer on Unsplash</figcaption></figure>
+<p>Turpis in scelerisque elementum pretium cubilia sollicitudin dictumst velit magna aenean facilisi tempus. Dui ridiculus nullam dictumst diam euismod venenatis consectetur integer convallis venenatis molestie torquent. Fermentum elit elementum auctor lacus egestas urna scelerisque mattis quam penatibus per venenatis. Proin neque cubilia posuere viverra porta eu arcu amet sit commodo maecenas feugiat. Consectetur turpis ante sed venenatis phasellus at dui nunc quisque rhoncus pretium dignissim.</p>
+<div style=\"clear: both;\"></div>
+<p>Elementum netus purus volutpat aliquam euismod aliquam malesuada magnis auctor bibendum litora elit. Mus dictum curae at euismod imperdiet mi ante mi scelerisque primis facilisi diam. Sed porttitor curabitur risus metus nullam litora gravida mattis pellentesque fermentum netus metus. Tempus aenean eget in class tortor integer potenti laoreet diam nostra ante elit. Pretium commodo potenti id nam arcu odio ac leo eu egestas dignissim a.</p></body>
+    </section>
+</section>
+";
+    }
+
+    public function getTemplateName()
+    {
+        return "@Page:C:/xampp/htdocs/grav/grav-skeleton-hadron+admin1/user/pages/03.examples/02.modular/04._text";
+    }
+
+    public function getDebugInfo()
+    {
+        return array (  30 => 1,);
+    }
+
+    /** @deprecated since 1.27 (to be removed in 2.0). Use getSourceContext() instead */
+    public function getSource()
+    {
+        @trigger_error('The '.__METHOD__.' method is deprecated since version 1.27 and will be removed in 2.0. Use getSourceContext() instead.', E_USER_DEPRECATED);
+
+        return $this->getSourceContext()->getCode();
+    }
+
+    public function getSourceContext()
+    {
+        return new Source("", "@Page:C:/xampp/htdocs/grav/grav-skeleton-hadron+admin1/user/pages/03.examples/02.modular/04._text", "");
+    }
+}

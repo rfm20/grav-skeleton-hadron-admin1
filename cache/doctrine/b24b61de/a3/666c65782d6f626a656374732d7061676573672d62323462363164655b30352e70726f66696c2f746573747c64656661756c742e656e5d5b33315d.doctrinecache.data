@@ -1,0 +1,5 @@
+1764135787
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:11:"profil/test";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:3:{s:5:"title";s:4:"Test";s:4:"date";s:16:"26-11-2025 06:26";s:7:"visible";b:1;}s:11:"frontmatter";s:50:"title: Test
+date: '26-11-2025 06:26'
+visible: true";s:8:"markdown";s:10:"# aaa
+test";}s:7:"storage";a:8:{s:3:"key";s:11:"profil/test";s:11:"storage_key";s:25:"05.profil/test|default.en";s:8:"template";s:7:"default";s:17:"storage_timestamp";i:1764135027;s:8:"markdown";a:1:{s:2:"en";a:1:{s:7:"default";i:1764135027;}}s:8:"checksum";s:32:"0969ed1d6a4a132d4fc6819d1bea8cf0";s:6:"exists";b:1;s:4:"lang";s:2:"en";}}

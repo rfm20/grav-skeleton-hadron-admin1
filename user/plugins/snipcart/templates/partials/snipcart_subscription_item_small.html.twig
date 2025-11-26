@@ -1,0 +1,31 @@
+{% from "partials/snipcart_macros.html.twig" import add_to_cart %}
+{% set snipcart_image = page.media.images|first %}
+
+<div class="snipcart-item block" >
+
+    <h3><a href="{{ page.url }}">{{ page.header.title }}</a></h3>
+    <div class="snipcart-thumb">
+        {% if snipcart_image %}
+            <a href="{{ page.url }}">{{ snipcart_image.cropResize(200,200).html('page.header.title','snipcart-thumb-image')|raw }}</a>
+        {% endif %}
+        <span class="snipcart-price">
+            ${{ page.header.snipcart.price }}<span class="snipcart-interval">/{{ page.header.snipcart.interval }}</span>
+        </span>
+    </div>
+    <div class="snipcart-details">
+        <p>
+            <a href="{{ page.url }}"
+               class="button button-small">
+                <i class="fa fa-info-circle"></i> {{ 'PLUGIN_SNIPCART.TEMPLATES.DETAILS'|t|e }}
+            </a>
+            {{ add_to_cart(
+                page.header.title,
+                page.url,
+                snipcart_image,
+                page.header.snipcart,
+                'button',
+                'PLUGIN_SNIPCART.TEMPLATES.ADD'|t|e,
+            ) | raw }}
+        </p>
+    </div>
+</div>

@@ -1,0 +1,14 @@
+1764640773
+a:2:{s:7:"content";s:904:"
+<section id="" class="section modular-hero hero parallax text-light " style="background-image: url('/grav/grav-skeleton-hadron+admin1/images/h/e/r/o/-/hero-9e7eefdd.jpg');">
+	<div class="image-overlay"></div>
+	<section class="container grid-lg" style="text-align: center">
+				
+		<body><h1>Modular Page</h1>
+<h2 id="page-with-independent-mod"><a href="#page-with-independent-mod" class="toc-anchor before" data-anchor-icon="#" aria-label="Anchor"></a>Page with independent modules</h2>
+<p>This modular page consists of several independent modules that can be combined and arranged in any way. Each module can be configured individually and contains its own content.</p>
+<p>This is the Hero module with a background image, a title, and a subtitle. It can optionally be styled with a parallax effect or other styles.</p></body>
+	</section>
+	<i id="to-start" class="pulse fa fa-angle-down"></i>
+</section>
+";s:12:"content_meta";N;}
