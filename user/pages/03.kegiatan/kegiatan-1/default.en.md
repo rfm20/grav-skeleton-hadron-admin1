@@ -2,32 +2,141 @@
 title: 'Bidang Pemdes'
 date: '26-11-2025 06:26'
 visible: true
+process:
+  markdown: true
+  twig: true
 ---
 
-[div class="columns"]
-[div class="column col-9 col-md-12 extra-spacing"]
+<style>
+/* ================================
+   WRAPPER HALAMAN
+================================ */
+.page-wrapper {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 15px;
+}
 
-===
+/* ================================
+   TITLE STYLE (SAMA SEPERTI PROFIL BADAN)
+================================ */
+.section-title {
+  text-align: center;
+  margin: 0 0 40px 0;
+  padding-bottom: 15px;
+  border-bottom: 3px solid #0d6e4f;
+  font-size: 2.2rem;
+  font-weight: 800;
+  color: #0d6e4f;
+}
 
-## Tupoksi Pemerintahan Desa
-Bidang Pemerintahan Desa mempunyai tugas menyiapkan bahan dan merumuskan kebijakan teknis di bidang perencanaan dan evaluasi perkembangan desa dan kelurahan, aparatur pemerintahan desa, keuangan dan aset desa, serta bertanggung jawab memimpin seluruh kegiatan pelayanan dan administrasi di bidang pemerintahan desa.
+/* ================================
+   CARD STYLE (MATCH PROFIL BADAN)
+================================ */
+.section-card {
+  background: #ffffff;
+  padding: 30px 35px;
+  margin-bottom: 35px;
+  border-radius: 18px;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.08);
+}
 
-Untuk melaksanakan tugas Bidang Pemerintaham Desa mempunyai fungsi:
+/* ================================
+   HEADING
+================================ */
+.section-card h2,
+.section-card h3,
+.section-card h4 {
+  color: #0d6e4f;
+  font-weight: 700;
+  margin-top: 0;
+  margin-bottom: 18px;
+  font-size: 1.65rem;
+}
 
-1. Penyusunan program kerja bidang Pemerintahan Desa.
-2. Penyiapan bahan dan Perumusan Kebijakan Teknis di bidang perencanaan dan evaluasi perkembangan desa dan kelurahan, aparatur pemerintahan desa, serta keuangan dan aset desa.
-3. Penyelenggaraan urusan pemerintahan di bidang perencanaan dan evaluasi perkembangan desa dan kelurahan, aparatur pemerintahan desa, serta keuangan dan aset desa sesuai ketentuan peraturan perundang-undangan.
-4. Pemberian dukungan terhadap penyelenggaraan pemerintahan desa di bidang perencanaan dan evaluasi perkembangan desa dan kelurahan, aparatur pemerintahan desa, serta keuangan dan aset desa sesuai ketentuan perundang-undangan.
-5. Pengordinasian terhadap pelaksanaan tugas dan fungsi di bidang perencanaan dan evaluasi perkembangan desa dan kelurahan, aparatur pemerintahan desa, serta keuangan dan aset desa.
-6. Pembinaan dan pengawasan terhadap pelaksanaan tugas dan fungsi di bidang perencanaan dan evaluasi perkembangan desa dan kelurahan, aparatur pemerintahan desa, serta keuangan dan aset desa sesuai ketentuan peraturan perundang-undangan.
-7. Pelaksanaan monitoring, evaluasi dan pelaporan terhadap pelaksanaan tugas dan fungsi di bidang perencanaan dan evaluasi perkembangan desa dan kelurahan, aparatur pemerintahan desa, serta keuangan dan aset desa.
-8. Pemberian saran dan pertimbangan kepada kepala Dinas berkenaan dengan tugas dan fungsi di bidang perencanaan dan evaluasi perkembangan desa dan kelurahan, aparatur pemerintahan des, serta keuangan dan aset desa.
-9. Pelaksanaan fungsi lain yang diberikan oleh Kepala Dinas di bidang pemerintahan desa seusai ketentuan peraturan perundang-undangan.
+/* ================================
+   PARAGRAPH
+================================ */
+.section-card p {
+  color: #444;
+  line-height: 1.65;
+  margin-bottom: 15px;
+  text-align: justify;
+}
 
-[/div]
+/* ================================
+   LIST ANGKA STYLING CANTIK
+================================ */
+.pretty-list {
+  list-style: none;
+  counter-reset: my-counter;
+  padding-left: 0;
+}
 
-[div class="column col-3 col-md-12"]
-[div style="position: sticky; top: 4rem;"][TOC][/div]
-[/div]
+.pretty-list li {
+  counter-increment: my-counter;
+  background: #f0fdf4;
+  margin-bottom: 14px;
+  padding: 16px 20px 16px 55px;
+  border-radius: 12px;
+  border-left: 6px solid #0d6e4f;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+  color: #064e3b;
+  font-size: 1.07rem;
+  line-height: 1.55;
+  position: relative;
+}
 
-[/div]
+.pretty-list li::before {
+  content: counter(my-counter) ".";
+  position: absolute;
+  left: 18px;
+  top: 50%;
+  transform: translateY(-50%);
+  color: #0d6e4f;
+  font-weight: 800;
+  font-size: 1.2rem;
+}
+</style>
+
+<div class="page-wrapper">
+
+<div class="section-title">Bidang Pemerintahan Desa</div>
+
+<div class="section-card">
+
+<h2>Tugas Pokok & Fungsi (Tupoksi)</h2>
+
+<p>
+Bidang Pemerintahan Desa mempunyai tugas menyiapkan bahan dan merumuskan kebijakan teknis di bidang perencanaan dan evaluasi perkembangan desa dan kelurahan, aparatur pemerintahan desa, keuangan dan aset desa, serta melaksanakan seluruh kegiatan pelayanan dan administrasi terkait pemerintahan desa.
+</p>
+
+<p>
+Untuk melaksanakan tugas tersebut, Bidang Pemerintahan Desa menyelenggarakan fungsi sebagai berikut:
+</p>
+
+<ul class="pretty-list">
+
+<li>Penyusunan program kerja bidang Pemerintahan Desa.</li>
+
+<li>Penyiapan bahan dan perumusan kebijakan teknis di bidang perencanaan dan evaluasi perkembangan desa dan kelurahan, aparatur pemerintahan desa, serta keuangan dan aset desa.</li>
+
+<li>Penyelenggaraan urusan pemerintahan di bidang perencanaan dan evaluasi perkembangan desa dan kelurahan, aparatur pemerintahan desa, serta keuangan dan aset desa sesuai ketentuan peraturan perundang-undangan.</li>
+
+<li>Pemberian dukungan terhadap penyelenggaraan pemerintahan desa terkait perencanaan dan evaluasi perkembangan desa/kelurahan, aparatur pemerintahan desa, serta keuangan dan aset desa.</li>
+
+<li>Pengordinasian pelaksanaan tugas dan fungsi perencanaan dan evaluasi perkembangan desa dan kelurahan, aparatur pemerintahan desa, serta keuangan dan aset desa.</li>
+
+<li>Pembinaan dan pengawasan terhadap pelaksanaan tugas dan fungsi di bidang pemerintahan desa sesuai ketentuan peraturan perundang-undangan.</li>
+
+<li>Pelaksanaan monitoring, evaluasi, dan pelaporan terhadap penyelenggaraan tugas dan fungsi bidang pemerintahan desa.</li>
+
+<li>Pemberian saran dan pertimbangan kepada Kepala Dinas mengenai pelaksanaan tugas dan fungsi di bidang pemerintahan desa.</li>
+
+<li>Pelaksanaan tugas lain yang diberikan oleh Kepala Dinas sesuai ketentuan peraturan perundang-undangan.</li>
+
+</ul>
+
+</div>
+
+</div>

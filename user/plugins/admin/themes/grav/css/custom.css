@@ -1,0 +1,56 @@
+/* HILANGKAN ikon link di samping nomor telepon */
+a[href^="tel:"]::after,
+a[href^="mailto:"]::after,
+a[target="_blank"]::after {
+  content: none !important;
+  display: none !important;
+}
+
+/* Kalau masih bandel dari svg */
+.footer a svg,
+.footer a i {
+  display: none !important;
+}
+
+.news-card{
+  background: #fff;
+  border-radius: 12px;
+  padding: 12px;
+  margin: 5px;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.08);
+  transition: 0.3s;
+  text-align: left;
+}
+
+.news-card:hover{
+  transform: translateY(-5px);
+}
+
+.news-card img{
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
+
+.news-card h4{
+  margin: 5px 0;
+  font-size: 18px;
+  color: #003366;
+}
+
+.news-card p{
+  font-size: 14px;
+  line-height: 1.6;
+  color: #555;
+}
+
+.read-more{
+  display: inline-block;
+  margin-top: 6px;
+  color: #0055aa;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.read-more:hover{
+  text-decoration: underline;
+}

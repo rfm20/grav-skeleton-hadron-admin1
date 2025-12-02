@@ -1,4 +1,5 @@
 ---
+language: en
 title: Home
 slug: home
 content:

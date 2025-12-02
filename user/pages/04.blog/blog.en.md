@@ -38,9 +38,10 @@ content:
         dir: asc
     pagination: true
     url_taxonomy_filters: true
-media_order: d2ab9aa882445724d62a7b0553a85bd74488176a-unsplashtiagogerken.jpg
+media_order: header.webp
 ---
+
+
 
 # Berita Terbaru
 ## Informasi terkini dari Pemerintah Provinsi Kalimantan Barat
-This is an example blog page in Grav with Hadron. It shows how a blog can look alike and what features it offers.

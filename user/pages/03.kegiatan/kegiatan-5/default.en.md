@@ -2,61 +2,129 @@
 title: 'Data SAKIP'
 date: '26-11-2025 06:26'
 visible: true
+process:
+  markdown: true
+  twig: true
 ---
 
-## Data SAKIP
-PEDOMAN TEKNIS AKIP INTERNAL DPMD
+<style>
+/* ================================
+   WRAPPER HALAMAN
+================================ */
+.page-wrapper {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 20px 15px 60px;
+}
 
-PEDOMAN TEKNIS PERENCANAAN KINERJA DAN ANGGARAN DPMD
+/* ================================
+   TITLE STYLE
+================================ */
+.section-title {
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 800;
+  color: #0d6e4f;
+  margin-bottom: 35px;
+  padding-bottom: 12px;
+  border-bottom: 3px solid #0d6e4f;
+}
 
-LAKIP DPMD TAHUN 2024
+/* ================================
+   CARD BOX
+================================ */
+.card {
+  background: #ffffff;
+  padding: 28px 32px;
+  border-radius: 18px;
+  box-shadow: 0 4px 18px rgba(0,0,0,0.08);
+  margin-bottom: 35px;
+}
 
-LAPORAN MONEV RENAKSI TRIWULAN 1 DPMD TAHUN 2025 (eSAKIP)
+/* ================================
+   SUBTITLE / HEADING
+================================ */
+.card h2 {
+  margin-top: 0;
+  color: #0d6e4f;
+  font-weight: 700;
+  font-size: 1.7rem;
+  margin-bottom: 20px;
+}
 
-LKPJ DPMD DPMD TAHUN 2024
+/* ================================
+   LIST STYLE
+================================ */
+.link-list {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  margin-top: 10px;
+}
 
-LPPD DPMD TAHUN 2024
+.link-item {
+  background: #0d6e4f !important;
+  color: #ffffff !important;
+  padding: 14px 18px;
+  border-radius: 12px;
+  text-align: center;
+  font-weight: 600;
+  transition: 0.25s ease;
+  display: block;
+  width: 100%;
+}
 
-RENCANA AKSI DPMD TAHUN 2025
+.link-item:hover {
+  background: #0b5d42;
+  transform: translateY(-2px);
+}
+</style>
 
-RENCANA KERJA DPMD TAHUN 2025
+<div class="page-wrapper">
 
-RENSTRA DPMD TAHUN 2024-2026
+<div class="section-title">Data SAKIP</div>
 
-PERJANKIN 2025
+<div class="card">
+<h2>Dokumen SAKIP</h2>
 
-LAPORAN REALISASI ANGGARAN TAHUN 2024
+<div class="link-list">
 
-CATATAN ATAS LAPORAN KEUANGAN (CALK) TAHUN 2024
+<a class="link-item">📄 Pedoman Teknis AKIP Internal DPMD</a>
+<a class="link-item">📄 Pedoman Teknis Perencanaan Kinerja dan Anggaran DPMD</a>
+<a class="link-item">📄 LAKIP DPMD Tahun 2024</a>
+<a class="link-item">📄 Laporan Monev Renaksi Triwulan 1 DPMD 2025 (e-SAKIP)</a>
+<a class="link-item">📄 LKPJ DPMD Tahun 2024</a>
+<a class="link-item">📄 LPPD DPMD Tahun 2024</a>
+<a class="link-item">📄 Rencana Aksi DPMD Tahun 2025</a>
+<a class="link-item">📄 Rencana Kerja DPMD Tahun 2025</a>
+<a class="link-item">📄 Renstra DPMD 2024–2026</a>
+<a class="link-item">📄 Perjankin 2025</a>
+<a class="link-item">📄 Laporan Realisasi Anggaran 2024</a>
+<a class="link-item">📄 CALK 2024</a>
+<a class="link-item">📄 Daftar Aset Badan Publik Tahun 2025</a>
+<a class="link-item">📄 Neraca Tahun 2024</a>
+<a class="link-item">📄 DPA Tahun 2025</a>
+<a class="link-item">📄 RKA Tahun 2025</a>
+<a class="link-item">📄 Realisasi Anggaran Triwulan 1 Tahun 2025</a>
+<a class="link-item">📄 Renstra DPMD 2018–2023</a>
+<a class="link-item">📄 SK IKU DPMD 2021</a>
+<a class="link-item">📄 LAKIP DPMD 2020</a>
+<a class="link-item">📄 Perjankin DPMD 2021</a>
+<a class="link-item">📄 Laporan Realisasi Anggaran 2023</a>
+<a class="link-item">📄 Catatan atas Laporan Keuangan 2023</a>
+<a class="link-item">📄 Neraca 2023</a>
+<a class="link-item">📄 DPA 2024</a>
+<a class="link-item">📄 Program Kegiatan Tahun 2023</a>
 
-DAFTAR ASET BADAN PUBLIK TAHUN 2025
+<a class="link-item" href="https://drive.google.com/file/d/1EaoLJ92BbvoHH2KCosQkuRy0fBW95OEV/view" target="_blank">
+📄 Program Kegiatan TW 1 Tahun 2024
+</a>
 
-NERACA TAHUN 2024
+<a class="link-item" href="https://drive.google.com/file/d/1HOhr7CoU_82GFWbDQXq8mnyRnP9Sdh-m/view" target="_blank">
+📄 Daftar Aset Badan Publik
+</a>
 
-DPA TAHUN 2025
+</div>
+</div>
 
-RKA TAHUN 2025
-
-REALISASI ANGGARAN TRIWULAN 1 TAHUN 2025
-
-RENSTRA DPMD 2018-2023
-
-SK IKU DPMD 2021
-
-LAKIP DPMD 2020
-
-PERJANKIN DPMD 2021
-
-LAPORAN REALISASI ANGGARAN 2023
-
-CATATAN ATAS LAPORAN KEUANGAN 2023
-
-NERACA 2023
-
-DPA 2024
-
-PROGRAM KEGIATAN TAHUN 2023
-
-[PROGRAM KEGIATAN TW 1 TAHUN 2024](https://drive.google.com/file/d/1EaoLJ92BbvoHH2KCosQkuRy0fBW95OEV/view)
-
-[DAFTAR ASET BADAN PUBLIK](https://drive.google.com/file/d/1HOhr7CoU_82GFWbDQXq8mnyRnP9Sdh-m/view)
+</div>

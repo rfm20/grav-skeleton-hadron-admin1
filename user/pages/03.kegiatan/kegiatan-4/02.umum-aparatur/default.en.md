@@ -1,48 +1,162 @@
 ---
 title: 'Umum Aparatur'
 date: '26-11-2025 07:32'
+process:
+  markdown: true
+  twig: true
 ---
 
-## SOP Pedoman Pengelolaan Organisasi
-[SOP Penyusunan Rencana Strategis DPMD](https://drive.google.com/file/d/1-Ue3HuVHSE2b0Q4Cq4gBauweoF0g4dm5/view)
+<style>
+.page-wrapper {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 15px;
+}
 
-[SOP Penyusunan Rencana Kerja Tahunan DPMD](https://drive.google.com/file/d/1Wgnr3BZwLtsi52BX3L0xRQ_1tFXP81GN/view)
+/* Title */
+.section-title {
+  text-align: center;
+  margin: 0 0 40px 0;
+  padding-bottom: 15px;
+  border-bottom: 3px solid #0d6e4f;
+  font-size: 2.2rem;
+  font-weight: 800;
+  color: #0d6e4f;
+}
 
-[SOP Penyusunan Indikator Kinerja Utama DPMD](https://drive.google.com/file/d/1L5FPdXhHPexGM9Tu8C3IUR6fH6rJnJdx/view)
+/* Card */
+.section-card {
+  background: #ffffff;
+  padding: 28px 30px;
+  margin-bottom: 35px;
+  border-radius: 18px;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.08);
+}
 
-[SOP Penyusunan Penetapan Kinerja DPMD](https://drive.google.com/file/d/1W2TxmFY0alKq88RKPj4TqX_IHyKNMu_a/view)
+.section-card h2 {
+  color: #0d6e4f !important;
+  font-weight: 700 !important;
+  margin-top: 0;
+  margin-bottom: 18px;
+  font-size: 1.6rem !important;
+}
 
-[SOP Penyusunan Laporan Akuntabilitas Kinerja Instansi Pemerintah DPMD](https://drive.google.com/file/d/1x1FQakTXfy7EYUzKRFe_uueZncLDtsF_/view)
+/* Links */
+.link-list {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  margin-top: 10px;
+}
 
-[SOP Penyusunan LPPD dan LKPJ DPMD](https://drive.google.com/file/d/1dOw4wL1WOcJ6G1V6ZvXD5q1gW3PngZbh/view)
+.link-btn {
+  background: #0d6e4f !important;
+  color: #ffffff !important;
+  padding: 14px 18px;
+  border-radius: 12px;
+  text-align: center;
+  font-weight: 600;
+  transition: 0.25s ease;
+  display: block;
+  width: 100%;
+}
 
-## SOP Pedoman Pengelolaan Administrasi
-[SOP Pengelolaan Administrasi Surat Masuk](https://drive.google.com/file/d/1toX_Pzr2xQDNX-0e3RKdXc5gYTILqjqt/view)
+.link-btn:hover {
+  background: #0b5d42;
+  transform: translateY(-2px);
+}
 
-[SOP Pengelolaan Administrasi Surat Keluar](https://drive.google.com/file/d/1_C9b6QZo4xWfJTRb7NZfgtEXSGxYyoJ5/view)
+</style>
 
-[SOP Prosedur Penyusunan Standar Operasional Prosedur](https://drive.google.com/file/d/1VgA2Me8uJIayL2l_CNzgrij70PoKWLPc/view)
 
-[SOP Penyusunan DUK](https://drive.google.com/file/d/16-VjZG_jGri6todsBy2LbBPtEACm1bUU/view)
+<div class="page-wrapper">
 
-## SOP Pedoman Kepegawaian
-[SOP Usulan Formasi Pegawai Negeri Sipil](https://drive.google.com/file/d/1cfhaWAxJE7ixWXqNqD_guqLG1-9svwDk/view)
+<div class="section-title">Umum Aparatur</div>
 
-[SOP Pedoman Pelaksanaan Izin Cuti Aparatur Sipil Negara](https://drive.google.com/file/u/1/d/1qY5lAZ9jhg9TD6iHBUI-L1ZLrPsIheDd/view?usp=sharing)
 
-[SOP Usulan Kenaikan Pangkat](https://drive.google.com/file/d/1PSAQtcPn_meTQYyigQWIKrh2eic0wTuJ/view)
+<!-- =======================
+      SOP Pedoman Pengelolaan Organisasi
+=========================== -->
+<div class="section-card">
+<h2>SOP Pedoman Pengelolaan Organisasi</h2>
 
-[SOP Usulan Kenaikan Gaji Berkala](https://drive.google.com/file/d/1D0bjJCptuc5nGROWH5B5scw9wvx4JPSL/view)
+<div class="link-list">
+  <a class="link-btn" href="https://drive.google.com/file/d/1-Ue3HuVHSE2b0Q4Cq4gBauweoF0g4dm5/view" target="_blank">SOP Penyusunan Rencana Strategis DPMD</a>
 
-[SOP Persyaratan Diklat, Beasiswa, dan Tugas Belajar](https://drive.google.com/file/d/1FaSbzHtCeUni4GUfSooKOmsJfqYu6DzL/view)
+  <a class="link-btn" href="https://drive.google.com/file/d/1Wgnr3BZwLtsi52BX3L0xRQ_1tFXP81GN/view" target="_blank">SOP Penyusunan Rencana Kerja Tahunan DPMD</a>
 
-## SOP Pedoman Pengelolaan Keuangan
-[SOP Belanja GU](https://drive.google.com/file/d/1vDKDiBLu6cZFqicI0-wptJBMnoxjzr4B/view)
+  <a class="link-btn" href="https://drive.google.com/file/d/1L5FPdXhHPexGM9Tu8C3IUR6fH6rJnJdx/view" target="_blank">SOP Penyusunan Indikator Kinerja Utama DPMD</a>
 
-[SOP Belanja TU](https://drive.google.com/file/d/1f7uc7UO21JJcMhkKodoU7o1ZHL_oOUWs/view)
+  <a class="link-btn" href="https://drive.google.com/file/d/1W2TxmFY0alKq88RKPj4TqX_IHyKNMu_a/view" target="_blank">SOP Penyusunan Penetapan Kinerja DPMD</a>
 
-[SOP Belanja LS](https://drive.google.com/file/d/1Hd38dmJVmcjPSNF8LR3dVgzdIKmt5vGK/view)
+  <a class="link-btn" href="https://drive.google.com/file/d/1x1FQakTXfy7EYUzKRFe_uueZncLDtsF_/view" target="_blank">SOP LAKIP DPMD</a>
 
-[SOP Belanja UP](https://drive.google.com/file/d/1QdG1LbIRvL6FVW0iawAy2wfLbRHLh9rb/view)
+  <a class="link-btn" href="https://drive.google.com/file/d/1dOw4wL1WOcJ6G1V6ZvXD5q1gW3PngZbh/view" target="_blank">SOP LPPD & LKPJ DPMD</a>
+</div>
+</div>
 
-[SOP Belanja Tidak Langsung Gaji, Tunjangan dan Tambahan Penghasilan](https://drive.google.com/file/d/1_gjSPAyTvONBFITt4l5bsdNsBCUKbQDN/view)
+
+<!-- =======================
+      SOP Pengelolaan Administrasi
+=========================== -->
+<div class="section-card">
+<h2>SOP Pedoman Pengelolaan Administrasi</h2>
+
+<div class="link-list">
+
+  <a class="link-btn" href="https://drive.google.com/file/d/1toX_Pzr2xQDNX-0e3RKdXc5gYTILqjqt/view" target="_blank">SOP Administrasi Surat Masuk</a>
+
+  <a class="link-btn" href="https://drive.google.com/file/d/1_C9b6QZo4xWfJTRb7NZfgtEXSGxYyoJ5/view" target="_blank">SOP Administrasi Surat Keluar</a>
+
+  <a class="link-btn" href="https://drive.google.com/file/d/1VgA2Me8uJIayL2l_CNzgrij70PoKWLPc/view" target="_blank">SOP Prosedur Penyusunan SOP</a>
+
+  <a class="link-btn" href="https://drive.google.com/file/d/16-VjZG_jGri6todsBy2LbBPtEACm1bUU/view" target="_blank">SOP Penyusunan DUK</a>
+
+</div>
+</div>
+
+
+<!-- =======================
+      SOP Pedoman Kepegawaian
+=========================== -->
+<div class="section-card">
+<h2>SOP Pedoman Kepegawaian</h2>
+
+<div class="link-list">
+
+  <a class="link-btn" href="https://drive.google.com/file/d/1cfhaWAxJE7ixWXqNqD_guqLG1-9svwDk/view" target="_blank">SOP Usulan Formasi PNS</a>
+
+  <a class="link-btn" href="https://drive.google.com/file/u/1/d/1qY5lAZ9jhg9TD6iHBUI-L1ZLrPsIheDd/view" target="_blank">SOP Izin Cuti ASN</a>
+
+  <a class="link-btn" href="https://drive.google.com/file/d/1PSAQtcPn_meTQYyigQWIKrh2eic0wTuJ/view" target="_blank">SOP Usulan Kenaikan Pangkat</a>
+
+  <a class="link-btn" href="https://drive.google.com/file/d/1D0bjJCptuc5nGROWH5B5scw9wvx4JPSL/view" target="_blank">SOP Kenaikan Gaji Berkala</a>
+
+  <a class="link-btn" href="https://drive.google.com/file/d/1FaSbzHtCeUni4GUfSooKOmsJfqYu6DzL/view" target="_blank">SOP Diklat, Beasiswa, & Tugas Belajar</a>
+
+</div>
+</div>
+
+
+<!-- =======================
+      SOP Pengelolaan Keuangan
+=========================== -->
+<div class="section-card">
+<h2>SOP Pedoman Pengelolaan Keuangan</h2>
+
+<div class="link-list">
+
+  <a class="link-btn" href="https://drive.google.com/file/d/1vDKDiBLu6cZFqicI0-wptJBMnoxjzr4B/view" target="_blank">SOP Belanja GU</a>
+
+  <a class="link-btn" href="https://drive.google.com/file/d/1f7uc7UO21JJcMhkKodoU7o1ZHL_oOUWs/view" target="_blank">SOP Belanja TU</a>
+
+  <a class="link-btn" href="https://drive.google.com/file/d/1Hd38dmJVmcjPSNF8LR3dVgzdIKmt5vGK/view" target="_blank">SOP Belanja LS</a>
+
+  <a class="link-btn" href="https://drive.google.com/file/d/1QdG1LbIRvL6FVW0iawAy2wfLbRHLh9rb/view" target="_blank">SOP Belanja UP</a>
+
+  <a class="link-btn" href="https://drive.google.com/file/d/1_gjSPAyTvONBFITt4l5bsdNsBCUKbQDN/view" target="_blank">SOP Belanja Tidak Langsung Gaji, Tunjangan, & TPP</a>
+
+</div>
+</div>
+
+</div>

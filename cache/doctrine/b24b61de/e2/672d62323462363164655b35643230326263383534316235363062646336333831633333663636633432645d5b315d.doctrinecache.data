@@ -1,6 +1,0 @@
-1764749304
-a:2:{s:7:"content";s:333:"<h1>Form Example</h1>
-<p>This is an example of a contact form. It includes fields for first name, last name, email, phone, subject, and message. The form can be submitted via email and the data can be saved to a file.</p>
-<div class="notices blue">
-<p>Due to spam and security reasons, form data is neither saved nor sent.</p>
-</div>";s:12:"content_meta";N;}

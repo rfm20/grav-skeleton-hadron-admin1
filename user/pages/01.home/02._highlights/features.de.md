@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Highlights
 class: offset-box
 features:
@@ -32,4 +32,4 @@ features:
 ---
 
 # Warum [span class="hadron-font"]Hadron[/span]?
-## weil es alles hat, was man will:
+## weil es alles hat, was man will: -->

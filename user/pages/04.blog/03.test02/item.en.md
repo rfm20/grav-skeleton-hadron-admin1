@@ -13,10 +13,6 @@ hero_image: 678478bd50ed1-2025-01-13.png
 
 Pada tanggal 13–15 November 2024, bertempat di Hotel Transera Pontianak, telah dilaksanakan Bimbingan Teknis Pengelolaan BUMDesa bagi perwakilan desa-desa di Kalimantan Barat. Kegiatan ini bertujuan untuk meningkatkan kompetensi dalam pengelolaan Badan Usaha Milik Desa (BUMDesa).
 
-
-
 Diharapkan melalui kegiatan ini, BUMDesa dapat menjadi motor penggerak pembangunan desa yang mandiri dan berdaya saing.
 
 ===
-
-Your page content goes here.

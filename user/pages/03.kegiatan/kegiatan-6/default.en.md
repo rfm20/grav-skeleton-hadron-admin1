@@ -1,18 +1,130 @@
 ---
-title: 'Produk Hukum'
+title: 'Data SAKIP'
 date: '26-11-2025 06:26'
 visible: true
+process:
+  markdown: true
+  twig: true
 ---
 
-## Peraturan Perundang-Undangan
-[PERKIP 1 TAHUN 2021 TENTANG STANDAR LAYANAN INFORMASI PUBLIK](https://drive.google.com/file/d/1asCekBWEqzt477U8JUU4rqFj7wbRB7HM/view)
+<style>
+/* ================================
+   WRAPPER HALAMAN
+================================ */
+.page-wrapper {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 20px 15px 60px;
+}
 
-[SK Kepala Dinas PMD Tentang Tim Pelayanan Publik](https://drive.google.com/file/d/1gIQJ7LAuZuPLmDN5D4gSXpy7c5ku9vOc/view)
+/* ================================
+   TITLE STYLE
+================================ */
+.section-title {
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 800;
+  color: #0d6e4f;
+  margin-bottom: 35px;
+  padding-bottom: 12px;
+  border-bottom: 3px solid #0d6e4f;
+}
 
-[SK Desa Sasaran Percepatan Peningkatan Status dan Kemajuan Desa di Prov. Kalbar](https://dpmd.kalbarprov.go.id/assets/img/dpmd-content/SK-Desa-Sasaran-Percepatan-Peningkatan-Status-Kemajuan-dan-Kemandirian-Desa-Provinsi-Kalimantan-Barat-Tahun-2023.pdf)
+/* ================================
+   CARD BOX
+================================ */
+.card {
+  background: #ffffff;
+  padding: 28px 32px;
+  border-radius: 18px;
+  box-shadow: 0 4px 18px rgba(0,0,0,0.08);
+  margin-bottom: 35px;
+}
 
-[Peraturan Komisi Informasi Republik Indonesia Nomor 1 Tahun 2021 Tentang Standar Layanan Informasi Publik](https://drive.google.com/file/d/187hoOT3GE5GP7nzESQj1ys3FcqWpCZq6/view)
+/* ================================
+   SUBTITLE / HEADING
+================================ */
+.card h2 {
+  margin-top: 0;
+  color: #0d6e4f;
+  font-weight: 700;
+  font-size: 1.7rem;
+  margin-bottom: 20px;
+}
 
-[PERGUB KALBAR Nomor 122 Tahun 2021 Tentang Kedudukan, Susunan Organisasi, Tugas dan Fungsi serta Tata Kerja Dinas Pemberdayaan Masyarakat dan Desa Provinsi Kalimantan Barat](https://drive.google.com/file/d/1Q0lbwkjR9WhuK9wjpthqDU-QCmhHGA9l/view)
+/* ================================
+   LIST STYLE
+================================ */
+.link-list {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  margin-top: 10px;
+}
 
-[Undang-Undang Nomor 5 Tahun 2009 Tentang Pelayanan Publik](https://drive.google.com/file/d/1mSVfkEhGNC7fFstI7ozZnZ5s0QSYQdgP/view)
+.link-item {
+  background: #0d6e4f !important;
+  color: #ffffff !important;
+  padding: 14px 18px;
+  border-radius: 12px;
+  text-align: center;
+  font-weight: 600;
+  transition: 0.25s ease;
+  display: block;
+  width: 100%;
+}
+
+.link-item:hover {
+  background: #0b5d42;
+  transform: translateY(-2px);
+}
+</style>
+
+<div class="page-wrapper">
+
+<div class="section-title">Data SAKIP</div>
+
+<div class="card">
+<h2>Dokumen SAKIP</h2>
+
+<div class="link-list">
+
+<a class="link-item">📄 Pedoman Teknis AKIP Internal DPMD</a>
+<a class="link-item">📄 Pedoman Teknis Perencanaan Kinerja dan Anggaran DPMD</a>
+<a class="link-item">📄 LAKIP DPMD Tahun 2024</a>
+<a class="link-item">📄 Laporan Monev Renaksi Triwulan 1 DPMD 2025 (e-SAKIP)</a>
+<a class="link-item">📄 LKPJ DPMD Tahun 2024</a>
+<a class="link-item">📄 LPPD DPMD Tahun 2024</a>
+<a class="link-item">📄 Rencana Aksi DPMD Tahun 2025</a>
+<a class="link-item">📄 Rencana Kerja DPMD Tahun 2025</a>
+<a class="link-item">📄 Renstra DPMD 2024–2026</a>
+<a class="link-item">📄 Perjankin 2025</a>
+<a class="link-item">📄 Laporan Realisasi Anggaran 2024</a>
+<a class="link-item">📄 CALK 2024</a>
+<a class="link-item">📄 Daftar Aset Badan Publik Tahun 2025</a>
+<a class="link-item">📄 Neraca Tahun 2024</a>
+<a class="link-item">📄 DPA Tahun 2025</a>
+<a class="link-item">📄 RKA Tahun 2025</a>
+<a class="link-item">📄 Realisasi Anggaran Triwulan 1 Tahun 2025</a>
+<a class="link-item">📄 Renstra DPMD 2018–2023</a>
+<a class="link-item">📄 SK IKU DPMD 2021</a>
+<a class="link-item">📄 LAKIP DPMD 2020</a>
+<a class="link-item">📄 Perjankin DPMD 2021</a>
+<a class="link-item">📄 Laporan Realisasi Anggaran 2023</a>
+<a class="link-item">📄 Catatan atas Laporan Keuangan 2023</a>
+<a class="link-item">📄 Neraca 2023</a>
+<a class="link-item">📄 DPA 2024</a>
+<a class="link-item">📄 Program Kegiatan Tahun 2023</a>
+
+<a class="link-item" href="https://drive.google.com/file/d/1EaoLJ92BbvoHH2KCosQkuRy0fBW95OEV/view" target="_blank">
+📄 Program Kegiatan TW 1 Tahun 2024
+</a>
+
+<a class="link-item" href="https://drive.google.com/file/d/1HOhr7CoU_82GFWbDQXq8mnyRnP9Sdh-m/view" target="_blank">
+📄 Daftar Aset Badan Publik
+</a>
+
+</div>
+</div>
+
+</div>

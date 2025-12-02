@@ -6,44 +6,135 @@ sidebar:
     display: false
 ---
 
-[div class="columns"]
-[div class="column col-9 col-md-12 extra-spacing"]
+<style>
+/* ===== PAGE WRAPPER (BIAR KONTEN DI TENGAH) ===== */
+.page-wrapper {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 15px;
+}
 
-===
+/* ===== TITLE WRAPPER ===== */
+.section-title {
+  text-align: center;
+  margin: 0 0 40px 0;
+  padding-bottom: 15px;
+  border-bottom: 3px solid #0d6e4f;
+  font-size: 2.2rem;
+  font-weight: 800;
+  color: #0d6e4f;
+}
 
-## Visi
-“Terwujudnya Kesejahteraan Masyarakat Kalimantan Barat melalui Percepatan Pembangunan Infrastruktur dan Perbaikan Tata Kelola Pemerintahan”
+/* ===== CARD SECTION STYLE ===== */
+.section-card {
+  background: #ffffff;
+  padding: 30px 35px;
+  margin-bottom: 35px;
+  border-radius: 18px;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.08);
+}
 
-## Misi
-Mewujudkan percepatan pembangunan infrastruktur.
-Mewujudkan tata kelola pemerintahan berkualitas dengan prinsip-prinsip Good Governance.
-Mewujudkan kualitas hidup masyarakat.
-Mewujudkan masyarakat sejahtera.
-Mewujudkan masyarakat yang tertib.
-Mewujudkan pembangunan berwawasan lingkungan.
+/* ===== HEADINGS ===== */
+.section-card h2 {
+  color: #0d6e4f;
+  font-weight: 700;
+  margin-top: 0;
+  margin-bottom: 18px;
+  font-size: 1.65rem;
+}
 
-## Tugas Pokok dan Fungsi
-BERDASARKAN PERATURAN GUBERNUR KALIMANTAN BARAT NOMOR 122 TAHUN 2021 TENTANG KEDUDUKAN, SUSUNAN ORGANISASI, TUGAS DAN FUNGSI, SERTA TATA KERJA DINAS PEMBERDAYAAN MASYARAKAT DAN DESA PROVINSI KALIMANTAN BARAT
+/* ===== TEXT ===== */
+.section-card p {
+  color: #444;
+  line-height: 1.65;
+  margin-bottom: 15px;
+  text-align: justify;
+}
 
+/* ===== LISTS ===== */
+.section-card ul {
+  margin-left: 20px;
+  margin-bottom: 10px;
+}
 
-Dinas Pemberdayaan Masyarakat dan Desa Provinsi Kalimantan Barat mempunyai tugas membantu Gubernur melaksanakan urusan pemerintahan yang menjadi kewenangan daerah dan tugas pembantuan di bidang pemberdayaan masyarakat dan desa sesuai ketentuan peraturan perundang-undangan.
+.section-card ul li {
+  margin-bottom: 8px;
+  color: #444;
+  line-height: 1.55;
+}
 
-Untuk melaksanakan tugas Dinas, menyelenggarakan fungsi :
+/* ===== VISI & MISI HIGHLIGHT BOXES ===== */
+.highlight-box {
+  background: #f0fdf4;
+  border-left: 6px solid #0d6e4f;
+  padding: 22px;
+  border-radius: 12px;
+}
 
-Perumusan program kerja di bidang pemberdayaan masyarakat dan desa.
-Perumusan kebijakan di bidang pemerintahan desa, penataan dan kerjasama desa, serta pembangunan dan pemberdayaan masyarakat desa.
-Pelaksanaan kebijakan di bidang pemerintahan desa, penataan dan kerjasama desa, serta pembangunan dan pemberdayaan masyarakat desa.
-Penyelenggaraan urusan pemerintahan di bidang pemerintahan desa, penataan dan kerjasama desa, serta pembangunan dan pemberdayaan masyarakat desa sesuai ketentuan peraturan perundang-undangan.
-Pengoordinasian dan pembinaan teknis di bidang pemerintahan desa, penataan dan kerjasama desa, serta pembangunan dan pemberdayaan masyarakat desa.
-Pelaksanaan evaluasi dan pelaporan di bidang pemerintahan desa, penataan dan kerjasama desa, serta pernbangunan dan pemberdayaan masyarakat desa.
-Pelaksanaan reformasi birokrasi, Sistem Akuntabilitas Kinerja Instansi Pernerintah (SAKIP), dan pelayanan publik di lingkungan Dinas.
-Pelaksanaan administrasi di lingkungan Dinas
-Pelaksanaan fungsi lain dan tugas pembantuan yang diberikan oleh Gubernur di bidang pemberdayaan masyarakat dan desa sesuai ketentuan peraturan perundang-undangan.
+.highlight-box p,
+.highlight-box li {
+  color: #064e3b;
+  font-size: 1.07rem;
+  margin: 0;
+}
+</style>
 
-[/div]
+<div class="page-wrapper">
 
-[div class="column col-3 col-md-12"]
-[div style="position: sticky; top: 4rem;"][TOC][/div]
-[/div]
+<div class="section-title">Profil Badan</div>
 
-[/div]
+<!-- ===================== -->
+<!--        VISI          -->
+<!-- ===================== -->
+<div class="section-card">
+  <h2>Visi</h2>
+
+  <div class="highlight-box">
+    <p><em>“Terwujudnya Kesejahteraan Masyarakat Kalimantan Barat melalui Percepatan Pembangunan Infrastruktur dan Perbaikan Tata Kelola Pemerintahan”</em></p>
+  </div>
+</div>
+
+<!-- ===================== -->
+<!--        MISI          -->
+<!-- ===================== -->
+<div class="section-card">
+  <h2>Misi</h2>
+
+  <div class="highlight-box">
+    <ul>
+      <li>Mewujudkan percepatan pembangunan infrastruktur.</li>
+      <li>Mewujudkan tata kelola pemerintahan berkualitas dengan prinsip Good Governance.</li>
+      <li>Mewujudkan kualitas hidup masyarakat.</li>
+      <li>Mewujudkan masyarakat sejahtera.</li>
+      <li>Mewujudkan masyarakat yang tertib.</li>
+      <li>Mewujudkan pembangunan berwawasan lingkungan.</li>
+    </ul>
+  </div>
+</div>
+
+<!-- =============================== -->
+<!--   TUGAS POKOK & FUNGSI         -->
+<!-- =============================== -->
+<div class="section-card">
+  <h2>Tugas Pokok dan Fungsi</h2>
+
+  <p><strong>Berdasarkan Peraturan Gubernur Kalimantan Barat Nomor 122 Tahun 2021</strong> tentang Kedudukan, Susunan Organisasi, Tugas dan Fungsi, serta Tata Kerja Dinas Pemberdayaan Masyarakat dan Desa Provinsi Kalimantan Barat.</p>
+
+  <p>Dinas Pemberdayaan Masyarakat dan Desa Provinsi Kalimantan Barat mempunyai tugas membantu Gubernur melaksanakan urusan pemerintahan yang menjadi kewenangan daerah di bidang pemberdayaan masyarakat dan desa.</p>
+
+  <h3 style="color:#0d6e4f; margin-top:25px;">Fungsi Dinas</h3>
+
+  <ul>
+    <li>Perumusan program kerja di bidang pemberdayaan masyarakat dan desa.</li>
+    <li>Perumusan kebijakan pemerintahan desa, penataan dan kerjasama desa, serta pembangunan dan pemberdayaan masyarakat desa.</li>
+    <li>Pelaksanaan kebijakan di bidang pemerintahan desa dan pemberdayaan masyarakat desa.</li>
+    <li>Penyelenggaraan urusan pemerintahan bidang desa sesuai ketentuan.</li>
+    <li>Koordinasi dan pembinaan teknis di bidang pemerintahan desa.</li>
+    <li>Pelaksanaan evaluasi dan pelaporan bidang pemerintahan desa.</li>
+    <li>Pelaksanaan reformasi birokrasi, SAKIP, dan pelayanan publik.</li>
+    <li>Pelaksanaan administrasi di lingkungan Dinas.</li>
+    <li>Pelaksanaan tugas lain yang diberikan oleh Gubernur.</li>
+  </ul>
+</div>
+
+</div>

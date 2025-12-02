@@ -14,25 +14,110 @@ sidebar:
     show_toc: false
 ---
 
+<style>
+/* ===== GLOBAL CARD STYLE ===== */
+.profile-card {
+  background: #ffffff;
+  padding: 30px;
+  margin-bottom: 40px;
+  border-radius: 16px;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.08);
+}
+
+/* TITLE STYLE */
+.profile-card h2 {
+  text-align:center;
+  margin-top:0;
+  color:#064e3b;
+  font-weight:700;
+}
+
+/* TEXT */
+.profile-card p {
+  color:#444;
+  line-height:1.65;
+  margin-bottom:14px;
+}
+
+/* HERO */
+.profile-hero {
+  text-align:center;
+  padding: 55px 20px;
+  margin-bottom:40px;
+  background: linear-gradient(135deg, #064e3b, #15803d);
+  color: white;
+  border-radius: 18px;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.20);
+}
+
+.profile-hero h1 {
+  margin:0;
+  font-size:2.4rem;
+  font-weight:700;
+  color:#ffff;
+}
+
+.profile-hero p {
+  margin-top:10px;
+  font-size:1.15rem;
+  opacity:0.95;
+}
+</style>
+
+
 [div class="columns"]
-[div class="column col-9 col-md-12 extra-spacing"]
+[div class="column col-12"]
 
-Struktur Organisasi DPMD
+<!-- ===== HERO SECTION ===== -->
+<div class="profile-hero">
+  <h1>Profil Dinas PMD</h1>
+  <p>
+    Dinas Pemberdayaan Masyarakat dan Desa <br>
+    Provinsi Kalimantan Barat
+  </p>
+</div>
+
+
+<!-- ===== STRUKTUR ORGANISASI ===== -->
+<div class="profile-card">
+  <h2>Struktur Organisasi</h2>
+  <p style="text-align:center; color:#555;">
+    Berikut adalah struktur organisasi Dinas PMD Provinsi Kalimantan Barat:
+  </p>
+
+  <div style="text-align:center; margin-top:25px;">
+  {% markdown %}
 ![688093ffadf80-2025-07-23](688093ffadf80-2025-07-23.jpg "688093ffadf80-2025-07-23")
+  {% endmarkdown %}
+  </div>
+</div>
 
-# Sejarah
-Januari 2013, resmi terbentuk Badan Pemberdayaan Masyarakat dan Pemerintahan Daerah (BPMPD) Provinsi Kalimantan Barat dan Drs.Y.Alexander,M.Si di percaya untuk memimpin lembaga baru di pemerintahan Provinsi Kalimantan Barat ini. Dari aspek historis, yakni konferensi besar Gubernur seluruh Indonesia yang dipimpin oleh Presiden Soekarno tahun 1954 membentuk Kementrian Pembangunan Masyarakat Desa, Kementrian Pembangunan Masyarakat tahun 1950, Badan Koordinasi Pembangunan MasyarakatDesa dan Deputi Transkopemda tahun 1960, Biro Departemen Pembangunan Masyarakat tahun 1963, Direktorat Pembangunan Masyarakat Desa tahun 1964, Deputi Pembangunan Masyarakat Desa tahun 1966, Deputi Pembangunan Masyarakat Desa dan Pengairan Rakyat/Deputi Kementrian Pembangunan Masyarakat Desa tahun 1966, Direktorat Jendral Pembangunan Masyarakat Desa tahun 1967, Ditjen Bangdes tahun 1978, Direktorat Pembangunan Masyarakat Desa tahun 1992, Ditjen Pemberdayaan Masyarakat Desa Tahun 1999, Ditjen Bina Pemberdayaan Masyarakat Desa tahun 2001, Direktorat Jendral Pemberdayaan Masyarakat dan desa tahun 2003 sampai saat ini.
 
-Dari Aspek Fungsi, meliputi dua fungsi, pertama fungsi asli Pemberdayaan Masyarakat Desa, yakni partisipasi masyarakat, kelembagaan masyarakat, perencanaan dari bawah, profil desa, pelantikan tokoh masyarakat, pemberdayaan adat, usaha ekonomi desa, pelayanan administrasi pemerintahan, ketentraman dan ketertiban. Kedua, fungsi koordinasi, mengkoordinasi program/kegiatan dari berbagai sektor pendidikan, kesehatan, pertanian pangan, perkebunan, perikanan, pertanian, kebutuhan, industri, perdagangan dan infastruktur.
+<!-- ===== SEJARAH ===== -->
+<div class="profile-card">
+  <h2>Sejarah</h2>
 
-Selanjutnya Aspek Pelaksanaan Kebijakan dan Program Pembangunan Nasional yakni Peningkatan. Partisipasi Masyarakat, Penanggulangan Kemiskinan (PNPM-MPd), Bulan Bhakti Gotong Royong Masyarakat, Pelaksanaan Lomba Desa dan Kelurahan, Gelas TTG, Desa Mandiri Energi (Energi Alternatif), TMMD (TNI Menuggal Masuk Desa), Pembangunan Lembaga Keuangan Mikro Perdesaan (UED, SP, BUMDes), Pemantapan Pos layanan Terpadu (Posyandu), Peningkatan Kapasitas Penyelenggaraan Pemeritahan Desa.
+  <p>
+    Pada Januari 2013, resmi terbentuk Badan Pemberdayaan Masyarakat dan Pemerintahan Daerah (BPMPD) Provinsi Kalimantan Barat. Drs. Y. Alexander, M.Si kemudian diamanahkan untuk memimpin lembaga baru ini.
+  </p>
 
-Berdasarkan pertimbangan aspek historis, aspek fungsi dan aspek penanganan program pembangunan nasional serta dampak maka bentuk kelembagaan pemberdayaan masyarakat dan pemerintahan desa adalah Badan Pemberdayaan Masyarakat dan Pemerintahan Desa. Diharapkan kabupaten/kota bisa menyesuaikan kembali organisasinya sesuai dengan keadaan daerah masing-masing guna memudahkan sinkronisasi an kordinasi.
+  <p>
+    Perjalanan kelembagaan ini memiliki akar sejarah panjang sejak Konferensi Gubernur tahun 1954, mulai dari Kementerian Pembangunan Masyarakat Desa, Ditjen Bangdes, hingga Ditjen Pemberdayaan Masyarakat dan Desa. Perubahan-perubahan ini dilakukan untuk memperkuat peran pemerintah dalam meningkatkan kualitas pembangunan dan pemberdayaan desa.
+  </p>
 
-Karena ada di beberapa daerah masih menggembangkan beberapa organisasi padahal kita mau fokuskan pemberdayaan masyarakat, sebagai upaya pemerintahan provinsi memajukan seluruh desa di Provinsi Kalimantan Barat. Semenjak menyelesaikan tugasnya sebagai wakil bupati Kabupaten Kapuas Hulu Periode 2005-2010, pada Januari 2011, Bapak Alexander dipercaya menempati jabatan sebagai Kepala Badan Penanaman Modal Daerah (BPMD) Pemerintahan Provinsi Kalimantan Barat, selama satu tahun tiga bulan di BPMD, Bapak Alexander berprestasi menghantarkan Gubernur Kalimantan Barat pada akhir 2011 menerima Penghargaan Regional Champion yang diserahkan langsung oleh Menteri Kordinator Perekonomian RI, Hayta Rajasa, karena berprestasi dibidang investasi di Kalimantan Barat.
+  <p>
+    Fungsi lembaga mencakup dua aspek utama: pemberdayaan masyarakat desa—meliputi partisipasi, kelembagaan, perencanaan, administrasi, dan ketertiban—serta fungsi koordinatif lintas sektor seperti pendidikan, kesehatan, pertanian, dan infrastruktur desa.
+  </p>
 
-Kemudian Mei 2012, Bapak Alexander dipercaya menjabat Kepala Badan Pemberdayaan Perempuan, Anak Masyarakat dan KB. Prestasi gemilang dicapai dimana pada peringatan Hari Ibu tanggal 22 Desember 2012, Gubernur Kalimantan Barat mendapat Anugrah Prahita Eka Praya dari Presiden RI, keberhasilan di bidang gender yakni Pengarustamaan Gender.
+  <p>
+    Lembaga ini juga memegang peran penting dalam pelaksanaan berbagai program nasional seperti PNPM-MPd, Lomba Desa, Bulan Bhakti Gotong Royong, TMMD, UED-SP, BUMDes, Posyandu, dan kegiatan strategis lainnya.
+  </p>
 
-Kini dipercaya menjabat Kepala Badan Pemberdayaa Masyarakat dan Pemerinahan Desa Provinsi Kalimantan Barat, Alexander bertekat membuat desa di seluruh Kalbar menjadi mandiri, dengan tolak ukur yakni bisa membawa Kalbar memasuki peringkat 10 besar pada lomba desa tingkat nasional tahun 2013.
+  <p>
+    Pada tahun 2016, berdasarkan Peraturan Daerah Provinsi Kalimantan Barat Nomor 8 Tahun 2016 dan Peraturan Gubernur Nomor 107 Tahun 2016, BPMPD resmi berubah menjadi 
+    <strong>Dinas Pemberdayaan Masyarakat dan Desa (Dinas PMD)</strong>.
+  </p>
+</div]
 
-Hingga kemudian pada tahun 2016 terbit Peraturan Daerah Provinsi Kalimantan Barat Nomor 8 Tahun 2016 tentang Pembentukan dan Susunan Perangkat Daerah Provinsi Kalimantan Barat dan Peraturan Gubernur Kalimantan Barat Nomor 107 Tahun 2016 tentang Kedudukan, Struktur Organisasi, Tugas dan Fungsi, Serta Tata Kerja Dinas Pemberdayaan Masyarakat dan Desa sehingga nama Badan Pemberdayaan Masyarakat dan Pemerintahan Desa (BPMPD) berganti nama menjadi Dinas Pemberdayaan Masyarakat dan Desa (Dinas PMD) pada Januari 2017.
+[/div]
+[/div]

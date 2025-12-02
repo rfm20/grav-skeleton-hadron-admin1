@@ -1,9 +1,0 @@
-1764134681
-O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:26:"examples/modular/_sbs-item";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:2:{s:5:"title";s:8:"SbS Item";s:3:"sbs";a:4:{s:6:"layout";s:4:"left";s:9:"alignment";s:11:"center-left";s:5:"image";s:28:"/examples/modular/image.webp";s:9:"image_alt";s:21:"The image description";}}s:11:"frontmatter";s:135:"title: SbS Item
-sbs:
-  layout: left
-  alignment: center-left
-  image: /examples/modular/image.webp
-  image_alt: 'The image description'";s:8:"markdown";s:171:"## SbS Item
-The SbS item is a single block of an SbS layout. It can be positioned left or right and can contain an image and text. The text can be aligned to 9 positions.
-";}s:7:"storage";a:8:{s:3:"key";s:26:"examples/modular/_sbs-item";s:11:"storage_key";s:42:"03.examples/02.modular/07._sbs-item|sbs.en";s:8:"template";s:3:"sbs";s:17:"storage_timestamp";i:1754217411;s:8:"markdown";a:2:{s:2:"de";a:1:{s:3:"sbs";i:1754217411;}s:2:"en";a:1:{s:3:"sbs";i:1754217411;}}s:8:"checksum";s:32:"84c431b46c6c470d703e6305d3c7dca6";s:6:"exists";b:1;s:4:"lang";s:2:"en";}}
