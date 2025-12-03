@@ -2,12 +2,12 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledJsonFile',
     'filename' => 'C:/xampp/htdocs/grav/grav-skeleton-hadron+admin1/user/data/flex/indexes/pages.json',
-    'modified' => 1764729134,
-    'size' => 27456,
+    'modified' => 1764729731,
+    'size' => 27934,
     'data' => [
         'version' => '1.5',
-        'timestamp' => 1764729134,
-        'count' => 92,
+        'timestamp' => 1764729731,
+        'count' => 94,
         'index' => [
             '' => [
                 'key' => '',
@@ -264,7 +264,7 @@ return [
                 'key' => 'blog',
                 'storage_key' => '04.blog',
                 'template' => 'blog',
-                'storage_timestamp' => 1764725878,
+                'storage_timestamp' => 1764729731,
                 'markdown' => [
                     'de' => [
                         'blog' => 1754217411
@@ -278,10 +278,12 @@ return [
                     '02.test01' => 1764639790,
                     '03.test02' => 1764639790,
                     '04.test3' => 1764639790,
-                    '05.test04' => 1764725878,
+                    '05.test04' => 1764726100,
+                    '06.test05' => 1764729379,
+                    '07.berita06' => 1764729731,
                     '_message' => 1763449670
                 ],
-                'checksum' => 'dbd07f8928dcf79455151ec41d42851a'
+                'checksum' => 'c92e7a385d0bba82bd47edb574f96a15'
             ],
             '04.blog/01.item' => [
                 'key' => 'blog/item',
@@ -345,6 +347,30 @@ return [
                     ]
                 ],
                 'checksum' => 'e0899c6d7e43a6de57ef5b79c1426ca9'
+            ],
+            '04.blog/06.test05' => [
+                'key' => 'blog/test05',
+                'storage_key' => '04.blog/06.test05',
+                'template' => 'item',
+                'storage_timestamp' => 1764729379,
+                'markdown' => [
+                    'en' => [
+                        'item' => 1764729379
+                    ]
+                ],
+                'checksum' => 'bb5ea7d60b9c6a186fa95b6013e86279'
+            ],
+            '04.blog/07.berita06' => [
+                'key' => 'blog/berita06',
+                'storage_key' => '04.blog/07.berita06',
+                'template' => 'item',
+                'storage_timestamp' => 1764729731,
+                'markdown' => [
+                    'en' => [
+                        'item' => 1764729731
+                    ]
+                ],
+                'checksum' => '9b7c82383b779b0f652146b26e46a3d2'
             ],
             '04.blog/_message' => [
                 'key' => 'blog/_message',

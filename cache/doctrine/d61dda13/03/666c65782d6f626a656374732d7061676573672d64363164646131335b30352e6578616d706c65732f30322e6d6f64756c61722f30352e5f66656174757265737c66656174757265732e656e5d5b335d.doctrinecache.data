@@ -1,4 +1,4 @@
-1764729490
+1764729858
 O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:26:"examples/modular/_features";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:3:{s:5:"title";s:8:"Features";s:5:"class";s:8:"standard";s:8:"features";a:3:{i:0;a:4:{s:4:"icon";s:12:"fa fa-star-o";s:6:"header";s:25:"Header for Icon with Link";s:4:"text";s:71:"This is a text that says something about this feature. Click the header";s:3:"url";s:1:"#";}i:1;a:4:{s:4:"icon";s:10:"fa fa-font";s:6:"header";s:7:"No Text";s:4:"text";N;s:3:"url";N;}i:2;a:4:{s:4:"icon";s:10:"fa fa-bold";s:6:"header";N;s:4:"text";s:8:"No Title";s:3:"url";N;}}}s:11:"frontmatter";s:350:"title: Features
 class: standard
 features:

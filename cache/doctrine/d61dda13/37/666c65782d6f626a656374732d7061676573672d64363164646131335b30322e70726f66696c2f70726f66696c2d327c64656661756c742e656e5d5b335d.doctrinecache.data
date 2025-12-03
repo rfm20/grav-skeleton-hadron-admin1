@@ -1,4 +1,4 @@
-1764729490
+1764729858
 O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:15:"profil/profil-2";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:5:{s:5:"title";s:14:"Profil Pejabat";s:4:"date";s:16:"26-11-2025 06:26";s:7:"visible";b:1;s:11:"media_order";s:164:"Profil-Pimpinan-Dinas-PMD-Kalbar-2023-3-pdf.jpg,2025-LHKPN-Hendra-Bachtiar.jpg,2024-LHKPN-HENDRA-BACHTIAR.jpeg,2023-LHKPN-KADIS-2022_images-extracted-1-768x1081.jpg";s:7:"process";a:2:{s:4:"twig";b:1;s:8:"markdown";b:1;}}s:11:"frontmatter";s:281:"title: 'Profil Pejabat'
 date: '26-11-2025 06:26'
 visible: true

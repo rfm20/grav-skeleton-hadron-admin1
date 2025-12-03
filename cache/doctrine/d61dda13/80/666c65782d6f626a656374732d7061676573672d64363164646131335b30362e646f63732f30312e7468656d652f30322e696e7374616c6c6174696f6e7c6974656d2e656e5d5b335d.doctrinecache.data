@@ -1,4 +1,4 @@
-1764729491
+1764729859
 O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:23:"docs/theme/installation";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:9:{s:5:"title";s:27:"Installation | Hadron Theme";s:4:"menu";s:12:"Installation";s:4:"slug";s:12:"installation";s:7:"sitemap";a:3:{s:10:"changefreq";s:6:"yearly";s:8:"priority";d:0.5;s:7:"lastmod";s:10:"10-10-2024";}s:4:"date";s:10:"10-10-2024";s:8:"taxonomy";a:2:{s:8:"category";s:6:"Hadron";s:3:"tag";a:2:{i:0;s:5:"Theme";i:1;s:12:"Installation";}}s:17:"header_image_file";s:9:"hero.webp";s:10:"hero_image";s:9:"hero.webp";s:12:"hero_classes";s:32:"text-light overlay-dark parallax";}s:11:"frontmatter";s:317:"title: Installation | Hadron Theme
 menu: Installation
 slug: installation

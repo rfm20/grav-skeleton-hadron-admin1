@@ -1,4 +1,4 @@
-1764729490
+1764729858
 O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:26:"examples/modular/_sbs-item";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:2:{s:5:"title";s:8:"SbS Item";s:3:"sbs";a:4:{s:6:"layout";s:4:"left";s:9:"alignment";s:11:"center-left";s:5:"image";s:28:"/examples/modular/image.webp";s:9:"image_alt";s:21:"The image description";}}s:11:"frontmatter";s:135:"title: SbS Item
 sbs:
   layout: left
