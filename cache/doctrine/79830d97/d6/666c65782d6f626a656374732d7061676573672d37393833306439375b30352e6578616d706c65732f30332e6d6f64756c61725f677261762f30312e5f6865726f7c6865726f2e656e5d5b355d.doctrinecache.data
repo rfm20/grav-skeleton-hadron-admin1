@@ -1,4 +1,4 @@
-1764730338
+1764730976
 O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:27:"examples/modular_grav/_hero";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:4:{s:5:"title";s:13:"Homepage Hero";s:4:"menu";s:3:"Top";s:12:"hero_classes";s:19:"parallax text-light";s:10:"hero_image";s:10:"header.jpg";}s:11:"frontmatter";s:89:"title: 'Homepage Hero'
 menu: Top
 hero_classes: parallax text-light

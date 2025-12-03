@@ -1,4 +1,4 @@
-1764730338
+1764730976
 O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:20:"examples/embedlycard";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:7:{s:5:"title";s:14:"Embedded pages";s:9:"published";b:1;s:7:"visible";b:1;s:7:"content";a:3:{s:5:"order";a:2:{s:2:"by";s:7:"default";s:3:"dir";s:3:"asc";}s:5:"items";s:14:"@self.children";s:5:"limit";i:0;}s:25:"display_child_page_titles";b:1;s:7:"sitemap";a:3:{s:10:"changefreq";s:5:"never";s:8:"priority";d:0.3;s:7:"lastmod";s:10:"01-08-2025";}s:4:"date";s:10:"01-08-2025";}s:11:"frontmatter";s:251:"title: Embedded pages
 published: true
 visible: true

@@ -32,7 +32,7 @@ modular_content:
 content:
     items:
         - '@self.children'
-    limit: 8
+    limit: 3
     order:
         by: date
         dir: asc
@@ -40,8 +40,6 @@ content:
     url_taxonomy_filters: true
 media_order: header.webp
 ---
-
-
 
 # Berita Terbaru
 ## Informasi terkini dari Pemerintah Provinsi Kalimantan Barat

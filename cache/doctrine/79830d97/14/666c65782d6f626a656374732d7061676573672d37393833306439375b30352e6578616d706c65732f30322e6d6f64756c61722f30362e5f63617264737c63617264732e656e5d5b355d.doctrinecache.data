@@ -1,4 +1,4 @@
-1764730338
+1764730976
 O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:23:"examples/modular/_cards";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:2:{s:5:"title";s:5:"Cards";s:5:"cards";a:2:{i:0;a:5:{s:5:"image";s:28:"/examples/modular/image.webp";s:5:"title";s:17:"Title of the Card";s:4:"text";s:90:"This is an example text for the card. Here you can add a brief description or information.";s:4:"page";s:5:"/home";s:9:"link_text";s:14:"This is a link";}i:1;a:5:{s:5:"image";s:28:"/examples/modular/image.webp";s:5:"title";s:12:"Another Card";s:4:"text";s:91:"This is also an example text for another card. Here you can provide additional information.";s:4:"page";s:5:"/home";s:9:"link_text";s:12:"another link";}}}s:11:"frontmatter";s:445:"title: Cards
 cards:
   - image: /examples/modular/image.webp

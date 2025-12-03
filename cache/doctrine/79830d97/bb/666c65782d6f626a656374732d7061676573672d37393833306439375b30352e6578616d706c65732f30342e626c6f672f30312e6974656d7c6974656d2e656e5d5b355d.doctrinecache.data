@@ -1,4 +1,4 @@
-1764730338
+1764730976
 O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:18:"examples/blog/item";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:9:{s:5:"title";s:12:"Example Post";s:7:"visible";b:0;s:7:"sitemap";a:3:{s:10:"changefreq";s:5:"never";s:8:"priority";d:0.3;s:7:"lastmod";s:10:"01-08-2025";}s:4:"date";s:10:"01-08-2025";s:8:"taxonomy";a:2:{s:8:"category";s:7:"General";s:3:"tag";a:2:{i:0;s:7:"General";i:1;s:7:"Example";}}s:7:"sidebar";a:1:{s:7:"display";b:0;}s:17:"header_image_file";s:8:"hero.jpg";s:10:"hero_image";s:8:"hero.jpg";s:12:"hero_classes";s:52:"text-light overlay-dark-gradient hero-large parallax";}s:11:"frontmatter";s:320:"title: Example Post
 visible: false
 sitemap:

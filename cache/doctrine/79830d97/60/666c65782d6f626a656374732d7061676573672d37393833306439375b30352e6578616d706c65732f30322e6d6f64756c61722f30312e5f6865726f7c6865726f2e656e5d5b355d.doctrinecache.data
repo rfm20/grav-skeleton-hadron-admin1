@@ -1,4 +1,4 @@
-1764730338
+1764730976
 O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:22:"examples/modular/_hero";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:3:{s:5:"title";s:4:"Hero";s:12:"hero_classes";s:19:"parallax text-light";s:10:"hero_image";s:8:"hero.jpg";}s:11:"frontmatter";s:66:"title: Hero
 hero_classes: parallax text-light
 hero_image: hero.jpg";s:8:"markdown";s:369:"# Modular Page

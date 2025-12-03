@@ -1,4 +1,4 @@
-1764730339
+1764730976
 O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:6:"footer";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:3:{s:5:"title";s:6:"Footer";s:8:"routable";b:0;s:7:"visible";b:0;}s:11:"frontmatter";s:44:"title: Footer
 routable: false
 visible: false";s:8:"markdown";s:3509:"<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"/>

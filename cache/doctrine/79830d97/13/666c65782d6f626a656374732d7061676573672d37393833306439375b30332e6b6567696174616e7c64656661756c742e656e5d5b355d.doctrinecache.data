@@ -1,4 +1,4 @@
-1764730338
+1764730976
 O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:8:"kegiatan";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:6:{s:5:"title";s:18:"Kegiatan & Laporan";s:7:"sitemap";a:3:{s:10:"changefreq";s:7:"monthly";s:8:"priority";d:0.8;s:7:"lastmod";s:10:"02-08-2025";}s:4:"date";s:16:"02-08-2025 00:00";s:8:"page-toc";a:1:{s:5:"depth";i:3;}s:7:"sidebar";a:2:{s:7:"display";b:0;s:8:"show_toc";b:0;}s:11:"media_order";s:23:"a1-program-kegiatan.pdf";}s:11:"frontmatter";s:237:"title: 'Kegiatan & Laporan'
 sitemap:
     changefreq: monthly
