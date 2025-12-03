@@ -1,0 +1,202 @@
+<?php
+
+use Twig\Environment;
+use Twig\Error\LoaderError;
+use Twig\Error\RuntimeError;
+use Twig\Markup;
+use Twig\Sandbox\SecurityError;
+use Twig\Sandbox\SecurityNotAllowedTagError;
+use Twig\Sandbox\SecurityNotAllowedFilterError;
+use Twig\Sandbox\SecurityNotAllowedFunctionError;
+use Twig\Source;
+use Twig\Template;
+
+/* @Page:C:/xampp/htdocs/grav/grav-skeleton-hadron+admin1/user/pages/03.kegiatan/kegiatan-4/02.umum-aparatur */
+class __TwigTemplate_14c6bf6252afa14607e627d6c4a16fd6d2921d68c3a82e1c3c6a3df717090e35 extends \Twig\Template
+{
+    public function __construct(Environment $env)
+    {
+        parent::__construct($env);
+
+        $this->parent = false;
+
+        $this->blocks = [
+        ];
+    }
+
+    protected function doDisplay(array $context, array $blocks = [])
+    {
+        // line 1
+        echo "<style>
+.page-wrapper {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 15px;
+}
+
+/* Title */
+.section-title {
+  text-align: center;
+  margin: 0 0 40px 0;
+  padding-bottom: 15px;
+  border-bottom: 3px solid #0d6e4f;
+  font-size: 2.2rem;
+  font-weight: 800;
+  color: #0d6e4f;
+}
+
+/* Card */
+.section-card {
+  background: #ffffff;
+  padding: 28px 30px;
+  margin-bottom: 35px;
+  border-radius: 18px;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.08);
+}
+
+.section-card h2 {
+  color: #0d6e4f !important;
+  font-weight: 700 !important;
+  margin-top: 0;
+  margin-bottom: 18px;
+  font-size: 1.6rem !important;
+}
+
+/* Links */
+.link-list {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  margin-top: 10px;
+}
+
+.link-btn {
+  background: #0d6e4f !important;
+  color: #ffffff !important;
+  padding: 14px 18px;
+  border-radius: 12px;
+  text-align: center;
+  font-weight: 600;
+  transition: 0.25s ease;
+  display: block;
+  width: 100%;
+}
+
+.link-btn:hover {
+  background: #0b5d42;
+  transform: translateY(-2px);
+}
+
+</style>
+<div class=\"page-wrapper\">
+
+<div class=\"section-title\">Umum Aparatur</div>
+
+<!-- =======================
+      SOP Pedoman Pengelolaan Organisasi
+=========================== -->
+<div class=\"section-card\">
+<h2 id=\"sop-pedoman-pengelolaan-o\"><a href=\"#sop-pedoman-pengelolaan-o\" class=\"toc-anchor before\" data-anchor-icon=\"#\" aria-label=\"Anchor\"></a>SOP Pedoman Pengelolaan Organisasi</h2>
+
+<div class=\"link-list\">
+  <a class=\"link-btn external-link no-image\" href=\"https://drive.google.com/file/d/1-Ue3HuVHSE2b0Q4Cq4gBauweoF0g4dm5/view\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">SOP Penyusunan Rencana Strategis DPMD</a>
+
+  <a class=\"link-btn external-link no-image\" href=\"https://drive.google.com/file/d/1Wgnr3BZwLtsi52BX3L0xRQ_1tFXP81GN/view\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">SOP Penyusunan Rencana Kerja Tahunan DPMD</a>
+
+  <a class=\"link-btn external-link no-image\" href=\"https://drive.google.com/file/d/1L5FPdXhHPexGM9Tu8C3IUR6fH6rJnJdx/view\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">SOP Penyusunan Indikator Kinerja Utama DPMD</a>
+
+  <a class=\"link-btn external-link no-image\" href=\"https://drive.google.com/file/d/1W2TxmFY0alKq88RKPj4TqX_IHyKNMu_a/view\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">SOP Penyusunan Penetapan Kinerja DPMD</a>
+
+  <a class=\"link-btn external-link no-image\" href=\"https://drive.google.com/file/d/1x1FQakTXfy7EYUzKRFe_uueZncLDtsF_/view\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">SOP LAKIP DPMD</a>
+
+  <a class=\"link-btn external-link no-image\" href=\"https://drive.google.com/file/d/1dOw4wL1WOcJ6G1V6ZvXD5q1gW3PngZbh/view\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">SOP LPPD &amp; LKPJ DPMD</a>
+</div>
+</div>
+
+<!-- =======================
+      SOP Pengelolaan Administrasi
+=========================== -->
+<div class=\"section-card\">
+<h2 id=\"sop-pedoman-pengelolaan-a\"><a href=\"#sop-pedoman-pengelolaan-a\" class=\"toc-anchor before\" data-anchor-icon=\"#\" aria-label=\"Anchor\"></a>SOP Pedoman Pengelolaan Administrasi</h2>
+
+<div class=\"link-list\">
+
+  <a class=\"link-btn external-link no-image\" href=\"https://drive.google.com/file/d/1toX_Pzr2xQDNX-0e3RKdXc5gYTILqjqt/view\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">SOP Administrasi Surat Masuk</a>
+
+  <a class=\"link-btn external-link no-image\" href=\"https://drive.google.com/file/d/1_C9b6QZo4xWfJTRb7NZfgtEXSGxYyoJ5/view\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">SOP Administrasi Surat Keluar</a>
+
+  <a class=\"link-btn external-link no-image\" href=\"https://drive.google.com/file/d/1VgA2Me8uJIayL2l_CNzgrij70PoKWLPc/view\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">SOP Prosedur Penyusunan SOP</a>
+
+  <a class=\"link-btn external-link no-image\" href=\"https://drive.google.com/file/d/16-VjZG_jGri6todsBy2LbBPtEACm1bUU/view\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">SOP Penyusunan DUK</a>
+
+</div>
+</div>
+
+<!-- =======================
+      SOP Pedoman Kepegawaian
+=========================== -->
+<div class=\"section-card\">
+<h2 id=\"sop-pedoman-kepegawaian\"><a href=\"#sop-pedoman-kepegawaian\" class=\"toc-anchor before\" data-anchor-icon=\"#\" aria-label=\"Anchor\"></a>SOP Pedoman Kepegawaian</h2>
+
+<div class=\"link-list\">
+
+  <a class=\"link-btn external-link no-image\" href=\"https://drive.google.com/file/d/1cfhaWAxJE7ixWXqNqD_guqLG1-9svwDk/view\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">SOP Usulan Formasi PNS</a>
+
+  <a class=\"link-btn external-link no-image\" href=\"https://drive.google.com/file/u/1/d/1qY5lAZ9jhg9TD6iHBUI-L1ZLrPsIheDd/view\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">SOP Izin Cuti ASN</a>
+
+  <a class=\"link-btn external-link no-image\" href=\"https://drive.google.com/file/d/1PSAQtcPn_meTQYyigQWIKrh2eic0wTuJ/view\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">SOP Usulan Kenaikan Pangkat</a>
+
+  <a class=\"link-btn external-link no-image\" href=\"https://drive.google.com/file/d/1D0bjJCptuc5nGROWH5B5scw9wvx4JPSL/view\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">SOP Kenaikan Gaji Berkala</a>
+
+  <a class=\"link-btn external-link no-image\" href=\"https://drive.google.com/file/d/1FaSbzHtCeUni4GUfSooKOmsJfqYu6DzL/view\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">SOP Diklat, Beasiswa, &amp; Tugas Belajar</a>
+
+</div>
+</div>
+
+<!-- =======================
+      SOP Pengelolaan Keuangan
+=========================== -->
+<div class=\"section-card\">
+<h2 id=\"sop-pedoman-pengelolaan-k\"><a href=\"#sop-pedoman-pengelolaan-k\" class=\"toc-anchor before\" data-anchor-icon=\"#\" aria-label=\"Anchor\"></a>SOP Pedoman Pengelolaan Keuangan</h2>
+
+<div class=\"link-list\">
+
+  <a class=\"link-btn external-link no-image\" href=\"https://drive.google.com/file/d/1vDKDiBLu6cZFqicI0-wptJBMnoxjzr4B/view\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">SOP Belanja GU</a>
+
+  <a class=\"link-btn external-link no-image\" href=\"https://drive.google.com/file/d/1f7uc7UO21JJcMhkKodoU7o1ZHL_oOUWs/view\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">SOP Belanja TU</a>
+
+  <a class=\"link-btn external-link no-image\" href=\"https://drive.google.com/file/d/1Hd38dmJVmcjPSNF8LR3dVgzdIKmt5vGK/view\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">SOP Belanja LS</a>
+
+  <a class=\"link-btn external-link no-image\" href=\"https://drive.google.com/file/d/1QdG1LbIRvL6FVW0iawAy2wfLbRHLh9rb/view\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">SOP Belanja UP</a>
+
+  <a class=\"link-btn external-link no-image\" href=\"https://drive.google.com/file/d/1_gjSPAyTvONBFITt4l5bsdNsBCUKbQDN/view\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">SOP Belanja Tidak Langsung Gaji, Tunjangan, &amp; TPP</a>
+
+</div>
+</div>
+
+</div>";
+    }
+
+    public function getTemplateName()
+    {
+        return "@Page:C:/xampp/htdocs/grav/grav-skeleton-hadron+admin1/user/pages/03.kegiatan/kegiatan-4/02.umum-aparatur";
+    }
+
+    public function getDebugInfo()
+    {
+        return array (  30 => 1,);
+    }
+
+    /** @deprecated since 1.27 (to be removed in 2.0). Use getSourceContext() instead */
+    public function getSource()
+    {
+        @trigger_error('The '.__METHOD__.' method is deprecated since version 1.27 and will be removed in 2.0. Use getSourceContext() instead.', E_USER_DEPRECATED);
+
+        return $this->getSourceContext()->getCode();
+    }
+
+    public function getSourceContext()
+    {
+        return new Source("", "@Page:C:/xampp/htdocs/grav/grav-skeleton-hadron+admin1/user/pages/03.kegiatan/kegiatan-4/02.umum-aparatur", "");
+    }
+}

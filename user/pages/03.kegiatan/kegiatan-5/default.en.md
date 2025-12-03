@@ -3,8 +3,8 @@ title: 'Data SAKIP'
 date: '26-11-2025 06:26'
 visible: true
 process:
-  markdown: true
-  twig: true
+    markdown: true
+    twig: true
 ---
 
 <style>
@@ -89,37 +89,87 @@ process:
 
 <div class="link-list">
 
-<a class="link-item">📄 Pedoman Teknis AKIP Internal DPMD</a>
-<a class="link-item">📄 Pedoman Teknis Perencanaan Kinerja dan Anggaran DPMD</a>
-<a class="link-item">📄 LAKIP DPMD Tahun 2024</a>
-<a class="link-item">📄 Laporan Monev Renaksi Triwulan 1 DPMD 2025 (e-SAKIP)</a>
-<a class="link-item">📄 LKPJ DPMD Tahun 2024</a>
-<a class="link-item">📄 LPPD DPMD Tahun 2024</a>
-<a class="link-item">📄 Rencana Aksi DPMD Tahun 2025</a>
-<a class="link-item">📄 Rencana Kerja DPMD Tahun 2025</a>
-<a class="link-item">📄 Renstra DPMD 2024–2026</a>
-<a class="link-item">📄 Perjankin 2025</a>
-<a class="link-item">📄 Laporan Realisasi Anggaran 2024</a>
-<a class="link-item">📄 CALK 2024</a>
-<a class="link-item">📄 Daftar Aset Badan Publik Tahun 2025</a>
-<a class="link-item">📄 Neraca Tahun 2024</a>
-<a class="link-item">📄 DPA Tahun 2025</a>
-<a class="link-item">📄 RKA Tahun 2025</a>
-<a class="link-item">📄 Realisasi Anggaran Triwulan 1 Tahun 2025</a>
-<a class="link-item">📄 Renstra DPMD 2018–2023</a>
-<a class="link-item">📄 SK IKU DPMD 2021</a>
-<a class="link-item">📄 LAKIP DPMD 2020</a>
-<a class="link-item">📄 Perjankin DPMD 2021</a>
-<a class="link-item">📄 Laporan Realisasi Anggaran 2023</a>
-<a class="link-item">📄 Catatan atas Laporan Keuangan 2023</a>
-<a class="link-item">📄 Neraca 2023</a>
-<a class="link-item">📄 DPA 2024</a>
-<a class="link-item">📄 Program Kegiatan Tahun 2023</a>
-
+<a class="link-item" href="https://drive.google.com/file/d/1MCkxut_Z_s70QXhUt_TdCSz9k0lMS9xa/view" target="_blank">
+📄 Pedoman Teknis AKIP Internal DPMD
+</a>
+<a class="link-item" href="https://drive.google.com/file/d/1bmljN0ivmYc3kom6ymUCQzuGUUBewOff/view" target="_blank">
+📄 Pedoman Teknis Perencanaan Kinerja dan Anggaran DPMD
+</a>
+<a class="link-item" href="https://drive.google.com/file/d/1ai7cCrh8nMZvHYC1RdR2NQFEyXssEUmE/view" target="_blank">
+📄 LAKIP DPMD Tahun 2024
+</a>
+<a class="link-item" href="https://drive.google.com/file/d/1U9bWEWOYb2ruj30jxGcvZR2dusWxfOcT/view" target="_blank">
+📄 Laporan Monev Renaksi Triwulan 1 DPMD 2025 (e-SAKIP)
+</a>
+<a class="link-item" href="" target="_blank">
+📄 LKPJ DPMD Tahun 2024
+</a>
+<a class="link-item" href="" target="_blank">
+📄 LPPD DPMD Tahun 2024
+</a>
+<a class="link-item" href="" target="_blank">
+📄 Rencana Aksi DPMD Tahun 2025
+</a>
+<a class="link-item" href="" target="_blank">
+📄 Rencana Kerja DPMD Tahun 2025
+</a>
+<a class="link-item" href="" target="_blank">
+📄 Renstra DPMD 2024–2026
+</a>
+<a class="link-item" href="" target="_blank">
+📄 Perjankin 2025
+</a>
+<a class="link-item" href="" target="_blank">
+📄 Laporan Realisasi Anggaran 2024
+</a>
+<a class="link-item" href="" target="_blank">
+📄 CALK 2024
+</a>
+<a class="link-item" href="" target="_blank">
+📄 Daftar Aset Badan Publik Tahun 2025
+</a>
+<a class="link-item" href="" target="_blank">
+📄 Neraca Tahun 2024
+</a>
+<a class="link-item" href="" target="_blank">
+📄 DPA Tahun 2025
+</a>
+<a class="link-item" href="" target="_blank">
+📄 RKA Tahun 2025
+</a>
+<a class="link-item" href="" target="_blank">
+📄 Realisasi Anggaran Triwulan 1 Tahun 2025
+</a>
+<a class="link-item" href="" target="_blank">
+📄 Renstra DPMD 2018–2023
+</a>
+<a class="link-item" href="" target="_blank">
+📄 SK IKU DPMD 2021
+</a>
+<a class="link-item" href="" target="_blank">
+📄 LAKIP DPMD 2020
+</a>
+<a class="link-item" href="" target="_blank">
+📄 Perjankin DPMD 2021
+</a>
+<a class="link-item" href="" target="_blank">
+📄 Laporan Realisasi Anggaran 2023
+</a>
+<a class="link-item" href="" target="_blank">
+📄 Catatan atas Laporan Keuangan 2023
+</a>
+<a class="link-item" href="" target="_blank">
+📄 Neraca 2023
+</a>
+<a class="link-item" href="" target="_blank">
+📄 DPA 2024
+</a>
+<a class="link-item" href="" target="_blank">
+📄 Program Kegiatan Tahun 2023
+</a>
 <a class="link-item" href="https://drive.google.com/file/d/1EaoLJ92BbvoHH2KCosQkuRy0fBW95OEV/view" target="_blank">
 📄 Program Kegiatan TW 1 Tahun 2024
 </a>
-
 <a class="link-item" href="https://drive.google.com/file/d/1HOhr7CoU_82GFWbDQXq8mnyRnP9Sdh-m/view" target="_blank">
 📄 Daftar Aset Badan Publik
 </a>

@@ -1,0 +1,178 @@
+<?php
+return [
+    '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
+    'filename' => 'C:/xampp/htdocs/grav/grav-skeleton-hadron+admin1/user/plugins/snipcart/languages/de.yaml',
+    'modified' => 1754217420,
+    'size' => 3732,
+    'data' => [
+        'PLUGIN_SNIPCART' => [
+            'SETTINGS' => [
+                'BUILT_IN_CSS' => 'Verwende eingebautes CSS',
+                'API_KEY' => 'API Schlüssel',
+                'VERSION' => 'Version',
+                'VERSION_DESCRIPTION' => 'Lass leer für die neueste Version oder gib eine spezifische Version wie `3.7.1` an',
+                'DEFAULT_CURRENCY' => 'Standardwährung',
+                'MODAL_STYLE' => 'Modalstil',
+                'MODAL_STYLE_DESCRIPTION' => 'Wie das Snipcart Modal angezeigt werden soll, wenn Artikel zum Warenkorb hinzugefügt werden.',
+                'MODAL_STYLE_FULL_PAGE' => 'ganze Seite',
+                'MODAL_STYLE_MODAL' => 'Modal (seitlich)'
+            ],
+            'TEMPLATES' => [
+                'CHECKOUT' => 'Kasse',
+                'DETAILS' => 'Details',
+                'ADD' => 'Hinzufügen',
+                'ADD_TO_CART' => 'In den Warenkorb'
+            ],
+            'PAGE_OPTIONS' => [
+                'DEFAULT' => [
+                    'MODULAR_TITLE' => 'Snipcart Artikel'
+                ],
+                'CATEGORY' => [
+                    'MODULAR_TITLE' => 'Snipcart Artikel'
+                ],
+                'DETAIL' => [
+                    'TITLE' => 'Snipcart Artikel',
+                    'DESCRIPTION' => [
+                        'LABEL' => 'Beschreibung'
+                    ],
+                    'PRODUCT_ID' => [
+                        'LABEL' => 'Produkt ID'
+                    ],
+                    'PRICE' => [
+                        'LABEL' => 'Preis'
+                    ],
+                    'CATEGORIES' => [
+                        'LABEL' => 'Kategorien'
+                    ],
+                    'FILE_GUID' => [
+                        'LABEL' => 'Datei GUID'
+                    ],
+                    'STACKABLE' => [
+                        'LABEL' => 'Stapelbar',
+                        'HELP' => 'Wie mit mehreren Artikeln desselben Typs im Warenkorb umgegangen werden soll. Stapelfähig bedeutet, dass es als ein Artikel mit einer Menge gezählt wird, nicht stapelfähig bedeutet, dass es als mehrere Artikel gezählt wird.',
+                        'OPTIONS' => [
+                            'AUTO' => 'Automatisch wählen',
+                            'NEVER' => 'Nie stapeln',
+                            'ALWAYS' => 'Immer stapeln'
+                        ]
+                    ],
+                    'SHIPABLE' => [
+                        'LABEL' => 'Versandfähig'
+                    ],
+                    'TAXABLE' => [
+                        'LABEL' => 'Steuerpflichtig'
+                    ],
+                    'METADATA' => [
+                        'LABEL' => 'JSON Metadaten'
+                    ],
+                    'DIMENSIONS' => [
+                        'TITLE' => 'Versandabmessungen',
+                        'WEIGHT' => [
+                            'LABEL' => 'Gewicht (g)'
+                        ],
+                        'WIDTH' => [
+                            'LABEL' => 'Breite (cm)'
+                        ],
+                        'LENGTH' => [
+                            'LABEL' => 'Länge (cm)'
+                        ],
+                        'HEIGHT' => [
+                            'LABEL' => 'Höhe (cm)'
+                        ]
+                    ],
+                    'QUANTITY' => [
+                        'TITLE' => 'Menge',
+                        'QUANTITY' => [
+                            'LABEL' => 'Menge'
+                        ],
+                        'MIN' => [
+                            'LABEL' => 'Mindestmenge'
+                        ],
+                        'MAX' => [
+                            'LABEL' => 'Höchstmenge'
+                        ],
+                        'STEPS' => [
+                            'LABEL' => 'Mengenschritte'
+                        ]
+                    ],
+                    'TAXES' => [
+                        'TITLE' => 'Steuern',
+                        'TAXES' => [
+                            'LABEL' => 'Anzuwendende Steuern'
+                        ],
+                        'INCLUDED' => [
+                            'LABEL' => 'Enthaltene Steuern'
+                        ]
+                    ],
+                    'PAYMENT' => [
+                        'TITLE' => 'Zahlung',
+                        'INTERVAL' => [
+                            'LABEL' => 'Intervall',
+                            'OPTIONS' => [
+                                'DAY' => 'Tag',
+                                'WEEK' => 'Woche',
+                                'MONTH' => 'Monat',
+                                'YEAR' => 'Jahr'
+                            ]
+                        ],
+                        'COUNT' => [
+                            'LABEL' => 'Intervallanzahl'
+                        ],
+                        'TRIAL' => [
+                            'LABEL' => 'Probezeit (Tage)'
+                        ]
+                    ],
+                    'SUBSCRIPTION' => [
+                        'TITLE' => 'Abonnement',
+                        'RECURRING_SHIPPING' => [
+                            'LABEL' => 'Wiederkehrender Versand'
+                        ],
+                        'CANCELLATION_ACTION' => [
+                            'LABEL' => 'Kündigungsaktion',
+                            'OPTIONS' => [
+                                'PARTIAL' => 'Teilrückerstattung letzte Zahlung',
+                                'CANCEL' => 'Kündigen nach aktuellem Abrechnungszeitraum'
+                            ]
+                        ],
+                        'PAUSING_ACTION' => [
+                            'LABEL' => 'Pausierungsaktion',
+                            'OPTIONS' => [
+                                'KEEP' => 'Beibehalten bis Ende des Abrechnungszeitraums',
+                                'PAUSE' => 'Pausieren und Abrechnungszeitraums bei Wiederaufnahme anpassen'
+                            ]
+                        ]
+                    ],
+                    'CUSTOM' => [
+                        'TITLE' => 'Benutzerdefinierte Felder',
+                        'NAME' => [
+                            'LABEL' => 'Name'
+                        ],
+                        'TYPE' => [
+                            'LABEL' => 'Type',
+                            'OPTIONS' => [
+                                'AUTO' => 'Automatisch (Text, Nummer, Auswahl)',
+                                'CHECKBOX' => 'Checkbox (muss Optionen true,false hinzufügen)',
+                                'TEXTAREA' => 'Textfeld',
+                                'READONLY' => 'Schreibgeschützt',
+                                'HIDDEN' => 'Versteckt'
+                            ]
+                        ],
+                        'OPTIONS' => [
+                            'LABEL' => 'Optionen',
+                            'DESCRIPTION' => 'Liste der Optionen: Verwende `true,false` für Checkboxen, füge `[+10]` als Postfix hinzu, um einen Preismodifikator für eine Option hinzuzufügen, z.B. `Option 1 [+10]` fügt 10 zum Preis hinzu, wenn ausgewählt.'
+                        ],
+                        'REQUIRED' => [
+                            'LABEL' => 'Erforderlich'
+                        ],
+                        'VALUE' => [
+                            'LABEL' => 'Standardwert'
+                        ],
+                        'PLACEHOLDER' => [
+                            'LABEL' => 'Platzhalter'
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+];

@@ -1,0 +1,18 @@
+1764726657
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:23:"examples/shop/geek-toys";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:5:{s:5:"title";s:9:"Geek Toys";s:8:"category";s:9:"Geek Toys";s:7:"content";a:2:{s:5:"items";s:14:"@self.children";s:5:"order";a:2:{s:2:"by";s:5:"title";s:3:"dir";s:3:"asc";}}s:7:"sitemap";a:3:{s:10:"changefreq";s:5:"never";s:8:"priority";d:0.3;s:7:"lastmod";s:10:"01-08-2025";}s:4:"date";s:10:"01-08-2025";}s:11:"frontmatter";s:189:"title: Geek Toys
+category: Geek Toys
+content:
+  items: @self.children
+  order:
+    by: title
+    dir: asc
+sitemap:
+  changefreq: never
+  priority: 0.3
+  lastmod: 01-08-2025
+date: 01-08-2025";s:8:"markdown";s:371:"# Geek Toys
+!!! **This is a demo page for a shop with Snipcart in Grav with Hadron. This is not a real shop.**  
+!!! For demonstration purposes, the products are not real and the prices are not valid. You can add products to the cart and go through the checkout process, but no real payment will be processed.
+
+## Anime, Gaming, Movies, Comics, we have **all your toys**
+";}s:7:"storage";a:9:{s:3:"key";s:23:"examples/shop/geek-toys";s:11:"storage_key";s:53:"05.examples/05.shop/02.geek-toys|snipcart_category.en";s:8:"template";s:17:"snipcart_category";s:17:"storage_timestamp";i:1754217411;s:8:"markdown";a:2:{s:2:"de";a:1:{s:17:"snipcart_category";i:1754217411;}s:2:"en";a:1:{s:17:"snipcart_category";i:1754217411;}}s:8:"children";a:4:{s:21:"ax389-creepa-backpack";b:0;s:15:"ia449-brick-mug";b:0;s:16:"je292-rd2d-timer";b:0;s:19:"pt221-stuffy-turret";b:0;}s:8:"checksum";s:32:"f95f351cc72c9e9f0e723aaea91459f8";s:6:"exists";b:1;s:4:"lang";s:2:"en";}}

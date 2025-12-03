@@ -1,0 +1,8 @@
+1764727505
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:31:"examples/embedlycard/example-03";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:7:{s:5:"title";s:50:"Bilder mit Squoosh bearbeiten | Crabston Tutorials";s:9:"published";b:1;s:7:"visible";b:0;s:12:"cache_enable";b:1;s:18:"embedly_card_title";s:50:"Bilder mit Squoosh bearbeiten | Crabston Tutorials";s:22:"embedly_card_alignment";s:4:"left";s:16:"embedly_card_url";s:64:"https://tutorials.crabston.ch/grav/bilder-mit-squoosh-bearbeiten";}s:11:"frontmatter";s:296:"title: 'Bilder mit Squoosh bearbeiten | Crabston Tutorials'
+published: true
+visible: false
+cache_enable: true
+embedly_card_title: 'Bilder mit Squoosh bearbeiten | Crabston Tutorials'
+embedly_card_alignment: left
+embedly_card_url: 'https://tutorials.crabston.ch/grav/bilder-mit-squoosh-bearbeiten'";s:8:"markdown";s:0:"";}s:7:"storage";a:6:{s:3:"key";s:31:"examples/embedlycard/example-03";s:11:"storage_key";s:37:"05.examples/10.embedlycard/example-03";s:8:"template";s:11:"embedlycard";s:17:"storage_timestamp";i:1754217411;s:8:"markdown";a:1:{s:0:"";a:1:{s:11:"embedlycard";i:1754217411;}}s:8:"checksum";s:32:"7149f498fb64f58fe919ec894b509ece";}}

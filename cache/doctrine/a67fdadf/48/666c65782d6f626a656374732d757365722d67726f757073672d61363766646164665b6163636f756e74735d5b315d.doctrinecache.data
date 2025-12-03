@@ -1,0 +1,2 @@
+1764727506
+O:49:"Grav\Common\Flex\Types\UserGroups\UserGroupObject":4:{s:4:"type";s:11:"user-groups";s:3:"key";s:8:"accounts";s:8:"elements";a:5:{s:6:"access";a:1:{s:5:"admin";a:1:{s:5:"users";b:1;}}s:12:"readableName";s:15:"Account Manager";s:7:"enabled";b:1;s:11:"description";s:29:"Kann Benutzerkonten verwalten";s:9:"groupname";s:8:"accounts";}s:7:"storage";a:3:{s:11:"storage_key";s:8:"accounts";s:3:"key";s:8:"accounts";s:17:"storage_timestamp";i:1754217411;}}

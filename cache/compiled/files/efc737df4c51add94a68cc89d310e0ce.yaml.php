@@ -1,0 +1,54 @@
+<?php
+return [
+    '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
+    'filename' => 'C:/xampp/htdocs/grav/grav-skeleton-hadron+admin1/user/plugins/dotenv/blueprints.yaml',
+    'modified' => 1754217414,
+    'size' => 781,
+    'data' => [
+        'name' => 'DotEnv',
+        'version' => '2.1.1',
+        'description' => 'Loads environment variables from env file',
+        'icon' => 'empire',
+        'author' => [
+            'name' => 'Team Grav',
+            'email' => 'devs@getgrav.org',
+            'url' => 'https://getgrav.org'
+        ],
+        'homepage' => 'https://github.com/getgrav/grav-plugin-dotenv',
+        'keywords' => 'dotenv, env, environment',
+        'bugs' => 'https://github.com/getgrav/grav-plugin-dotenv/issues',
+        'license' => 'MIT',
+        'dependencies' => [
+            0 => [
+                'name' => 'grav',
+                'version' => '>=1.7'
+            ]
+        ],
+        'form' => [
+            'validation' => 'loose',
+            'fields' => [
+                'enabled' => [
+                    'type' => 'toggle',
+                    'label' => 'PLUGIN_ADMIN.PLUGIN_STATUS',
+                    'highlight' => 1,
+                    'default' => 0,
+                    'options' => [
+                        1 => 'PLUGIN_ADMIN.ENABLED',
+                        0 => 'PLUGIN_ADMIN.DISABLED'
+                    ],
+                    'validate' => [
+                        'type' => 'bool'
+                    ]
+                ],
+                'filename' => [
+                    'type' => 'text',
+                    'label' => 'Environment Filename',
+                    'default' => '.gravenv',
+                    'validate' => [
+                        'required' => true
+                    ]
+                ]
+            ]
+        ]
+    ]
+];

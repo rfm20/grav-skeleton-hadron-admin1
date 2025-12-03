@@ -1,0 +1,6 @@
+1764726918
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:6:"footer";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:3:{s:5:"title";s:6:"Footer";s:8:"routable";b:0;s:7:"visible";b:0;}s:11:"frontmatter";s:44:"title: Footer
+routable: false
+visible: false";s:8:"markdown";s:119:"---
+© {{ 'now' | date('Y') }} [DPMD Provinsi Kalimantan Barat](https://dpmd.kalbarprov.go.id/) | All Rights Reserved.
+";}s:7:"storage";a:8:{s:3:"key";s:6:"footer";s:11:"storage_key";s:17:"footer|default.de";s:8:"template";s:7:"default";s:17:"storage_timestamp";i:1764141917;s:8:"markdown";a:1:{s:2:"de";a:1:{s:7:"default";i:1764141917;}}s:8:"checksum";s:32:"50672b7d11e143ce92cb9d4559687172";s:6:"exists";b:1;s:4:"lang";s:2:"de";}}
