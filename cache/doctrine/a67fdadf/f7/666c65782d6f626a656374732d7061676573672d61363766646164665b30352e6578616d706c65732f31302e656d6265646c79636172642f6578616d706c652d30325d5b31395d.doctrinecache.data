@@ -1,8 +1,0 @@
-1764727076
-O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:31:"examples/embedlycard/example-02";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:7:{s:5:"title";s:17:"Hadron Einleitung";s:9:"published";b:1;s:7:"visible";b:0;s:12:"cache_enable";b:0;s:18:"embedly_card_title";s:17:"Hadron Einleitung";s:22:"embedly_card_alignment";s:4:"left";s:16:"embedly_card_url";s:32:"https://usehadron.dev/docs/intro";}s:11:"frontmatter";s:199:"title: 'Hadron Einleitung'
-published: true
-visible: false
-cache_enable: false
-embedly_card_title: 'Hadron Einleitung'
-embedly_card_alignment: left
-embedly_card_url: 'https://usehadron.dev/docs/intro'";s:8:"markdown";s:0:"";}s:7:"storage";a:6:{s:3:"key";s:31:"examples/embedlycard/example-02";s:11:"storage_key";s:37:"05.examples/10.embedlycard/example-02";s:8:"template";s:11:"embedlycard";s:17:"storage_timestamp";i:1754217411;s:8:"markdown";a:1:{s:0:"";a:1:{s:11:"embedlycard";i:1754217411;}}s:8:"checksum";s:32:"93c8f058bf94a6f80ca9a670fd7187f4";}}

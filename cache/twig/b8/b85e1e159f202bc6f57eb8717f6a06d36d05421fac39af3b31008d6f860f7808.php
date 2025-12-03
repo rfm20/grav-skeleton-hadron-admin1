@@ -126,7 +126,7 @@ class __TwigTemplate_8bcfb21119fe0e1ec4933176a05834249564e1489c17911cda6c6785504
         echo "
 \t\t\t";
         // line 45
-        $this->loadTemplate("blog.html.twig", "blog.html.twig", 45, "42201311")->display(twig_array_merge($context, ["blog" => ($context["page"] ?? null)]));
+        $this->loadTemplate("blog.html.twig", "blog.html.twig", 45, "1932820846")->display(twig_array_merge($context, ["blog" => ($context["page"] ?? null)]));
         // line 95
         echo "\t\t</section>
 \t</section>
@@ -175,7 +175,7 @@ class __TwigTemplate_8bcfb21119fe0e1ec4933176a05834249564e1489c17911cda6c6785504
 
 
 /* blog.html.twig */
-class __TwigTemplate_8bcfb21119fe0e1ec4933176a05834249564e1489c17911cda6c678550433341___42201311 extends \Twig\Template
+class __TwigTemplate_8bcfb21119fe0e1ec4933176a05834249564e1489c17911cda6c678550433341___1932820846 extends \Twig\Template
 {
     public function __construct(Environment $env)
     {

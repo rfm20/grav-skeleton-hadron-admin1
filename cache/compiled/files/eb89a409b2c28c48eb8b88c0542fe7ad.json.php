@@ -2,11 +2,11 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledJsonFile',
     'filename' => 'C:/xampp/htdocs/grav/grav-skeleton-hadron+admin1/user/data/flex/indexes/pages.json',
-    'modified' => 1764726904,
-    'size' => 27454,
+    'modified' => 1764729134,
+    'size' => 27456,
     'data' => [
         'version' => '1.5',
-        'timestamp' => 1764726904,
+        'timestamp' => 1764729134,
         'count' => 92,
         'index' => [
             '' => [
@@ -65,31 +65,31 @@ return [
                 'key' => 'home/_highlights',
                 'storage_key' => '01.home/02._highlights',
                 'template' => 'features',
-                'storage_timestamp' => 1764639790,
+                'storage_timestamp' => 1764728885,
                 'markdown' => [
                     'de' => [
                         'features' => 1764639790
                     ],
                     'en' => [
-                        'features' => 1764639790
+                        'highlights' => 1764728885
                     ]
                 ],
-                'checksum' => 'e1b6f7504202b950eebe1e56eda268a2'
+                'checksum' => '8f09e9d0d434c6ef95cd001cd5a64c70'
             ],
             '01.home/03._contact' => [
                 'key' => 'home/_contact',
                 'storage_key' => '01.home/03._contact',
                 'template' => 'text',
-                'storage_timestamp' => 1764639790,
+                'storage_timestamp' => 1764729014,
                 'markdown' => [
                     'de' => [
                         'text' => 1754217411
                     ],
                     'en' => [
-                        'text' => 1764639790
+                        'text' => 1764729014
                     ]
                 ],
-                'checksum' => '6dbd07f98569a467cd9fb73971af80e8'
+                'checksum' => 'b212cee2aec530063360da06d4fbe72d'
             ],
             '02.profil' => [
                 'key' => 'profil',
@@ -1398,13 +1398,13 @@ return [
                 'key' => 'footer',
                 'storage_key' => 'footer',
                 'template' => 'default',
-                'storage_timestamp' => 1764141917,
+                'storage_timestamp' => 1764728229,
                 'markdown' => [
                     'de' => [
-                        'default' => 1764141917
+                        'default' => 1764728229
                     ]
                 ],
-                'checksum' => '50672b7d11e143ce92cb9d4559687172'
+                'checksum' => 'c1832981a9650713937c68ddb14728d0'
             ]
         ]
     ]

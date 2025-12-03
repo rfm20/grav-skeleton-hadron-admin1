@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => 'C:/xampp/htdocs/grav/grav-skeleton-hadron+admin1/user/config/system.yaml',
-    'modified' => 1764639790,
+    'modified' => 1764728872,
     'size' => 4840,
     'data' => [
         'absolute_urls' => false,

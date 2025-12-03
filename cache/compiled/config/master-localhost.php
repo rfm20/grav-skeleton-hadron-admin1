@@ -1,8 +1,8 @@
 <?php
 return [
     '@class' => 'Grav\\Common\\Config\\CompiledConfig',
-    'timestamp' => 1764639893,
-    'checksum' => '8b66d2e05eeb5d8b64236ce1205ccc5f',
+    'timestamp' => 1764728878,
+    'checksum' => '9baf2124f553580798c0591cf698491b',
     'files' => [
         'user/localhost/config' => [
             'plugins/snipcart' => [
@@ -133,7 +133,7 @@ return [
             ],
             'system' => [
                 'file' => 'user/config/system.yaml',
-                'modified' => 1764639790
+                'modified' => 1764728872
             ],
             'themes/hadron' => [
                 'file' => 'user/config/themes/hadron.yaml',

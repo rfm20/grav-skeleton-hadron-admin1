@@ -103,7 +103,7 @@ class __TwigTemplate_1aa01b98fc9645b12c33a2b5b75ab290722264e1899278997c3baf51e33
             echo "\t\t<div class=\"sidebar-content\">
 \t\t\t";
             // line 10
-            $this->loadTemplate("partials/sidebar.html.twig", "partials/sidebar.html.twig", 10, "1949634004")->display(twig_array_merge($context, ["limit" => 10, "snippet" => 150, "min" => 3, "search_type" => "auto", "dropdown" => true]));
+            $this->loadTemplate("partials/sidebar.html.twig", "partials/sidebar.html.twig", 10, "997578713")->display(twig_array_merge($context, ["limit" => 10, "snippet" => 150, "min" => 3, "search_type" => "auto", "dropdown" => true]));
             // line 11
             echo "\t\t</div>
 \t";
@@ -324,7 +324,7 @@ class __TwigTemplate_1aa01b98fc9645b12c33a2b5b75ab290722264e1899278997c3baf51e33
 
 
 /* partials/sidebar.html.twig */
-class __TwigTemplate_1aa01b98fc9645b12c33a2b5b75ab290722264e1899278997c3baf51e33133b8___1949634004 extends \Twig\Template
+class __TwigTemplate_1aa01b98fc9645b12c33a2b5b75ab290722264e1899278997c3baf51e33133b8___997578713 extends \Twig\Template
 {
     public function __construct(Environment $env)
     {
