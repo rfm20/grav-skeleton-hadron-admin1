@@ -1,0 +1,11 @@
+1764735694
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:23:"examples/modular/_alert";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:2:{s:5:"title";s:5:"Alert";s:11:"alert_color";s:4:"blue";}s:11:"frontmatter";s:30:"title: Alert
+alert_color: blue";s:8:"markdown";s:590:"**Modules**
+This modular page consists of 3 modules: a hero module and two text modules. Each module can be configured individually and contains its own content. This allows for complex page structures to be easily realized.
+
+**Hero Module**
+The hero module is a simple module that contains a background image, a title, and a subtitle. It can optionally be styled with a parallax effect or other styles.
+
+**Text Module**
+The text module is the standard module for text content. It can contain any number of paragraphs, headings, links, and images. The texts can be formatted with Markdown:
+";}s:7:"storage";a:8:{s:3:"key";s:23:"examples/modular/_alert";s:11:"storage_key";s:41:"07.examples/02.modular/02._alert|alert.en";s:8:"template";s:5:"alert";s:17:"storage_timestamp";i:1754217411;s:8:"markdown";a:2:{s:2:"de";a:1:{s:5:"alert";i:1754217411;}s:2:"en";a:1:{s:5:"alert";i:1754217411;}}s:8:"checksum";s:32:"2c5480c834961d7bd201483182f2cf47";s:6:"exists";b:1;s:4:"lang";s:2:"en";}}

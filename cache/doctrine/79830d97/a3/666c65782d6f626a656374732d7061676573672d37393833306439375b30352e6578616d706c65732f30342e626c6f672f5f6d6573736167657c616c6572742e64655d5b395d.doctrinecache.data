@@ -1,0 +1,10 @@
+1764732544
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:22:"examples/blog/_message";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:4:{s:11:"alert_color";s:4:"blue";s:5:"title";s:10:"Mitteilung";s:9:"published";b:1;s:7:"visible";b:1;}s:11:"frontmatter";s:65:"alert_color: blue
+title: Mitteilung
+published: true
+visible: true";s:8:"markdown";s:394:"**Dies ist eine Mitteilung**
+
+Dies ist eine Mitteilung, die auf der Blog-Seite angezeigt wird. Sie kann verwendet werden, um wichtige Informationen oder Ankündigungen zu machen. Die Mitteilung kann in verschiedenen Farben angezeigt werden, um sie hervorzuheben.
+
+Dieses Element kann diverse Formatierungsoptionen haben, wie z.B. **Fett**, *Kursiv*, [Links](#), Bilder, Zitate und vieles mehr.
+";}s:7:"storage";a:8:{s:3:"key";s:22:"examples/blog/_message";s:11:"storage_key";s:37:"05.examples/04.blog/_message|alert.de";s:8:"template";s:5:"alert";s:17:"storage_timestamp";i:1754217411;s:8:"markdown";a:2:{s:2:"de";a:1:{s:5:"alert";i:1754217411;}s:2:"en";a:1:{s:5:"alert";i:1754217411;}}s:8:"checksum";s:32:"9066173290509d8e8a8e47042c1bf152";s:6:"exists";b:1;s:4:"lang";s:2:"de";}}

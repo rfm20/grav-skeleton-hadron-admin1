@@ -32,7 +32,7 @@ modular_content:
 content:
     items:
         - '@self.children'
-    limit: 3
+    limit: 6
     order:
         by: date
         dir: asc

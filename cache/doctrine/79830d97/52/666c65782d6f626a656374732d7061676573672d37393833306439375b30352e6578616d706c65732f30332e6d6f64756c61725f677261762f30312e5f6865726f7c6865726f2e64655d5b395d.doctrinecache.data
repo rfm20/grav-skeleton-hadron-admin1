@@ -1,0 +1,11 @@
+1764732544
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:27:"examples/modular_grav/_hero";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:4:{s:5:"title";s:12:"Website Hero";s:4:"menu";s:5:"Start";s:12:"hero_classes";s:19:"parallax text-light";s:10:"hero_image";s:10:"header.jpg";}s:11:"frontmatter";s:90:"title: 'Website Hero'
+menu: Start
+hero_classes: parallax text-light
+hero_image: header.jpg";s:8:"markdown";s:257:"# Sag Hallo zu Grav
+## Schnell, Einfach, Leistungsstark...
+
+Grav ist ein modernes Flat-File-CMS, das darauf abzielt, die Webentwicklung wieder spaßig zu machen.
+
+[Dokumentation lesen](https://learn.getgrav.org?classes=btn,btn-primary,btn-lg&target=_blank)
+";}s:7:"storage";a:8:{s:3:"key";s:27:"examples/modular_grav/_hero";s:11:"storage_key";s:44:"05.examples/03.modular_grav/01._hero|hero.de";s:8:"template";s:4:"hero";s:17:"storage_timestamp";i:1754217411;s:8:"markdown";a:2:{s:2:"de";a:1:{s:4:"hero";i:1754217411;}s:2:"en";a:1:{s:4:"hero";i:1754217411;}}s:8:"checksum";s:32:"e6a6cc498cee344d8659b1e37dea254b";s:6:"exists";b:1;s:4:"lang";s:2:"de";}}

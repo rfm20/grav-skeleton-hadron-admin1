@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledMarkdownFile',
     'filename' => 'C:/xampp/htdocs/grav/grav-skeleton-hadron+admin1/user/pages/04.blog/blog.en.md',
-    'modified' => 1764730393,
+    'modified' => 1764731482,
     'size' => 911,
     'data' => [
         'header' => [
@@ -47,7 +47,7 @@ return [
                 'items' => [
                     0 => '@self.children'
                 ],
-                'limit' => 3,
+                'limit' => 6,
                 'order' => [
                     'by' => 'date',
                     'dir' => 'asc'
@@ -90,7 +90,7 @@ modular_content:
 content:
     items:
         - \'@self.children\'
-    limit: 3
+    limit: 6
     order:
         by: date
         dir: asc

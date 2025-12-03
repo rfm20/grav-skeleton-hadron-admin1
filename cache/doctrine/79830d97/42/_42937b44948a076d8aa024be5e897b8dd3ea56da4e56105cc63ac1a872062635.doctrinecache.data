@@ -1,0 +1,18 @@
+1764737924
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:22:"examples/shop/t-shirts";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:5:{s:5:"title";s:8:"T-Shirts";s:8:"category";s:8:"T-Shirts";s:7:"content";a:2:{s:5:"items";s:14:"@self.children";s:5:"order";a:2:{s:2:"by";s:7:"default";s:3:"dir";s:3:"asc";}}s:7:"sitemap";a:3:{s:10:"changefreq";s:5:"never";s:8:"priority";d:0.3;s:7:"lastmod";s:10:"01-08-2025";}s:4:"date";s:10:"01-08-2025";}s:11:"frontmatter";s:189:"title: T-Shirts
+category: T-Shirts
+content:
+  items: @self.children
+  order:
+    by: default
+    dir: asc
+sitemap:
+  changefreq: never
+  priority: 0.3
+  lastmod: 01-08-2025
+date: 01-08-2025";s:8:"markdown";s:358:"# T-Shirts
+!!! **This is a demo page for a shop with Snipcart in Grav with Hadron. This is not a real shop.**  
+!!! For demonstration purposes, the products are not real and the prices are not valid. You can add products to the cart and go through the checkout process, but no real payment will be processed.
+
+## We have both **cool** and **funny** t-shirts
+";}s:7:"storage";a:9:{s:3:"key";s:22:"examples/shop/t-shirts";s:11:"storage_key";s:52:"07.examples/05.shop/01.t-shirts|snipcart_category.en";s:8:"template";s:17:"snipcart_category";s:17:"storage_timestamp";i:1754217411;s:8:"markdown";a:2:{s:2:"de";a:1:{s:17:"snipcart_category";i:1754217411;}s:2:"en";a:1:{s:17:"snipcart_category";i:1754217411;}}s:8:"children";a:4:{s:20:"ts385-rocket-surgeon";b:0;s:14:"ts393-it-crowd";b:0;s:19:"ts872-no-place-like";b:0;s:25:"ts982-reynholm-industries";b:0;}s:8:"checksum";s:32:"22242a0ea13aabbd1565703e25a79964";s:6:"exists";b:1;s:4:"lang";s:2:"en";}}

@@ -1,0 +1,9 @@
+1764732544
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:26:"examples/modular/_sbs-item";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:2:{s:5:"title";s:11:"SbS Element";s:3:"sbs";a:4:{s:6:"layout";s:4:"left";s:9:"alignment";s:11:"center-left";s:5:"image";s:28:"/examples/modular/image.webp";s:9:"image_alt";s:20:"Die Bildbeschreibung";}}s:11:"frontmatter";s:137:"title: SbS Element
+sbs:
+  layout: left
+  alignment: center-left
+  image: /examples/modular/image.webp
+  image_alt: 'Die Bildbeschreibung'";s:8:"markdown";s:214:"## SbS Element
+Das SbS Element ist ein einzelner Baustein eines SbS-Layouts. Es kann links oder rechts positioniert werden und kann ein Bild und Text enthalten. Der Text kann nach 9 Positionen ausgerichtet werden.
+";}s:7:"storage";a:8:{s:3:"key";s:26:"examples/modular/_sbs-item";s:11:"storage_key";s:42:"05.examples/02.modular/07._sbs-item|sbs.de";s:8:"template";s:3:"sbs";s:17:"storage_timestamp";i:1754217411;s:8:"markdown";a:2:{s:2:"de";a:1:{s:3:"sbs";i:1754217411;}s:2:"en";a:1:{s:3:"sbs";i:1754217411;}}s:8:"checksum";s:32:"0aae57cc26ca1389540483228737b7d6";s:6:"exists";b:1;s:4:"lang";s:2:"de";}}

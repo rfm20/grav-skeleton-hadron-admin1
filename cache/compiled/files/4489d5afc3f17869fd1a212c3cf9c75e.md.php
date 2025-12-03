@@ -2,8 +2,8 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledMarkdownFile',
     'filename' => 'C:/xampp/htdocs/grav/grav-skeleton-hadron+admin1/user/pages/05.examples/default.en.md',
-    'modified' => 1764142238,
-    'size' => 1401,
+    'modified' => 1764732174,
+    'size' => 1418,
     'data' => [
         'header' => [
             'title' => 'Examples',
@@ -23,7 +23,8 @@ return [
                     'dir' => 'asc'
                 ]
             ],
-            'display_child_page_titles' => true
+            'display_child_page_titles' => true,
+            'published' => false
         ],
         'frontmatter' => 'title: Examples
 slug: examples
@@ -38,7 +39,8 @@ content:
     order:
         by: folder
         dir: asc
-display_child_page_titles: true',
+display_child_page_titles: true
+published: false',
         'markdown' => '[div class="columns"]
 [div class="column col-9 col-md-12 extra-spacing"]
 

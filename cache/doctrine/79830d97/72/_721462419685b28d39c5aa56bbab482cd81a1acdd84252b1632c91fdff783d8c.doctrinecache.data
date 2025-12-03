@@ -1,0 +1,12 @@
+1764735694
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:48:"examples/sections/section-three/subsection-three";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:4:{s:5:"title";s:16:"Subsection Three";s:8:"taxonomy";a:1:{s:6:"filter";a:2:{i:0;s:5:"view1";i:1;s:5:"view2";}}s:7:"sitemap";a:3:{s:10:"changefreq";s:5:"never";s:8:"priority";d:0.3;s:7:"lastmod";s:10:"01-08-2025";}s:4:"date";s:10:"01-08-2025";}s:11:"frontmatter";s:151:"title: Subsection Three
+taxonomy:
+  filter:
+    - view1
+    - view2
+sitemap:
+  changefreq: never
+  priority: 0.3
+  lastmod: 01-08-2025
+date: 01-08-2025";s:8:"markdown";s:802:"Aenean maximus placerat mi. Proin a porttitor leo, quis commodo ex. Praesent sit amet neque turpis. Sed fermentum, massa et iaculis vehicula, ligula ipsum tempus diam, ut placerat ligula nisi sed arcu. Nulla dictum sagittis enim sed hendrerit. Nunc eget vestibulum nisl. Integer at ex quis nulla lacinia vulputate a vel neque. Nam elementum id justo vel scelerisque. Fusce finibus erat at purus tincidunt aliquet. Mauris molestie maximus pellentesque. Sed finibus mattis turpis, quis fringilla mi varius vel. Morbi dictum, magna et sollicitudin dignissim, enim libero varius sapien, sit amet sagittis mi quam nec ligula. Proin consectetur nec sapien ac tincidunt. Aliquam faucibus leo a diam ultricies, eu luctus felis consectetur. Ut malesuada turpis id purus viverra, faucibus tempus augue placerat.
+";}s:7:"storage";a:8:{s:3:"key";s:48:"examples/sections/section-three/subsection-three";s:11:"storage_key";s:74:"07.examples/08.sections/03.section-three/03.subsection-three|subsection.en";s:8:"template";s:10:"subsection";s:17:"storage_timestamp";i:1754217411;s:8:"markdown";a:2:{s:2:"de";a:1:{s:10:"subsection";i:1754217411;}s:2:"en";a:1:{s:10:"subsection";i:1754217411;}}s:8:"checksum";s:32:"8322dfec6ba0bf0ef895dbfcf3d3c13e";s:6:"exists";b:1;s:4:"lang";s:2:"en";}}

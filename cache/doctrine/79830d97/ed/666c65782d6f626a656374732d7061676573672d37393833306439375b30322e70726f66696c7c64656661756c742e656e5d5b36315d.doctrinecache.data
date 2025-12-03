@@ -1,0 +1,121 @@
+1764737798
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:6:"profil";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:7:{s:5:"title";s:6:"Profil";s:4:"slug";s:10:"components";s:7:"sitemap";a:3:{s:10:"changefreq";s:7:"monthly";s:8:"priority";d:0.8;s:7:"lastmod";s:10:"02-08-2025";}s:4:"date";s:16:"02-08-2025 00:00";s:8:"page-toc";a:1:{s:5:"depth";i:3;}s:11:"media_order";s:28:"688093ffadf80-2025-07-23.jpg";s:7:"sidebar";a:2:{s:7:"display";b:0;s:8:"show_toc";b:0;}}s:11:"frontmatter";s:243:"title: Profil
+slug: components
+sitemap:
+    changefreq: monthly
+    priority: 0.8
+    lastmod: 02-08-2025
+date: '02-08-2025 00:00'
+page-toc:
+    depth: 3
+media_order: 688093ffadf80-2025-07-23.jpg
+sidebar:
+    display: false
+    show_toc: false";s:8:"markdown";s:2893:"<style>
+/* ===== GLOBAL CARD STYLE ===== */
+.profile-card {
+  background: #ffffff;
+  padding: 30px;
+  margin-bottom: 40px;
+  border-radius: 16px;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.08);
+}
+
+/* TITLE STYLE */
+.profile-card h2 {
+  text-align:center;
+  margin-top:0;
+  color:#064e3b;
+  font-weight:700;
+}
+
+/* TEXT */
+.profile-card p {
+  color:#444;
+  line-height:1.65;
+  margin-bottom:14px;
+}
+
+/* HERO */
+.profile-hero {
+  text-align:center;
+  padding: 55px 20px;
+  margin-bottom:40px;
+  background: linear-gradient(135deg, #064e3b, #15803d);
+  color: white;
+  border-radius: 18px;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.20);
+}
+
+.profile-hero h1 {
+  margin:0;
+  font-size:2.4rem;
+  font-weight:700;
+  color:#ffff;
+}
+
+.profile-hero p {
+  margin-top:10px;
+  font-size:1.15rem;
+  opacity:0.95;
+}
+</style>
+
+
+[div class="columns"]
+[div class="column col-12"]
+
+<!-- ===== HERO SECTION ===== -->
+<div class="profile-hero">
+  <h1>Profil Dinas PMD</h1>
+  <p>
+    Dinas Pemberdayaan Masyarakat dan Desa <br>
+    Provinsi Kalimantan Barat
+  </p>
+</div>
+
+
+<!-- ===== STRUKTUR ORGANISASI ===== -->
+<div class="profile-card">
+  <h2>Struktur Organisasi</h2>
+  <p style="text-align:center; color:#555;">
+    Berikut adalah struktur organisasi Dinas PMD Provinsi Kalimantan Barat:
+  </p>
+
+  <div style="text-align:center; margin-top:25px;">
+  {% markdown %}
+![688093ffadf80-2025-07-23](688093ffadf80-2025-07-23.jpg "688093ffadf80-2025-07-23")
+  {% endmarkdown %}
+  </div>
+</div>
+
+
+<!-- ===== SEJARAH ===== -->
+<div class="profile-card">
+  <h2>Sejarah</h2>
+
+  <p>
+    Pada Januari 2013, resmi terbentuk Badan Pemberdayaan Masyarakat dan Pemerintahan Daerah (BPMPD) Provinsi Kalimantan Barat. Drs. Y. Alexander, M.Si kemudian diamanahkan untuk memimpin lembaga baru ini.
+  </p>
+
+  <p>
+    Perjalanan kelembagaan ini memiliki akar sejarah panjang sejak Konferensi Gubernur tahun 1954, mulai dari Kementerian Pembangunan Masyarakat Desa, Ditjen Bangdes, hingga Ditjen Pemberdayaan Masyarakat dan Desa. Perubahan-perubahan ini dilakukan untuk memperkuat peran pemerintah dalam meningkatkan kualitas pembangunan dan pemberdayaan desa.
+  </p>
+
+  <p>
+    Fungsi lembaga mencakup dua aspek utama: pemberdayaan masyarakat desa—meliputi partisipasi, kelembagaan, perencanaan, administrasi, dan ketertiban—serta fungsi koordinatif lintas sektor seperti pendidikan, kesehatan, pertanian, dan infrastruktur desa.
+  </p>
+
+  <p>
+    Lembaga ini juga memegang peran penting dalam pelaksanaan berbagai program nasional seperti PNPM-MPd, Lomba Desa, Bulan Bhakti Gotong Royong, TMMD, UED-SP, BUMDes, Posyandu, dan kegiatan strategis lainnya.
+  </p>
+
+  <p>
+    Pada tahun 2016, berdasarkan Peraturan Daerah Provinsi Kalimantan Barat Nomor 8 Tahun 2016 dan Peraturan Gubernur Nomor 107 Tahun 2016, BPMPD resmi berubah menjadi 
+    <strong>Dinas Pemberdayaan Masyarakat dan Desa (Dinas PMD)</strong>.
+  </p>
+</div]
+
+[/div]
+[/div]
+";}s:7:"storage";a:9:{s:3:"key";s:6:"profil";s:11:"storage_key";s:20:"02.profil|default.en";s:8:"template";s:7:"default";s:17:"storage_timestamp";i:1764639790;s:8:"markdown";a:2:{s:2:"de";a:1:{s:7:"default";i:1754217411;}s:2:"en";a:1:{s:7:"default";i:1764639790;}}s:8:"children";a:3:{s:6:"images";b:0;s:8:"profil-1";b:0;s:8:"profil-2";b:0;}s:8:"checksum";s:32:"f094e394b1a10bbfb179b248512d60d6";s:6:"exists";b:1;s:4:"lang";s:2:"en";}}

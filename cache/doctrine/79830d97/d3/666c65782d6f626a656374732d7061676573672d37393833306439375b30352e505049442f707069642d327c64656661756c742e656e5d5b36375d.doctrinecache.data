@@ -1,0 +1,26 @@
+1764738516
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:11:"ppid/ppid-2";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:5:{s:5:"title";s:13:"SOP dan Rapat";s:4:"date";s:16:"26-11-2025 06:26";s:7:"visible";b:1;s:7:"process";a:2:{s:8:"markdown";b:1;s:4:"twig";b:1;}s:11:"media_order";s:29:"15-rapat-2.png,15-rapat-1.png";}s:11:"frontmatter";s:149:"title: 'SOP dan Rapat'
+date: '26-11-2025 06:26'
+visible: true
+process:
+    markdown: true
+    twig: true
+media_order: '15-rapat-2.png,15-rapat-1.png'";s:8:"markdown";s:791:"## SOP PPID
+[SOP PENGUMUMAN INFORMASI PUBLIK](https://drive.google.com/file/d/1uQC11RQEhNdAF_fYEMN_jGQ6eR6ZbCzt/view)
+
+[SOP PERMINTAAN INFORMASI PUBLIK](https://drive.google.com/file/d/1St6gjz_sdxz71RJfrwlGaWCNzoX8jcFJ/view)
+
+[SOP PENGAJUAN KEBERATAN](https://drive.google.com/file/d/17s-I4_FzTOAJ3ABrxEB_UdoEnow19ovM/view)
+
+[SOP PENETAPAN DAN PEMUTAKHIRAN DAFTAR INFORMASI PUBLIK](https://drive.google.com/file/d/1597GPYvBroYCf5v7i-_Xfe9KHQ80ucOn/view)
+
+[SOP PENDOKUMENTASIAN INFORMASI PUBLIK](https://drive.google.com/file/d/103Scn3xJNC8kWHoBse8gboR9GIsKdiyd/view)
+
+[SOP PENGUJIAN KONSEKUENSI](https://drive.google.com/file/d/1NxIUO8fLsf90JCSXzMcDU6_6fNQU6QM2/view)
+
+## Rapat PPID
+Dokumentasi Kegiatan
+
+![15-rapat-1](15-rapat-1.png "15-rapat-1")
+
+![15-rapat-2](15-rapat-2.png "15-rapat-2")";}s:7:"storage";a:8:{s:3:"key";s:11:"ppid/ppid-2";s:11:"storage_key";s:25:"05.PPID/ppid-2|default.en";s:8:"template";s:7:"default";s:17:"storage_timestamp";i:1764735176;s:8:"markdown";a:1:{s:2:"en";a:1:{s:7:"default";i:1764735176;}}s:8:"checksum";s:32:"79e1911280b5269220ba873e52491013";s:6:"exists";b:1;s:4:"lang";s:2:"en";}}

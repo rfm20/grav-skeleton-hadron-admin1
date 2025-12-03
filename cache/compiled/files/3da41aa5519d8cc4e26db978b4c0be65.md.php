@@ -1,0 +1,45 @@
+<?php
+return [
+    '@class' => 'Grav\\Common\\File\\CompiledMarkdownFile',
+    'filename' => 'C:/xampp/htdocs/grav/grav-skeleton-hadron+admin1/user/pages/05.PPID/ppid-1/default.en.md',
+    'modified' => 1764738239,
+    'size' => 1906,
+    'data' => [
+        'header' => [
+            'title' => 'Tata Cara',
+            'date' => '26-11-2025 06:26',
+            'visible' => true,
+            'process' => [
+                'markdown' => true,
+                'twig' => true
+            ],
+            'media_order' => 'TATA CARA MEMPEROLEH INFORMASI PUBLIK_page-0001.jpg,3.-TATA-CARA-PERMOHONAN-INFORMASI-2048x1148.jpg,4.-TATA-CARA-PENGAJUAN-KEBERATAN-INFORMASI-1-1536x861.png,5.-TATA-CARA-PENYELESAIAN-SENGKETA.png,b6 Tata Cara Pengaduan Penyalahgunaan Wewenang_page-0001.jpg,10.-PENGADUAN-PENYALAHGUNAAN-WEWENANG-B-2048x1700.jpg,10.-PENGADUAN-PENYALAHGUNAAN-WEWENANG-A-2048x1705.jpg'
+        ],
+        'frontmatter' => 'title: \'Tata Cara\'
+date: \'26-11-2025 06:26\'
+visible: true
+process:
+    markdown: true
+    twig: true
+media_order: \'TATA CARA MEMPEROLEH INFORMASI PUBLIK_page-0001.jpg,3.-TATA-CARA-PERMOHONAN-INFORMASI-2048x1148.jpg,4.-TATA-CARA-PENGAJUAN-KEBERATAN-INFORMASI-1-1536x861.png,5.-TATA-CARA-PENYELESAIAN-SENGKETA.png,b6 Tata Cara Pengaduan Penyalahgunaan Wewenang_page-0001.jpg,10.-PENGADUAN-PENYALAHGUNAAN-WEWENANG-B-2048x1700.jpg,10.-PENGADUAN-PENYALAHGUNAAN-WEWENANG-A-2048x1705.jpg\'',
+        'markdown' => '## Tata Cara Permohonan Informasi
+![3.-TATA-CARA-PERMOHONAN-INFORMASI-2048x1148](3.-TATA-CARA-PERMOHONAN-INFORMASI-2048x1148.jpg "3.-TATA-CARA-PERMOHONAN-INFORMASI-2048x1148")
+
+## Tata cara memperoleh informasi publik
+
+![TATA%20CARA%20MEMPEROLEH%20INFORMASI%20PUBLIK_page-0001](TATA%20CARA%20MEMPEROLEH%20INFORMASI%20PUBLIK_page-0001.jpg "TATA%20CARA%20MEMPEROLEH%20INFORMASI%20PUBLIK_page-0001")
+
+## Tata Cara Pengajuan Keberatan Informasi
+![4.-TATA-CARA-PENGAJUAN-KEBERATAN-INFORMASI-1-1536x861](4.-TATA-CARA-PENGAJUAN-KEBERATAN-INFORMASI-1-1536x861.png "4.-TATA-CARA-PENGAJUAN-KEBERATAN-INFORMASI-1-1536x861")
+
+## Tata Cara Pengajuan Permohonan Penyelesaian Sengketa ke Komisi Informasi
+![5.-TATA-CARA-PENYELESAIAN-SENGKETA](5.-TATA-CARA-PENYELESAIAN-SENGKETA.png "5.-TATA-CARA-PENYELESAIAN-SENGKETA")
+
+## SOP Tata Cara Pengaduan Penyalahgunaan Wewenang oleh Pejabat Badan Publik
+![10.-PENGADUAN-PENYALAHGUNAAN-WEWENANG-A-2048x1705](10.-PENGADUAN-PENYALAHGUNAAN-WEWENANG-A-2048x1705.jpg "10.-PENGADUAN-PENYALAHGUNAAN-WEWENANG-A-2048x1705")
+
+![10.-PENGADUAN-PENYALAHGUNAAN-WEWENANG-B-2048x1700](10.-PENGADUAN-PENYALAHGUNAAN-WEWENANG-B-2048x1700.jpg "10.-PENGADUAN-PENYALAHGUNAAN-WEWENANG-B-2048x1700")
+
+![b6%20Tata%20Cara%20Pengaduan%20Penyalahgunaan%20Wewenang_page-0001](b6%20Tata%20Cara%20Pengaduan%20Penyalahgunaan%20Wewenang_page-0001.jpg "b6%20Tata%20Cara%20Pengaduan%20Penyalahgunaan%20Wewenang_page-0001")'
+    ]
+];

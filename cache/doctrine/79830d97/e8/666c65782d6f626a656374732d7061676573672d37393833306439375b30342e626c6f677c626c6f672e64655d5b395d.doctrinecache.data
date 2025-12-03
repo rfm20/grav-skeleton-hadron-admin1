@@ -1,0 +1,43 @@
+1764732552
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:4:"blog";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:16:{s:5:"title";s:4:"Blog";s:8:"blog_url";s:5:"/blog";s:7:"sitemap";a:3:{s:10:"changefreq";s:5:"never";s:8:"priority";d:0.3;s:7:"lastmod";s:10:"01-08-2025";}s:4:"date";s:10:"01-08-2025";s:4:"feed";a:1:{s:5:"limit";i:10;}s:12:"hero_classes";s:52:"text-light overlay-dark-gradient hero-large parallax";s:12:"body_classes";s:30:"header-dark header-transparent";s:16:"show_breadcrumbs";b:0;s:7:"sidebar";a:4:{s:17:"show_popular_tags";b:1;s:9:"show_feed";b:1;s:8:"show_toc";b:0;s:14:"show_tntsearch";b:1;}s:10:"pagination";b:1;s:15:"show_pagination";b:1;s:17:"bricklayer_layout";b:1;s:10:"child_type";s:4:"item";s:20:"display_post_summary";a:1:{s:7:"enabled";b:0;}s:15:"modular_content";a:2:{s:5:"items";s:13:"@self.modular";s:5:"order";a:3:{s:2:"by";s:6:"folder";s:3:"dir";s:3:"dsc";s:6:"custom";a:1:{i:0;s:8:"_message";}}}s:7:"content";a:5:{s:5:"items";s:14:"@self.children";s:5:"limit";i:8;s:5:"order";a:2:{s:2:"by";s:4:"date";s:3:"dir";s:3:"dsc";}s:10:"pagination";b:1;s:20:"url_taxonomy_filters";b:1;}}s:11:"frontmatter";s:719:"title: Blog
+blog_url: /blog
+sitemap:
+  changefreq: never
+  priority: 0.3
+  lastmod: 01-08-2025
+date: 01-08-2025
+feed:
+  limit: 10
+hero_classes: 'text-light overlay-dark-gradient hero-large parallax'
+body_classes: 'header-dark header-transparent'
+show_breadcrumbs: false
+sidebar:
+  show_popular_tags: true
+  show_feed: true
+  show_toc: false
+  show_tntsearch: true
+pagination: true
+show_pagination: true
+bricklayer_layout: true
+child_type: item
+display_post_summary:
+  enabled: false
+modular_content:
+  items: '@self.modular'
+  order:
+    by: folder
+    dir: dsc
+    custom:
+      - _message
+content:
+  items: '@self.children'
+  limit: 8
+  order:
+    by: date
+    dir: dsc
+  pagination: true
+  url_taxonomy_filters: true";s:8:"markdown";s:164:"# Blog Beispiel
+## Beispiel Blog Seite in Hadron
+
+Dies ist eine Beispiel Blog Seite in Grav. Sie zeigt, wie ein Blog aussehen kann und welche Funktionen er bietet.
+";}s:7:"storage";a:9:{s:3:"key";s:4:"blog";s:11:"storage_key";s:15:"04.blog|blog.de";s:8:"template";s:4:"blog";s:17:"storage_timestamp";i:1764731482;s:8:"markdown";a:2:{s:2:"de";a:1:{s:4:"blog";i:1754217411;}s:2:"en";a:1:{s:4:"blog";i:1764731482;}}s:8:"children";a:8:{s:7:"01.item";b:0;s:9:"02.test01";b:0;s:9:"03.test02";b:0;s:8:"04.test3";b:0;s:9:"05.test04";b:0;s:9:"06.test05";b:0;s:11:"07.berita06";b:0;s:8:"_message";b:0;}s:8:"checksum";s:32:"18f7ffed5f2c443578d8712001be8ff8";s:6:"exists";b:1;s:4:"lang";s:2:"de";}}

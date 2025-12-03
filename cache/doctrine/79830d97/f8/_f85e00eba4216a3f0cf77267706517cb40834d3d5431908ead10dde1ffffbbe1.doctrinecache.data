@@ -1,0 +1,15 @@
+1764737836
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:43:"examples/shop/geek-toys/pt221-stuffy-turret";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:4:{s:5:"title";s:13:"Stuffy Turret";s:8:"snipcart";a:2:{s:5:"price";d:19.99;s:10:"product_id";s:5:"pt221";}s:7:"sitemap";a:3:{s:10:"changefreq";s:5:"never";s:8:"priority";d:0.3;s:7:"lastmod";s:10:"01-08-2025";}s:4:"date";s:10:"01-08-2025";}s:11:"frontmatter";s:149:"title: Stuffy Turret
+snipcart:
+  price: 19.99
+  product_id: pt221
+sitemap:
+  changefreq: never
+  priority: 0.3
+  lastmod: 01-08-2025
+date: 01-08-2025";s:8:"markdown";s:900:"#### Duis aliquam, diam ac mollis semper, tortor mauris tincidunt orci
+
+Non commodo ligula libero vitae magna. Duis sed nunc nunc. Praesent pretium nec lectus sit amet elementum. Aenean rhoncus at libero eu elementum. Integer libero enim, cursus ac enim non, tincidunt ornare diam. Quisque orci purus, porta pellentesque porta quis, eleifend ullamcorper massa. Mauris gravida orci ante, sit amet malesuada felis placerat eget.
+
+Nulla non pretium metus. Etiam eget scelerisque massa. Praesent at lacinia eros, nec tincidunt eros. Proin at urna condimentum, elementum odio eu, feugiat risus. Mauris quis hendrerit nunc. Quisque at metus vel mauris dignissim pellentesque. Aenean tempor lectus odio. Morbi iaculis mi eu ante accumsan pellentesque. Nunc tempor a massa nec feugiat. Vestibulum quis sem adipiscing, rutrum odio id, mollis leo. Morbi in justo lobortis, vehicula risus id, vulputate tortor.
+";}s:7:"storage";a:8:{s:3:"key";s:43:"examples/shop/geek-toys/pt221-stuffy-turret";s:11:"storage_key";s:69:"07.examples/05.shop/02.geek-toys/pt221-stuffy-turret|snipcart_detail.";s:8:"template";s:15:"snipcart_detail";s:17:"storage_timestamp";i:1754217411;s:8:"markdown";a:1:{s:0:"";a:1:{s:15:"snipcart_detail";i:1754217411;}}s:8:"checksum";s:32:"d21753423a7bd8799b358b05ba15cc2c";s:6:"exists";b:1;s:4:"lang";s:0:"";}}

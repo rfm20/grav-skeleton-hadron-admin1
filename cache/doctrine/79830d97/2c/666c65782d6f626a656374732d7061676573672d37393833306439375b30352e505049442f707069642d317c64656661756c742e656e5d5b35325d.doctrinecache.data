@@ -1,0 +1,28 @@
+1764735853
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:11:"ppid/ppid-1";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:5:{s:5:"title";s:9:"Tata Cara";s:4:"date";s:16:"26-11-2025 06:26";s:7:"visible";b:1;s:7:"process";a:2:{s:8:"markdown";b:1;s:4:"twig";b:1;}s:11:"media_order";s:365:"TATA CARA MEMPEROLEH INFORMASI PUBLIK_page-0001.jpg,3.-TATA-CARA-PERMOHONAN-INFORMASI-2048x1148.jpg,4.-TATA-CARA-PENGAJUAN-KEBERATAN-INFORMASI-1-1536x861.png,5.-TATA-CARA-PENYELESAIAN-SENGKETA.png,b6 Tata Cara Pengaduan Penyalahgunaan Wewenang_page-0001.jpg,10.-PENGADUAN-PENYALAHGUNAAN-WEWENANG-B-2048x1700.jpg,10.-PENGADUAN-PENYALAHGUNAAN-WEWENANG-A-2048x1705.jpg";}s:11:"frontmatter";s:481:"title: 'Tata Cara'
+date: '26-11-2025 06:26'
+visible: true
+process:
+    markdown: true
+    twig: true
+media_order: 'TATA CARA MEMPEROLEH INFORMASI PUBLIK_page-0001.jpg,3.-TATA-CARA-PERMOHONAN-INFORMASI-2048x1148.jpg,4.-TATA-CARA-PENGAJUAN-KEBERATAN-INFORMASI-1-1536x861.png,5.-TATA-CARA-PENYELESAIAN-SENGKETA.png,b6 Tata Cara Pengaduan Penyalahgunaan Wewenang_page-0001.jpg,10.-PENGADUAN-PENYALAHGUNAAN-WEWENANG-B-2048x1700.jpg,10.-PENGADUAN-PENYALAHGUNAAN-WEWENANG-A-2048x1705.jpg'";s:8:"markdown";s:1425:"# Tata Cara
+
+## Tata Cara Permohonan Informasi
+![3.-TATA-CARA-PERMOHONAN-INFORMASI-2048x1148](3.-TATA-CARA-PERMOHONAN-INFORMASI-2048x1148.jpg "3.-TATA-CARA-PERMOHONAN-INFORMASI-2048x1148")
+
+Tata cara memperoleh informasi publik
+
+![TATA%20CARA%20MEMPEROLEH%20INFORMASI%20PUBLIK_page-0001](TATA%20CARA%20MEMPEROLEH%20INFORMASI%20PUBLIK_page-0001.jpg "TATA%20CARA%20MEMPEROLEH%20INFORMASI%20PUBLIK_page-0001")
+
+## Tata Cara Pengajuan Keberatan Informasi
+![4.-TATA-CARA-PENGAJUAN-KEBERATAN-INFORMASI-1-1536x861](4.-TATA-CARA-PENGAJUAN-KEBERATAN-INFORMASI-1-1536x861.png "4.-TATA-CARA-PENGAJUAN-KEBERATAN-INFORMASI-1-1536x861")
+
+## Tata Cara Pengajuan Permohonan Penyelesaian Sengketa ke Komisi Informasi
+![5.-TATA-CARA-PENYELESAIAN-SENGKETA](5.-TATA-CARA-PENYELESAIAN-SENGKETA.png "5.-TATA-CARA-PENYELESAIAN-SENGKETA")
+
+## SOP Tata Cara Pengaduan Penyalahgunaan Wewenang oleh Pejabat Badan Publik
+![10.-PENGADUAN-PENYALAHGUNAAN-WEWENANG-A-2048x1705](10.-PENGADUAN-PENYALAHGUNAAN-WEWENANG-A-2048x1705.jpg "10.-PENGADUAN-PENYALAHGUNAAN-WEWENANG-A-2048x1705")
+
+![10.-PENGADUAN-PENYALAHGUNAAN-WEWENANG-B-2048x1700](10.-PENGADUAN-PENYALAHGUNAAN-WEWENANG-B-2048x1700.jpg "10.-PENGADUAN-PENYALAHGUNAAN-WEWENANG-B-2048x1700")
+
+![b6%20Tata%20Cara%20Pengaduan%20Penyalahgunaan%20Wewenang_page-0001](b6%20Tata%20Cara%20Pengaduan%20Penyalahgunaan%20Wewenang_page-0001.jpg "b6%20Tata%20Cara%20Pengaduan%20Penyalahgunaan%20Wewenang_page-0001")";}s:7:"storage";a:8:{s:3:"key";s:11:"ppid/ppid-1";s:11:"storage_key";s:25:"05.PPID/ppid-1|default.en";s:8:"template";s:7:"default";s:17:"storage_timestamp";i:1764734710;s:8:"markdown";a:1:{s:2:"en";a:1:{s:7:"default";i:1764734710;}}s:8:"checksum";s:32:"2d3a26b9f8a4cd806528b8e97851e769";s:6:"exists";b:1;s:4:"lang";s:2:"en";}}

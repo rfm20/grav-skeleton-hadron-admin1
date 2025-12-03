@@ -1,0 +1,10 @@
+1764735202
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:10:"home/_hero";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:4:{s:5:"title";s:4:"Hero";s:12:"hero_classes";s:52:"text-light overlay-dark-gradient hero-large parallax";s:12:"body_classes";s:30:"header-dark header-transparent";s:10:"hero_image";s:11:"header.webp";}s:11:"frontmatter";s:151:"title: Hero
+hero_classes: 'text-light overlay-dark-gradient hero-large parallax'
+body_classes: 'header-dark header-transparent'
+hero_image: header.webp";s:8:"markdown";s:278:"# Selamat Datang di Website  
+## **Dinas Pemberdayaan Masyarakat dan Desa Kalimantan Barat**
+
+Website ini merupakan pusat informasi resmi terkait program, kegiatan, dan kebijakan  
+**DPMD Provinsi Kalimantan Barat** dalam mendukung pembangunan desa dan pemberdayaan masyarakat.
+";}s:7:"storage";a:8:{s:3:"key";s:10:"home/_hero";s:11:"storage_key";s:24:"01.home/01._hero|hero.en";s:8:"template";s:4:"hero";s:17:"storage_timestamp";i:1764639790;s:8:"markdown";a:2:{s:2:"de";a:1:{s:4:"hero";i:1754217411;}s:2:"en";a:1:{s:4:"hero";i:1764639790;}}s:8:"checksum";s:32:"e793cb61302618afcd3dbf4c2828ee9d";s:6:"exists";b:1;s:4:"lang";s:2:"en";}}
