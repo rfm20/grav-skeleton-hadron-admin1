@@ -1,0 +1,2 @@
+1764739540
+O:49:"Grav\Common\Flex\Types\UserGroups\UserGroupObject":4:{s:4:"type";s:11:"user-groups";s:3:"key";s:7:"manager";s:8:"elements";a:5:{s:6:"access";a:1:{s:5:"admin";a:1:{s:13:"configuration";a:2:{s:6:"system";b:1;s:4:"site";b:1;}}}s:12:"readableName";s:12:"Site Manager";s:7:"enabled";b:1;s:11:"description";s:44:"Kann Seiten- & Systemeinstellungen verwalten";s:9:"groupname";s:7:"manager";}s:7:"storage";a:3:{s:11:"storage_key";s:7:"manager";s:3:"key";s:7:"manager";s:17:"storage_timestamp";i:1754217411;}}

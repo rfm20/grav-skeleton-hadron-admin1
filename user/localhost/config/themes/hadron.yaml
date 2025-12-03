@@ -18,7 +18,7 @@ menu:
     url: 'https://getgrav.org/'
     target: _blank
 langswitcher:
-  enable: true
+  enable: false
   display: inline
   format: icon
 header-fixed: true

@@ -2,8 +2,8 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => 'C:/xampp/htdocs/grav/grav-skeleton-hadron+admin1/user/localhost/config/themes/hadron.yaml',
-    'modified' => 1763461120,
-    'size' => 1342,
+    'modified' => 1764738935,
+    'size' => 1343,
     'data' => [
         'streams' => [
             'schemes' => [
@@ -36,7 +36,7 @@ return [
             ]
         ],
         'langswitcher' => [
-            'enable' => true,
+            'enable' => false,
             'display' => 'inline',
             'format' => 'icon'
         ],

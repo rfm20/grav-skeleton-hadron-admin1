@@ -1,8 +1,8 @@
 <?php
 return [
     '@class' => 'Grav\\Common\\Config\\CompiledConfig',
-    'timestamp' => 1764729610,
-    'checksum' => '9a9b2385153f348e089c7cf900228d38',
+    'timestamp' => 1764738938,
+    'checksum' => '228094826c60af182a313d775f9041c2',
     'files' => [
         'user/localhost/config' => [
             'plugins/snipcart' => [
@@ -15,7 +15,7 @@ return [
             ],
             'themes/hadron' => [
                 'file' => 'user/localhost/config/themes/hadron.yaml',
-                'modified' => 1763461120
+                'modified' => 1764738935
             ]
         ],
         'user/config' => [
@@ -365,7 +365,7 @@ return [
                     ]
                 ],
                 'langswitcher' => [
-                    'enable' => true,
+                    'enable' => false,
                     'display' => 'inline',
                     'format' => 'icon'
                 ],
