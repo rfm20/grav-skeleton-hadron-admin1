@@ -2,8 +2,8 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledMarkdownFile',
     'filename' => 'C:/xampp/htdocs/grav/grav-skeleton-hadron+admin1/user/pages/04.blog/blog.en.md',
-    'modified' => 1764731482,
-    'size' => 911,
+    'modified' => 1764848261,
+    'size' => 931,
     'data' => [
         'header' => [
             'title' => 'Berita',
@@ -21,10 +21,10 @@ return [
             'body_classes' => 'header-dark header-transparent',
             'show_breadcrumbs' => false,
             'sidebar' => [
-                'show_popular_tags' => true,
                 'show_feed' => true,
                 'show_toc' => false,
-                'show_tntsearch' => true
+                'show_tntsearch' => true,
+                'display' => false
             ],
             'pagination' => true,
             'show_pagination' => true,
@@ -70,10 +70,10 @@ hero_classes: \'text-light overlay-dark-gradient hero-large parallax\'
 body_classes: \'header-dark header-transparent\'
 show_breadcrumbs: false
 sidebar:
-    show_popular_tags: true
     show_feed: true
     show_toc: false
     show_tntsearch: true
+    display: false
 pagination: true
 show_pagination: true
 bricklayer_layout: true
@@ -98,6 +98,6 @@ content:
     url_taxonomy_filters: true
 media_order: header.webp',
         'markdown' => '# Berita Terbaru
-## Informasi terkini dari Pemerintah Provinsi Kalimantan Barat'
+### Informasi terkini dari Dinas Pemberdayaan Masyarakat dan Desa Provinsi Kalimantan Barat'
     ]
 ];

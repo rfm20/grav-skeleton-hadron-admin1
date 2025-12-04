@@ -1,4 +1,4 @@
-1764836860
+1764848793
 O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:33:"kegiatan/kegiatan-4/umum-aparatur";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:3:{s:5:"title";s:13:"Umum Aparatur";s:4:"date";s:16:"26-11-2025 07:32";s:7:"process";a:2:{s:8:"markdown";b:1;s:4:"twig";b:1;}}s:11:"frontmatter";s:86:"title: 'Umum Aparatur'
 date: '26-11-2025 07:32'
 process:

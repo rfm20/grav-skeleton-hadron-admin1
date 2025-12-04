@@ -1,4 +1,4 @@
-1764836860
+1764848793
 O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:22:"examples/modular/_text";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:1:{s:5:"title";s:4:"Text";}s:11:"frontmatter";s:11:"title: Text";s:8:"markdown";s:4133:"## Text Module
 This is the text module for the modular page. It is used to display text content, such as paragraphs, headings, and other text elements without additional formatting. 
 

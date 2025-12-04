@@ -2,11 +2,11 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledJsonFile',
     'filename' => 'C:/xampp/htdocs/grav/grav-skeleton-hadron+admin1/user/data/flex/indexes/pages.json',
-    'modified' => 1764836257,
-    'size' => 31078,
+    'modified' => 1764848379,
+    'size' => 31082,
     'data' => [
         'version' => '1.5',
-        'timestamp' => 1764836257,
+        'timestamp' => 1764848379,
         'count' => 107,
         'index' => [
             '' => [
@@ -266,26 +266,26 @@ return [
                 'key' => 'blog',
                 'storage_key' => '04.blog',
                 'template' => 'blog',
-                'storage_timestamp' => 1764739321,
+                'storage_timestamp' => 1764848379,
                 'markdown' => [
                     'de' => [
                         'blog' => 1754217411
                     ],
                     'en' => [
-                        'blog' => 1764731482
+                        'blog' => 1764848261
                     ]
                 ],
                 'children' => [
                     '01.item' => 1763450581,
                     '02.test01' => 1764639790,
                     '03.test02' => 1764639790,
-                    '04.test3' => 1764639790,
+                    '04.test03' => 1764848379,
                     '05.test04' => 1764726100,
                     '06.berita05' => 1764739321,
                     '07.berita06' => 1764729731,
-                    '_message' => 1763449670
+                    '_message' => 1764848336
                 ],
-                'checksum' => '627c37aecb1c4e5304bac8c8b4fdd9b1'
+                'checksum' => 'd9634169d88af33919f3943914e32dfe'
             ],
             '04.blog/01.item' => [
                 'key' => 'blog/item',
@@ -326,17 +326,17 @@ return [
                 ],
                 'checksum' => '8edc1fb11d3d9b664770c2f3ba68986f'
             ],
-            '04.blog/04.test3' => [
-                'key' => 'blog/test3',
-                'storage_key' => '04.blog/04.test3',
+            '04.blog/04.test03' => [
+                'key' => 'blog/test03',
+                'storage_key' => '04.blog/04.test03',
                 'template' => 'item',
-                'storage_timestamp' => 1764639790,
+                'storage_timestamp' => 1764848379,
                 'markdown' => [
                     'en' => [
-                        'item' => 1764639790
+                        'item' => 1764848379
                     ]
                 ],
-                'checksum' => 'e4cf444eeaa89c384810b6209c1b37d5'
+                'checksum' => '30464cdcbb5cc7fce2965d11c20d29cb'
             ],
             '04.blog/05.test04' => [
                 'key' => 'blog/test04',
@@ -378,16 +378,16 @@ return [
                 'key' => 'blog/_message',
                 'storage_key' => '04.blog/_message',
                 'template' => 'alert',
-                'storage_timestamp' => 1763449670,
+                'storage_timestamp' => 1764848336,
                 'markdown' => [
                     'de' => [
                         'alert' => 1754217411
                     ],
                     'en' => [
-                        'alert' => 1754217411
+                        'alert' => 1764848336
                     ]
                 ],
-                'checksum' => 'cb1c0661a47f883542402d7f8367d711'
+                'checksum' => 'dddc92f4b94e3b779d65bee5d821c48b'
             ],
             '05.PPID' => [
                 'key' => 'ppid',

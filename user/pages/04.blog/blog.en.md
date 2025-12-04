@@ -12,10 +12,10 @@ hero_classes: 'text-light overlay-dark-gradient hero-large parallax'
 body_classes: 'header-dark header-transparent'
 show_breadcrumbs: false
 sidebar:
-    show_popular_tags: true
     show_feed: true
     show_toc: false
     show_tntsearch: true
+    display: false
 pagination: true
 show_pagination: true
 bricklayer_layout: true
@@ -42,4 +42,4 @@ media_order: header.webp
 ---
 
 # Berita Terbaru
-## Informasi terkini dari Pemerintah Provinsi Kalimantan Barat
+### Informasi terkini dari Dinas Pemberdayaan Masyarakat dan Desa Provinsi Kalimantan Barat
