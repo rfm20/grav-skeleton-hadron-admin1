@@ -2,30 +2,31 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledJsonFile',
     'filename' => 'C:/xampp/htdocs/grav/grav-skeleton-hadron+admin1/user/data/flex/indexes/pages.json',
-    'modified' => 1764738239,
-    'size' => 29531,
+    'modified' => 1764836257,
+    'size' => 31078,
     'data' => [
         'version' => '1.5',
-        'timestamp' => 1764738239,
-        'count' => 101,
+        'timestamp' => 1764836257,
+        'count' => 107,
         'index' => [
             '' => [
                 'key' => '',
                 'storage_key' => '',
                 'template' => NULL,
-                'storage_timestamp' => 1764732291,
+                'storage_timestamp' => 1764834215,
                 'children' => [
                     '01.home' => 1764639790,
                     '02.profil' => 1764639790,
                     '03.kegiatan' => 1764639790,
-                    '04.blog' => 1764731482,
-                    '05.PPID' => 1764732236,
-                    '06.docs' => 1764732101,
+                    '04.blog' => 1764739321,
+                    '05.PPID' => 1764737320,
+                    '06.pelayanan' => 1764834196,
                     '07.examples' => 1764732174,
-                    '08.über' => 1764136757,
+                    '08.docs' => 1764732101,
+                    '09.über' => 1764136757,
                     'footer' => 1764728229
                 ],
-                'checksum' => 'f846285857f6a04fada1f8b849112e05'
+                'checksum' => 'a1db68df51e5a7d0c1f0930a14b23f5f'
             ],
             '01.home' => [
                 'key' => 'home',
@@ -241,31 +242,31 @@ return [
                 'key' => 'kegiatan/kegiatan-5',
                 'storage_key' => '03.kegiatan/kegiatan-5',
                 'template' => 'default',
-                'storage_timestamp' => 1764726904,
+                'storage_timestamp' => 1764836257,
                 'markdown' => [
                     'en' => [
-                        'default' => 1764726904
+                        'default' => 1764836257
                     ]
                 ],
-                'checksum' => '31857ec5603596d2172bdf1f975a16ba'
+                'checksum' => '0c7f2e4d17604f999bf8014a6f1c484d'
             ],
             '03.kegiatan/kegiatan-6' => [
                 'key' => 'kegiatan/kegiatan-6',
                 'storage_key' => '03.kegiatan/kegiatan-6',
                 'template' => 'default',
-                'storage_timestamp' => 1764639790,
+                'storage_timestamp' => 1764834068,
                 'markdown' => [
                     'en' => [
-                        'default' => 1764639790
+                        'default' => 1764834068
                     ]
                 ],
-                'checksum' => '3596d7513fee96bc8f8e514690272b52'
+                'checksum' => '623818b72e100729828df14e08a872ed'
             ],
             '04.blog' => [
                 'key' => 'blog',
                 'storage_key' => '04.blog',
                 'template' => 'blog',
-                'storage_timestamp' => 1764731482,
+                'storage_timestamp' => 1764739321,
                 'markdown' => [
                     'de' => [
                         'blog' => 1754217411
@@ -280,11 +281,11 @@ return [
                     '03.test02' => 1764639790,
                     '04.test3' => 1764639790,
                     '05.test04' => 1764726100,
-                    '06.test05' => 1764729379,
+                    '06.berita05' => 1764739321,
                     '07.berita06' => 1764729731,
                     '_message' => 1763449670
                 ],
-                'checksum' => '18f7ffed5f2c443578d8712001be8ff8'
+                'checksum' => '627c37aecb1c4e5304bac8c8b4fdd9b1'
             ],
             '04.blog/01.item' => [
                 'key' => 'blog/item',
@@ -349,17 +350,17 @@ return [
                 ],
                 'checksum' => 'e0899c6d7e43a6de57ef5b79c1426ca9'
             ],
-            '04.blog/06.test05' => [
-                'key' => 'blog/test05',
-                'storage_key' => '04.blog/06.test05',
+            '04.blog/06.berita05' => [
+                'key' => 'blog/berita05',
+                'storage_key' => '04.blog/06.berita05',
                 'template' => 'item',
-                'storage_timestamp' => 1764729379,
+                'storage_timestamp' => 1764739321,
                 'markdown' => [
                     'en' => [
                         'item' => 1764729379
                     ]
                 ],
-                'checksum' => 'bb5ea7d60b9c6a186fa95b6013e86279'
+                'checksum' => '667fb0ad00386d0a1eb521495ad68b44'
             ],
             '04.blog/07.berita06' => [
                 'key' => 'blog/berita06',
@@ -478,199 +479,82 @@ return [
                 ],
                 'checksum' => '676df1f8fabeeb8e4ade16eb8f543c04'
             ],
-            '06.docs' => [
-                'key' => 'docs',
-                'storage_key' => '06.docs',
-                'template' => 'blog',
-                'storage_timestamp' => 1764732101,
+            '06.pelayanan' => [
+                'key' => 'pelayanan',
+                'storage_key' => '06.pelayanan',
+                'template' => 'default',
+                'storage_timestamp' => 1764835581,
                 'markdown' => [
                     'de' => [
-                        'blog' => 1754217411
+                        'default' => 1764136622
                     ],
                     'en' => [
-                        'blog' => 1764732101
+                        'default' => 1764835170
                     ]
                 ],
                 'children' => [
-                    '00.intro' => 1754217411,
-                    '01.theme' => 1754217411,
-                    '02.skeleton' => 1754217411,
-                    '_notice' => 1754217411
+                    'images' => 1764834195,
+                    'pelayanan-1' => 1764835089,
+                    'pelayanan-2' => 1764835332,
+                    'pelayanan-3' => 1764835464,
+                    'pelayanan-4' => 1764835581
                 ],
-                'checksum' => '80bed57109e67abe48947e7303ea7aa7'
+                'checksum' => 'd411f99ecaa8574fecdfb451dabc2de9'
             ],
-            '06.docs/00.intro' => [
-                'key' => 'docs/intro',
-                'storage_key' => '06.docs/00.intro',
-                'template' => 'item',
-                'storage_timestamp' => 1754217411,
+            '06.pelayanan/images' => [
+                'key' => 'pelayanan/images',
+                'storage_key' => '06.pelayanan/images',
+                'template' => NULL,
+                'storage_timestamp' => 1764834195,
+                'checksum' => 'd1581252ab63177bed957dda84f54d69'
+            ],
+            '06.pelayanan/pelayanan-1' => [
+                'key' => 'pelayanan/pelayanan-1',
+                'storage_key' => '06.pelayanan/pelayanan-1',
+                'template' => 'default',
+                'storage_timestamp' => 1764835089,
                 'markdown' => [
-                    'de' => [
-                        'item' => 1754217411
-                    ],
                     'en' => [
-                        'item' => 1754217411
+                        'default' => 1764835089
                     ]
                 ],
-                'checksum' => '64ac285d5e2903cee7961555c0d6bcaf'
+                'checksum' => 'c837a2dbf624d591987d3b4421591f22'
             ],
-            '06.docs/01.theme' => [
-                'key' => 'docs/theme',
-                'storage_key' => '06.docs/01.theme',
-                'template' => 'blog',
-                'storage_timestamp' => 1754217411,
+            '06.pelayanan/pelayanan-2' => [
+                'key' => 'pelayanan/pelayanan-2',
+                'storage_key' => '06.pelayanan/pelayanan-2',
+                'template' => 'default',
+                'storage_timestamp' => 1764835332,
                 'markdown' => [
-                    'de' => [
-                        'blog' => 1754217411
-                    ],
                     'en' => [
-                        'blog' => 1754217411
+                        'default' => 1764835332
                     ]
                 ],
-                'children' => [
-                    '01.einleitung' => 1754217411,
-                    '02.installation' => 1754217411,
-                    '03.optionen' => 1754217411,
-                    '04.customization' => 1754217411
-                ],
-                'checksum' => '2f3edc8225e67d3b2e1e114e59d2b301'
+                'checksum' => 'f024b88d13d178c6d3235ec5c94151e7'
             ],
-            '06.docs/01.theme/01.einleitung' => [
-                'key' => 'docs/theme/einleitung',
-                'storage_key' => '06.docs/01.theme/01.einleitung',
-                'template' => 'item',
-                'storage_timestamp' => 1754217411,
+            '06.pelayanan/pelayanan-3' => [
+                'key' => 'pelayanan/pelayanan-3',
+                'storage_key' => '06.pelayanan/pelayanan-3',
+                'template' => 'default',
+                'storage_timestamp' => 1764835464,
                 'markdown' => [
-                    'de' => [
-                        'item' => 1754217411
-                    ],
                     'en' => [
-                        'item' => 1754217411
+                        'default' => 1764835464
                     ]
                 ],
-                'checksum' => '6c1ea668c09e41fb68844b6d603e51d0'
+                'checksum' => '72fcabeec91b9c4610017e8dd3933a80'
             ],
-            '06.docs/01.theme/02.installation' => [
-                'key' => 'docs/theme/installation',
-                'storage_key' => '06.docs/01.theme/02.installation',
-                'template' => 'item',
-                'storage_timestamp' => 1754217411,
+            '06.pelayanan/pelayanan-4' => [
+                'key' => 'pelayanan/pelayanan-4',
+                'storage_key' => '06.pelayanan/pelayanan-4',
+                'template' => 'default',
+                'storage_timestamp' => 1764835809,
                 'markdown' => [
-                    'de' => [
-                        'item' => 1754217411
-                    ],
                     'en' => [
-                        'item' => 1754217411
+                        'default' => 1764835809
                     ]
                 ],
-                'checksum' => '6f2a24fb1438f37f62c82455d7c70bdd'
-            ],
-            '06.docs/01.theme/03.optionen' => [
-                'key' => 'docs/theme/optionen',
-                'storage_key' => '06.docs/01.theme/03.optionen',
-                'template' => 'item',
-                'storage_timestamp' => 1754217411,
-                'markdown' => [
-                    'de' => [
-                        'item' => 1754217411
-                    ],
-                    'en' => [
-                        'item' => 1754217411
-                    ]
-                ],
-                'checksum' => '8fe66ea484dd4b3bf9e9e13d254e45e1'
-            ],
-            '06.docs/01.theme/04.customization' => [
-                'key' => 'docs/theme/customization',
-                'storage_key' => '06.docs/01.theme/04.customization',
-                'template' => 'item',
-                'storage_timestamp' => 1754217411,
-                'markdown' => [
-                    'de' => [
-                        'item' => 1754217411
-                    ],
-                    'en' => [
-                        'item' => 1754217411
-                    ]
-                ],
-                'checksum' => 'ead3429d1f3252b2efbbc8cd18b0a4e0'
-            ],
-            '06.docs/02.skeleton' => [
-                'key' => 'docs/skeleton',
-                'storage_key' => '06.docs/02.skeleton',
-                'template' => 'blog',
-                'storage_timestamp' => 1754217411,
-                'markdown' => [
-                    'de' => [
-                        'blog' => 1754217411
-                    ],
-                    'en' => [
-                        'blog' => 1754217411
-                    ]
-                ],
-                'children' => [
-                    '01.einleitung' => 1754217411,
-                    '02.installation' => 1754217411,
-                    '03.setup' => 1754217411
-                ],
-                'checksum' => '7a90ef53bdfd3f89fd294af3dd3fae50'
-            ],
-            '06.docs/02.skeleton/01.einleitung' => [
-                'key' => 'docs/skeleton/einleitung',
-                'storage_key' => '06.docs/02.skeleton/01.einleitung',
-                'template' => 'item',
-                'storage_timestamp' => 1754217411,
-                'markdown' => [
-                    'de' => [
-                        'item' => 1754217411
-                    ],
-                    'en' => [
-                        'item' => 1754217411
-                    ]
-                ],
-                'checksum' => '9fc0e59a6e1d76bc108529c257d5b07c'
-            ],
-            '06.docs/02.skeleton/02.installation' => [
-                'key' => 'docs/skeleton/installation',
-                'storage_key' => '06.docs/02.skeleton/02.installation',
-                'template' => 'item',
-                'storage_timestamp' => 1754217411,
-                'markdown' => [
-                    'de' => [
-                        'item' => 1754217411
-                    ],
-                    'en' => [
-                        'item' => 1754217411
-                    ]
-                ],
-                'checksum' => '8388252fcbd24dcb2fda76b04bbbd0b0'
-            ],
-            '06.docs/02.skeleton/03.setup' => [
-                'key' => 'docs/skeleton/setup',
-                'storage_key' => '06.docs/02.skeleton/03.setup',
-                'template' => 'item',
-                'storage_timestamp' => 1754217411,
-                'markdown' => [
-                    'de' => [
-                        'item' => 1754217411
-                    ]
-                ],
-                'checksum' => '1485d8fc068d6a8bca7c2c655b00cac8'
-            ],
-            '06.docs/_notice' => [
-                'key' => 'docs/_notice',
-                'storage_key' => '06.docs/_notice',
-                'template' => 'alert',
-                'storage_timestamp' => 1754217411,
-                'markdown' => [
-                    'de' => [
-                        'alert' => 1754217411
-                    ],
-                    'en' => [
-                        'alert' => 1754217411
-                    ]
-                ],
-                'checksum' => 'dfccf45cd037a2c703d3e56a45ce94ed'
+                'checksum' => 'ab17699248d2eed3de41ad7fb91c08cb'
             ],
             '07.examples' => [
                 'key' => 'examples',
@@ -1443,9 +1327,203 @@ return [
                 ],
                 'checksum' => '0fce5e1ec95acd82d6ecdcf06453d202'
             ],
-            '08.über' => [
+            '08.docs' => [
+                'key' => 'docs',
+                'storage_key' => '08.docs',
+                'template' => 'blog',
+                'storage_timestamp' => 1764732101,
+                'markdown' => [
+                    'de' => [
+                        'blog' => 1754217411
+                    ],
+                    'en' => [
+                        'blog' => 1764732101
+                    ]
+                ],
+                'children' => [
+                    '00.intro' => 1754217411,
+                    '01.theme' => 1754217411,
+                    '02.skeleton' => 1754217411,
+                    '_notice' => 1754217411
+                ],
+                'checksum' => '2764a66e4f349f6c4c04958420f2d54e'
+            ],
+            '08.docs/00.intro' => [
+                'key' => 'docs/intro',
+                'storage_key' => '08.docs/00.intro',
+                'template' => 'item',
+                'storage_timestamp' => 1754217411,
+                'markdown' => [
+                    'de' => [
+                        'item' => 1754217411
+                    ],
+                    'en' => [
+                        'item' => 1754217411
+                    ]
+                ],
+                'checksum' => '5cb738ef5170dfba9ba2b1f6fa0af6c1'
+            ],
+            '08.docs/01.theme' => [
+                'key' => 'docs/theme',
+                'storage_key' => '08.docs/01.theme',
+                'template' => 'blog',
+                'storage_timestamp' => 1754217411,
+                'markdown' => [
+                    'de' => [
+                        'blog' => 1754217411
+                    ],
+                    'en' => [
+                        'blog' => 1754217411
+                    ]
+                ],
+                'children' => [
+                    '01.einleitung' => 1754217411,
+                    '02.installation' => 1754217411,
+                    '03.optionen' => 1754217411,
+                    '04.customization' => 1754217411
+                ],
+                'checksum' => '45d4765b5b6b24351b27726395e761fd'
+            ],
+            '08.docs/01.theme/01.einleitung' => [
+                'key' => 'docs/theme/einleitung',
+                'storage_key' => '08.docs/01.theme/01.einleitung',
+                'template' => 'item',
+                'storage_timestamp' => 1754217411,
+                'markdown' => [
+                    'de' => [
+                        'item' => 1754217411
+                    ],
+                    'en' => [
+                        'item' => 1754217411
+                    ]
+                ],
+                'checksum' => '08e2557c8ca338dd988e13ccbc0cb547'
+            ],
+            '08.docs/01.theme/02.installation' => [
+                'key' => 'docs/theme/installation',
+                'storage_key' => '08.docs/01.theme/02.installation',
+                'template' => 'item',
+                'storage_timestamp' => 1754217411,
+                'markdown' => [
+                    'de' => [
+                        'item' => 1754217411
+                    ],
+                    'en' => [
+                        'item' => 1754217411
+                    ]
+                ],
+                'checksum' => '7cbc72cac85e2d3cb346d2aeeff34166'
+            ],
+            '08.docs/01.theme/03.optionen' => [
+                'key' => 'docs/theme/optionen',
+                'storage_key' => '08.docs/01.theme/03.optionen',
+                'template' => 'item',
+                'storage_timestamp' => 1754217411,
+                'markdown' => [
+                    'de' => [
+                        'item' => 1754217411
+                    ],
+                    'en' => [
+                        'item' => 1754217411
+                    ]
+                ],
+                'checksum' => 'c0522b05a589e1dbbfbd5810ed2b25a4'
+            ],
+            '08.docs/01.theme/04.customization' => [
+                'key' => 'docs/theme/customization',
+                'storage_key' => '08.docs/01.theme/04.customization',
+                'template' => 'item',
+                'storage_timestamp' => 1754217411,
+                'markdown' => [
+                    'de' => [
+                        'item' => 1754217411
+                    ],
+                    'en' => [
+                        'item' => 1754217411
+                    ]
+                ],
+                'checksum' => '6942aafdff1f72346f452ecfd42b008f'
+            ],
+            '08.docs/02.skeleton' => [
+                'key' => 'docs/skeleton',
+                'storage_key' => '08.docs/02.skeleton',
+                'template' => 'blog',
+                'storage_timestamp' => 1754217411,
+                'markdown' => [
+                    'de' => [
+                        'blog' => 1754217411
+                    ],
+                    'en' => [
+                        'blog' => 1754217411
+                    ]
+                ],
+                'children' => [
+                    '01.einleitung' => 1754217411,
+                    '02.installation' => 1754217411,
+                    '03.setup' => 1754217411
+                ],
+                'checksum' => '9302fefdbc0cb2522ff36d50832cddfa'
+            ],
+            '08.docs/02.skeleton/01.einleitung' => [
+                'key' => 'docs/skeleton/einleitung',
+                'storage_key' => '08.docs/02.skeleton/01.einleitung',
+                'template' => 'item',
+                'storage_timestamp' => 1754217411,
+                'markdown' => [
+                    'de' => [
+                        'item' => 1754217411
+                    ],
+                    'en' => [
+                        'item' => 1754217411
+                    ]
+                ],
+                'checksum' => '87ab53afd3dbbadf478e0a2a64983ea1'
+            ],
+            '08.docs/02.skeleton/02.installation' => [
+                'key' => 'docs/skeleton/installation',
+                'storage_key' => '08.docs/02.skeleton/02.installation',
+                'template' => 'item',
+                'storage_timestamp' => 1754217411,
+                'markdown' => [
+                    'de' => [
+                        'item' => 1754217411
+                    ],
+                    'en' => [
+                        'item' => 1754217411
+                    ]
+                ],
+                'checksum' => '0a4c1a5fdb0239b2c24dd5c61d8315bc'
+            ],
+            '08.docs/02.skeleton/03.setup' => [
+                'key' => 'docs/skeleton/setup',
+                'storage_key' => '08.docs/02.skeleton/03.setup',
+                'template' => 'item',
+                'storage_timestamp' => 1754217411,
+                'markdown' => [
+                    'de' => [
+                        'item' => 1754217411
+                    ]
+                ],
+                'checksum' => 'd95af0f1f41980dfeab3c7236483c01c'
+            ],
+            '08.docs/_notice' => [
+                'key' => 'docs/_notice',
+                'storage_key' => '08.docs/_notice',
+                'template' => 'alert',
+                'storage_timestamp' => 1754217411,
+                'markdown' => [
+                    'de' => [
+                        'alert' => 1754217411
+                    ],
+                    'en' => [
+                        'alert' => 1754217411
+                    ]
+                ],
+                'checksum' => 'eb7cdcf81e11f7d5b982bfa7a011b027'
+            ],
+            '09.über' => [
                 'key' => 'über',
-                'storage_key' => '08.über',
+                'storage_key' => '09.über',
                 'template' => 'default',
                 'storage_timestamp' => 1764136757,
                 'markdown' => [
@@ -1458,11 +1536,11 @@ return [
                     '02.impressum' => 1754217411,
                     '03.datenschutz' => 1754217411
                 ],
-                'checksum' => 'd7f701a2b9c1b1896f47a116dd7e077c'
+                'checksum' => '11521bdf140bcea7b68a360034029f81'
             ],
-            '08.über/01.kontakt' => [
+            '09.über/01.kontakt' => [
                 'key' => 'über/kontakt',
-                'storage_key' => '08.über/01.kontakt',
+                'storage_key' => '09.über/01.kontakt',
                 'template' => 'form',
                 'storage_timestamp' => 1754217411,
                 'markdown' => [
@@ -1473,11 +1551,11 @@ return [
                 'children' => [
                     'thankyou' => 1754217411
                 ],
-                'checksum' => '3c65c179de59bbfbfebc8645fce64ec4'
+                'checksum' => 'f5411fdcb0e5c3767337fb111da8baeb'
             ],
-            '08.über/01.kontakt/thankyou' => [
+            '09.über/01.kontakt/thankyou' => [
                 'key' => 'über/kontakt/thankyou',
-                'storage_key' => '08.über/01.kontakt/thankyou',
+                'storage_key' => '09.über/01.kontakt/thankyou',
                 'template' => 'formdata',
                 'storage_timestamp' => 1754217411,
                 'markdown' => [
@@ -1485,11 +1563,11 @@ return [
                         'formdata' => 1754217411
                     ]
                 ],
-                'checksum' => '6d056cec43460c02e985fc41ac2045ce'
+                'checksum' => 'fed7c5b75adb1bf68a1b7b5b86d90f12'
             ],
-            '08.über/02.impressum' => [
+            '09.über/02.impressum' => [
                 'key' => 'über/impressum',
-                'storage_key' => '08.über/02.impressum',
+                'storage_key' => '09.über/02.impressum',
                 'template' => 'default',
                 'storage_timestamp' => 1754217411,
                 'markdown' => [
@@ -1497,11 +1575,11 @@ return [
                         'default' => 1754217411
                     ]
                 ],
-                'checksum' => '962a43406d507a9647e5500c1c035739'
+                'checksum' => '1888a3225f1330ad55a7591cd78fc447'
             ],
-            '08.über/03.datenschutz' => [
+            '09.über/03.datenschutz' => [
                 'key' => 'über/datenschutz',
-                'storage_key' => '08.über/03.datenschutz',
+                'storage_key' => '09.über/03.datenschutz',
                 'template' => 'default',
                 'storage_timestamp' => 1754217411,
                 'markdown' => [
@@ -1509,7 +1587,7 @@ return [
                         'default' => 1754217411
                     ]
                 ],
-                'checksum' => '3485c117062dff9346f31a9dd30fecd5'
+                'checksum' => '2d1c20734ecb7b5c119bcb1f023f7db9'
             ],
             'footer' => [
                 'key' => 'footer',

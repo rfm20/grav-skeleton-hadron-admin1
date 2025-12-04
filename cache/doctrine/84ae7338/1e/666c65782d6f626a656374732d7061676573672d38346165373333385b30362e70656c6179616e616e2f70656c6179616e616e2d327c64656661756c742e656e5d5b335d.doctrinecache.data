@@ -1,0 +1,13 @@
+1764836860
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:21:"pelayanan/pelayanan-2";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:4:{s:5:"title";s:19:"SK Pelayanan Publik";s:4:"date";s:16:"26-11-2025 06:26";s:7:"visible";b:1;s:7:"process";a:2:{s:8:"markdown";b:1;s:4:"twig";b:1;}}s:11:"frontmatter";s:110:"title: 'SK Pelayanan Publik'
+date: '26-11-2025 06:26'
+visible: true
+process:
+    markdown: true
+    twig: true";s:8:"markdown";s:374:"## SK Pelayanan
+
+[SK TENTANG STANDAR PELAYANAN PUBLIK](https://drive.google.com/file/d/1GKpjxnAx_b8h_OZQ67_rYdGlgq_TaJXS/view)
+
+[SK PENGELOLAAN PENGADUAN](https://drive.google.com/file/d/1-v5_pdH8bk6wLPSfgdWJLob1KcumwCRp/view)
+
+[SIK TIM PELAYANAN PUBLIK, SERTA VISI, MISI, MOTTO DAN MAKLUMAT PELAYANAN](https://drive.google.com/file/d/1a3rWjRqcbt_vs9f86V9XZA2qggtxlN7d/view)";}s:7:"storage";a:8:{s:3:"key";s:21:"pelayanan/pelayanan-2";s:11:"storage_key";s:35:"06.pelayanan/pelayanan-2|default.en";s:8:"template";s:7:"default";s:17:"storage_timestamp";i:1764835332;s:8:"markdown";a:1:{s:2:"en";a:1:{s:7:"default";i:1764835332;}}s:8:"checksum";s:32:"f024b88d13d178c6d3235ec5c94151e7";s:6:"exists";b:1;s:4:"lang";s:2:"en";}}

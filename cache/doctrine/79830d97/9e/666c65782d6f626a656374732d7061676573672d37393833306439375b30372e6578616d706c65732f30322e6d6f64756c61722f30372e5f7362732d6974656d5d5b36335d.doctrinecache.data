@@ -1,2 +1,0 @@
-1764737834
-O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:26:"examples/modular/_sbs-item";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:0:{}s:11:"frontmatter";s:0:"";s:8:"markdown";s:0:"";}s:7:"storage";a:6:{s:3:"key";s:26:"examples/modular/_sbs-item";s:11:"storage_key";s:35:"07.examples/02.modular/07._sbs-item";s:8:"template";s:3:"sbs";s:17:"storage_timestamp";i:1754217411;s:8:"markdown";a:2:{s:2:"de";a:1:{s:3:"sbs";i:1754217411;}s:2:"en";a:1:{s:3:"sbs";i:1754217411;}}s:8:"checksum";s:32:"219b2898b37046f3ed71d3ad427dbe6a";}}

@@ -3,8 +3,9 @@ title: 'Data SAKIP'
 date: '26-11-2025 06:26'
 visible: true
 process:
-  markdown: true
-  twig: true
+    markdown: true
+    twig: true
+published: false
 ---
 
 <style>

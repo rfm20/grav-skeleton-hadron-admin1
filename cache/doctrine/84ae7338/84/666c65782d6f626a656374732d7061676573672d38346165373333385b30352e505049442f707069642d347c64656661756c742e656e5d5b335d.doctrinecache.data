@@ -1,0 +1,8 @@
+1764836860
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:11:"ppid/ppid-4";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:5:{s:5:"title";s:17:"Prosedur Evakuasi";s:4:"date";s:16:"26-11-2025 06:26";s:7:"visible";b:1;s:7:"process";a:2:{s:8:"markdown";b:1;s:4:"twig";b:1;}s:11:"media_order";s:32:"12.-prosedur_evakuasi_resize.png";}s:11:"frontmatter";s:154:"title: 'Prosedur Evakuasi'
+date: '26-11-2025 06:26'
+visible: true
+process:
+    markdown: true
+    twig: true
+media_order: 12.-prosedur_evakuasi_resize.png";s:8:"markdown";s:96:"![12.-prosedur_evakuasi_resize](12.-prosedur_evakuasi_resize.png "12.-prosedur_evakuasi_resize")";}s:7:"storage";a:8:{s:3:"key";s:11:"ppid/ppid-4";s:11:"storage_key";s:25:"05.PPID/ppid-4|default.en";s:8:"template";s:7:"default";s:17:"storage_timestamp";i:1764737233;s:8:"markdown";a:1:{s:2:"en";a:1:{s:7:"default";i:1764737233;}}s:8:"checksum";s:32:"29f24f50309ad8412559660a260305c3";s:6:"exists";b:1;s:4:"lang";s:2:"en";}}

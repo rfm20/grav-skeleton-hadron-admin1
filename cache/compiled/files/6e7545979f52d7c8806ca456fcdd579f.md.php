@@ -2,8 +2,8 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledMarkdownFile',
     'filename' => 'C:/xampp/htdocs/grav/grav-skeleton-hadron+admin1/user/pages/03.kegiatan/kegiatan-6/default.en.md',
-    'modified' => 1764639790,
-    'size' => 3535,
+    'modified' => 1764834068,
+    'size' => 3426,
     'data' => [
         'header' => [
             'title' => 'Data SAKIP',
@@ -12,14 +12,16 @@ return [
             'process' => [
                 'markdown' => true,
                 'twig' => true
-            ]
+            ],
+            'published' => false
         ],
         'frontmatter' => 'title: \'Data SAKIP\'
 date: \'26-11-2025 06:26\'
 visible: true
 process:
-  markdown: true
-  twig: true',
+    markdown: true
+    twig: true
+published: false',
         'markdown' => '<style>
 /* ================================
    WRAPPER HALAMAN

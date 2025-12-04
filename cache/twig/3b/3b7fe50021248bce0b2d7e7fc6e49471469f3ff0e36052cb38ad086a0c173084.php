@@ -67,7 +67,7 @@ class __TwigTemplate_9abf559909f2253e1afe6defacea2ac285711379bd77ba61c421cf77b4a
         echo ">
     ";
         // line 12
-        $this->loadTemplate("partials/blueprints.html.twig", "partials/blueprints.html.twig", 12, "799359269")->display(twig_array_merge($context, ["name" => null, "fields" => $this->getAttribute(($context["blueprints"] ?? null), "fields", [])]));
+        $this->loadTemplate("partials/blueprints.html.twig", "partials/blueprints.html.twig", 12, "1511526209")->display(twig_array_merge($context, ["name" => null, "fields" => $this->getAttribute(($context["blueprints"] ?? null), "fields", [])]));
         // line 16
         echo "
     ";
@@ -182,7 +182,7 @@ class __TwigTemplate_9abf559909f2253e1afe6defacea2ac285711379bd77ba61c421cf77b4a
 
 
 /* partials/blueprints.html.twig */
-class __TwigTemplate_9abf559909f2253e1afe6defacea2ac285711379bd77ba61c421cf77b4a20fba___799359269 extends \Twig\Template
+class __TwigTemplate_9abf559909f2253e1afe6defacea2ac285711379bd77ba61c421cf77b4a20fba___1511526209 extends \Twig\Template
 {
     public function __construct(Environment $env)
     {
