@@ -2,8 +2,8 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledMarkdownFile',
     'filename' => 'C:/xampp/htdocs/grav/grav-skeleton-hadron+admin1/user/pages/04.blog/blog.en.md',
-    'modified' => 1764848261,
-    'size' => 931,
+    'modified' => 1764906553,
+    'size' => 932,
     'data' => [
         'header' => [
             'title' => 'Berita',
@@ -50,7 +50,7 @@ return [
                 'limit' => 6,
                 'order' => [
                     'by' => 'date',
-                    'dir' => 'asc'
+                    'dir' => 'desc'
                 ],
                 'pagination' => true,
                 'url_taxonomy_filters' => true
@@ -93,7 +93,7 @@ content:
     limit: 6
     order:
         by: date
-        dir: asc
+        dir: desc
     pagination: true
     url_taxonomy_filters: true
 media_order: header.webp',

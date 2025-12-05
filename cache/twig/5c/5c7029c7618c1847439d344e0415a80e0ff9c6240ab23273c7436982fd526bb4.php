@@ -46,7 +46,7 @@ class __TwigTemplate_dadcb4002cdbe833d50600eb1de7b6cdf57c6e116030426aeaa359be268
 
     ";
         // line 10
-        $this->loadTemplate("partials/page-move.html.twig", "partials/page-move.html.twig", 10, "1436006348")->display(twig_array_merge($context, ["name" => null, "fields" => $this->getAttribute(($context["blueprints"] ?? null), "fields", [])]));
+        $this->loadTemplate("partials/page-move.html.twig", "partials/page-move.html.twig", 10, "1242250708")->display(twig_array_merge($context, ["name" => null, "fields" => $this->getAttribute(($context["blueprints"] ?? null), "fields", [])]));
         // line 14
         echo "
     ";
@@ -99,7 +99,7 @@ class __TwigTemplate_dadcb4002cdbe833d50600eb1de7b6cdf57c6e116030426aeaa359be268
 
 
 /* partials/page-move.html.twig */
-class __TwigTemplate_dadcb4002cdbe833d50600eb1de7b6cdf57c6e116030426aeaa359be268a9880___1436006348 extends \Twig\Template
+class __TwigTemplate_dadcb4002cdbe833d50600eb1de7b6cdf57c6e116030426aeaa359be268a9880___1242250708 extends \Twig\Template
 {
     public function __construct(Environment $env)
     {

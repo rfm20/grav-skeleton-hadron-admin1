@@ -1,4 +1,4 @@
-1764836515
+1764907301
 O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:31:"examples/embedlycard/example-02";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:7:{s:5:"title";s:17:"Hadron Einleitung";s:9:"published";b:1;s:7:"visible";b:0;s:12:"cache_enable";b:0;s:18:"embedly_card_title";s:17:"Hadron Einleitung";s:22:"embedly_card_alignment";s:4:"left";s:16:"embedly_card_url";s:32:"https://usehadron.dev/docs/intro";}s:11:"frontmatter";s:199:"title: 'Hadron Einleitung'
 published: true
 visible: false

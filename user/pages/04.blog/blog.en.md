@@ -35,7 +35,7 @@ content:
     limit: 6
     order:
         by: date
-        dir: asc
+        dir: desc
     pagination: true
     url_taxonomy_filters: true
 media_order: header.webp

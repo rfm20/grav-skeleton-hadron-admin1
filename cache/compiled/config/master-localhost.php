@@ -1,8 +1,8 @@
 <?php
 return [
     '@class' => 'Grav\\Common\\Config\\CompiledConfig',
-    'timestamp' => 1764835854,
-    'checksum' => 'bc7ef9dc59ed2554d8cdadd83f7b4c8d',
+    'timestamp' => 1764906988,
+    'checksum' => '1c47889bad83d7aa1e5d179ad5257298',
     'files' => [
         'user/localhost/config' => [
             'plugins/snipcart' => [
@@ -133,7 +133,7 @@ return [
             ],
             'system' => [
                 'file' => 'user/config/system.yaml',
-                'modified' => 1764835842
+                'modified' => 1764906980
             ],
             'themes/hadron' => [
                 'file' => 'user/config/themes/hadron.yaml',
@@ -4853,7 +4853,7 @@ node_modules',
             'twig' => [
                 'cache' => true,
                 'debug' => false,
-                'auto_reload' => false,
+                'auto_reload' => true,
                 'autoescape' => true,
                 'undefined_functions' => true,
                 'undefined_filters' => true,
@@ -4879,7 +4879,7 @@ node_modules',
                 'js_module_pipeline_include_externals' => true,
                 'js_module_pipeline_before_excludes' => true,
                 'js_minify' => true,
-                'enable_asset_timestamp' => false,
+                'enable_asset_timestamp' => true,
                 'enable_asset_sri' => false,
                 'collections' => [
                     'jquery' => 'system://assets/jquery/jquery-3.x.min.js'

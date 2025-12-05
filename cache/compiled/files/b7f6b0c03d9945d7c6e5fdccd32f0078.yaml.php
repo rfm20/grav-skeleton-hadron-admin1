@@ -2,8 +2,8 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => 'C:/xampp/htdocs/grav/grav-skeleton-hadron+admin1/user/config/system.yaml',
-    'modified' => 1764835842,
-    'size' => 4834,
+    'modified' => 1764906980,
+    'size' => 4832,
     'data' => [
         'absolute_urls' => false,
         'timezone' => 'Europe/Zurich',
@@ -162,7 +162,7 @@ return [
         'twig' => [
             'cache' => true,
             'debug' => false,
-            'auto_reload' => false,
+            'auto_reload' => true,
             'autoescape' => true,
             'undefined_functions' => true,
             'undefined_filters' => true,
@@ -188,7 +188,7 @@ return [
             'js_module_pipeline_include_externals' => true,
             'js_module_pipeline_before_excludes' => true,
             'js_minify' => true,
-            'enable_asset_timestamp' => false,
+            'enable_asset_timestamp' => true,
             'enable_asset_sri' => false,
             'collections' => [
                 'jquery' => 'system://assets/jquery/jquery-3.x.min.js'

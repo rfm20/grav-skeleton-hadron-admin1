@@ -1,0 +1,20 @@
+1764907353
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:11:"ppid/ppid-3";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:4:{s:5:"title";s:20:"Permohonan Informasi";s:4:"date";s:16:"26-11-2025 06:26";s:7:"visible";b:1;s:7:"process";a:2:{s:8:"markdown";b:1;s:4:"twig";b:1;}}s:11:"frontmatter";s:111:"title: 'Permohonan Informasi'
+date: '26-11-2025 06:26'
+visible: true
+process:
+    markdown: true
+    twig: true";s:8:"markdown";s:722:"## Permohonan Informasi Online
+[Permohonan Informasi Online](https://layanan-diskominfo.kalbarprov.go.id/PPIDKALBAR-PERMOHONAN/register)
+
+## Formulir Permohonan Informasi
+[Formulir Permohonan Informasi](https://drive.google.com/file/d/1Lwy9qLqBiAUSY-wnAaC9eC1IO2BlKvFR/view)
+
+[Tanda Terima Informasi](https://drive.google.com/file/d/1MfXyQVyfuVNfBHgR0Qkp2ioOvEms-WGL/view)
+
+[Formulir Pengajuan Keberatan](https://drive.google.com/file/d/1D97u1AIXjSP74a2oqmEllbxBqP_A07S3/view)
+
+[Tanda Terima Pengajuan Keberatan](https://drive.google.com/file/d/1VtThGns6HbWShmo6fS8iEeYJpljJI26J/view)
+
+## Register Permohonan Informasi
+[Register Permohonan Informasi](https://drive.google.com/file/d/1bOqFsuSyEiI-gg1B4kkUxklkYJ8KnYL1/view)";}s:7:"storage";a:8:{s:3:"key";s:11:"ppid/ppid-3";s:11:"storage_key";s:25:"05.PPID/ppid-3|default.en";s:8:"template";s:7:"default";s:17:"storage_timestamp";i:1764736993;s:8:"markdown";a:1:{s:2:"en";a:1:{s:7:"default";i:1764735594;}}s:8:"checksum";s:32:"076a927f72c9ab70db8dde6e89ad95e6";s:6:"exists";b:1;s:4:"lang";s:2:"en";}}

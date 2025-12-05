@@ -2,12 +2,12 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledJsonFile',
     'filename' => 'C:/xampp/htdocs/grav/grav-skeleton-hadron+admin1/user/data/flex/indexes/pages.json',
-    'modified' => 1764848379,
-    'size' => 31082,
+    'modified' => 1764907017,
+    'size' => 30852,
     'data' => [
         'version' => '1.5',
-        'timestamp' => 1764848379,
-        'count' => 107,
+        'timestamp' => 1764907017,
+        'count' => 106,
         'index' => [
             '' => [
                 'key' => '',
@@ -266,26 +266,25 @@ return [
                 'key' => 'blog',
                 'storage_key' => '04.blog',
                 'template' => 'blog',
-                'storage_timestamp' => 1764848379,
+                'storage_timestamp' => 1764907017,
                 'markdown' => [
                     'de' => [
                         'blog' => 1754217411
                     ],
                     'en' => [
-                        'blog' => 1764848261
+                        'blog' => 1764906553
                     ]
                 ],
                 'children' => [
                     '01.item' => 1763450581,
                     '02.test01' => 1764639790,
                     '03.test02' => 1764639790,
-                    '04.test03' => 1764848379,
                     '05.test04' => 1764726100,
                     '06.berita05' => 1764739321,
-                    '07.berita06' => 1764729731,
-                    '_message' => 1764848336
+                    '07.berita06' => 1764906821,
+                    '08.berita-post-07' => 1764906476
                 ],
-                'checksum' => 'd9634169d88af33919f3943914e32dfe'
+                'checksum' => '43f489e41e8c6ba91eb1803420388b36'
             ],
             '04.blog/01.item' => [
                 'key' => 'blog/item',
@@ -326,18 +325,6 @@ return [
                 ],
                 'checksum' => '8edc1fb11d3d9b664770c2f3ba68986f'
             ],
-            '04.blog/04.test03' => [
-                'key' => 'blog/test03',
-                'storage_key' => '04.blog/04.test03',
-                'template' => 'item',
-                'storage_timestamp' => 1764848379,
-                'markdown' => [
-                    'en' => [
-                        'item' => 1764848379
-                    ]
-                ],
-                'checksum' => '30464cdcbb5cc7fce2965d11c20d29cb'
-            ],
             '04.blog/05.test04' => [
                 'key' => 'blog/test04',
                 'storage_key' => '04.blog/05.test04',
@@ -366,28 +353,25 @@ return [
                 'key' => 'blog/berita06',
                 'storage_key' => '04.blog/07.berita06',
                 'template' => 'item',
-                'storage_timestamp' => 1764729731,
+                'storage_timestamp' => 1764906821,
                 'markdown' => [
                     'en' => [
-                        'item' => 1764729731
+                        'item' => 1764906821
                     ]
                 ],
-                'checksum' => '9b7c82383b779b0f652146b26e46a3d2'
+                'checksum' => '0a55c7dc118de6e1c0ca4b5e125531da'
             ],
-            '04.blog/_message' => [
-                'key' => 'blog/_message',
-                'storage_key' => '04.blog/_message',
-                'template' => 'alert',
-                'storage_timestamp' => 1764848336,
+            '04.blog/08.berita-post-07' => [
+                'key' => 'blog/berita-post-07',
+                'storage_key' => '04.blog/08.berita-post-07',
+                'template' => 'item',
+                'storage_timestamp' => 1764906476,
                 'markdown' => [
-                    'de' => [
-                        'alert' => 1754217411
-                    ],
                     'en' => [
-                        'alert' => 1764848336
+                        'item' => 1764906476
                     ]
                 ],
-                'checksum' => 'dddc92f4b94e3b779d65bee5d821c48b'
+                'checksum' => 'ac4123dad3d5d4a1d295161063936006'
             ],
             '05.PPID' => [
                 'key' => 'ppid',

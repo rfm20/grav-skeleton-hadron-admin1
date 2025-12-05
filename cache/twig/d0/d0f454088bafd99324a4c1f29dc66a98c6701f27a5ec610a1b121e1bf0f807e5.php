@@ -52,7 +52,7 @@ class __TwigTemplate_1a677d911410637bd5a3ed51e3636a596066d9dc4ca88cc65923cfddd6d
         echo " data-grav-keepalive=\"true\">
     ";
         // line 6
-        $this->loadTemplate("partials/blueprints-new.html.twig", "partials/blueprints-new.html.twig", 6, "476620877")->display(twig_array_merge($context, ["name" => null, "fields" => $this->getAttribute(($context["blueprints"] ?? null), "fields", [])]));
+        $this->loadTemplate("partials/blueprints-new.html.twig", "partials/blueprints-new.html.twig", 6, "105101305")->display(twig_array_merge($context, ["name" => null, "fields" => $this->getAttribute(($context["blueprints"] ?? null), "fields", [])]));
         // line 10
         echo "
     <input type=\"hidden\" name=\"task\" value=\"continue\" />
@@ -107,7 +107,7 @@ class __TwigTemplate_1a677d911410637bd5a3ed51e3636a596066d9dc4ca88cc65923cfddd6d
 
 
 /* partials/blueprints-new.html.twig */
-class __TwigTemplate_1a677d911410637bd5a3ed51e3636a596066d9dc4ca88cc65923cfddd6df53d2___476620877 extends \Twig\Template
+class __TwigTemplate_1a677d911410637bd5a3ed51e3636a596066d9dc4ca88cc65923cfddd6df53d2___105101305 extends \Twig\Template
 {
     public function __construct(Environment $env)
     {

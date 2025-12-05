@@ -109,3 +109,8 @@
 [2025-12-04 12:37:46] grav.ERROR: mb_ereg_replace(): mbregex search failure in php_mbereg_replace_exec(): retry-limit-in-match over [] []
 [2025-12-04 12:38:59] grav.ERROR: mb_ereg_replace(): mbregex search failure in php_mbereg_replace_exec(): retry-limit-in-match over [] []
 [2025-12-04 12:39:44] grav.ERROR: mb_ereg_replace(): mbregex search failure in php_mbereg_replace_exec(): retry-limit-in-match over [] []
+[2025-12-05 04:13:07] grav.ERROR: mb_ereg_replace(): mbregex search failure in php_mbereg_replace_exec(): retry-limit-in-match over [] []
+[2025-12-05 04:43:49] grav.ERROR: mb_ereg_replace(): mbregex search failure in php_mbereg_replace_exec(): retry-limit-in-match over [] []
+[2025-12-05 04:48:33] grav.ERROR: mb_ereg_replace(): mbregex search failure in php_mbereg_replace_exec(): retry-limit-in-match over [] []
+[2025-12-05 04:48:38] grav.ERROR: mb_ereg_replace(): mbregex search failure in php_mbereg_replace_exec(): retry-limit-in-match over [] []
+[2025-12-05 04:49:22] grav.ERROR: mb_ereg_replace(): mbregex search failure in php_mbereg_replace_exec(): retry-limit-in-match over [] []

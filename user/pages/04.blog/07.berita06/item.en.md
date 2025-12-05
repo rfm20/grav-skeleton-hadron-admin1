@@ -7,6 +7,7 @@ blog_url: /blog
 hide_from_post_list: false
 feed:
     limit: 10
+media_order: 67847a62c5bcf-2025-01-13.png
 ---
 
 Ibu Erni Muchsin, S.STP., M.Si., Kepala Bidang Pembangunan dan Pemberdayaan Masyarakat Desa, Dinas Pemberdayaan Masyarakat dan Desa Provinsi Kalimantan Barat, menjadi narasumber pada acara Pertemuan Rapat Pembentukan dan Evaluasi Jejaring, Skrining Layak Hamil, ANC, dan Stunting di Hotel Orchardz Perdana, Kota Pontianak, pada Kamis, 24 Oktober 2024.
