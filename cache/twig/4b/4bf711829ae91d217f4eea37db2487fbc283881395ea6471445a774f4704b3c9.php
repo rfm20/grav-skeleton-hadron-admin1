@@ -1,0 +1,275 @@
+<?php
+
+use Twig\Environment;
+use Twig\Error\LoaderError;
+use Twig\Error\RuntimeError;
+use Twig\Markup;
+use Twig\Sandbox\SecurityError;
+use Twig\Sandbox\SecurityNotAllowedTagError;
+use Twig\Sandbox\SecurityNotAllowedFilterError;
+use Twig\Sandbox\SecurityNotAllowedFunctionError;
+use Twig\Source;
+use Twig\Template;
+
+/* @Page:C:/xampp/htdocs/grav/grav-skeleton-hadron+admin1/user/pages/01.home/02._highlights */
+class __TwigTemplate_49f4388364a375682ed174648e419d48a0fcddf0c2b0e79302acbc79841736bc extends \Twig\Template
+{
+    public function __construct(Environment $env)
+    {
+        parent::__construct($env);
+
+        $this->parent = false;
+
+        $this->blocks = [
+        ];
+    }
+
+    protected function doDisplay(array $context, array $blocks = [])
+    {
+        // line 1
+        echo "<style>
+a {
+  color: inherit !important;
+  text-decoration: none !important;
+}
+
+.berita-section{
+  text-align:center;
+  padding:40px 0 30px;
+}
+
+.berita-section h1{
+  font-size:32px;
+  margin-bottom:8px;
+  color:#14532d;
+  font-weight:800;
+}
+
+.berita-section h2{
+  font-size:18px;
+  font-weight:400;
+  margin-bottom:35px;
+  color:#15803d;
+}
+
+/* WRAPPER PUTIH FULL */
+.carousel-bg {
+  width:100%;
+  background:#ffffff !important;
+  padding:40px 0;
+  border-radius:20px;
+}
+
+/* BG PUTIH UNTUK SEMUA LAYER OWL */
+.owl-carousel,
+.owl-carousel .owl-stage-outer,
+.owl-carousel .owl-stage,
+.owl-carousel .owl-item {
+  background:#ffffff !important;
+}
+
+/* CARD PREMIUM */
+.news-card{
+  background: #ffffff;
+  border-radius:22px;
+  overflow:hidden;
+  border:1.5px solid rgba(34,197,94,0.25);
+  transition:0.35s ease;
+  display:flex;
+  flex-direction:column;
+  height:380px;
+  margin:10px;
+}
+
+.news-card:hover{
+  transform:translateY(-10px) scale(1.02);
+  box-shadow:0 20px 50px rgba(16,185,129,0.3);
+  border-color:rgba(34,197,94,0.45);
+}
+
+.news-card img{
+  width:100%;
+  height:200px;
+  object-fit:cover;
+  transition:0.4s ease;
+}
+
+.news-card:hover img{
+  transform:scale(1.15);
+}
+
+.news-card h4{
+  padding:18px;
+  font-size:19px;
+  color:#14532d;
+  font-weight:700;
+  text-align:center;
+  min-height:70px;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+}
+
+.read-more{
+  display:inline-block;
+  margin:0 20px 20px;
+  padding:12px 15px;
+  text-align:center;
+  background:linear-gradient(135deg,#16a34a,#22c55e,#4ade80);
+  color:white !important;
+  font-weight:700;
+  border-radius:12px;
+  transition:0.3s ease;
+  box-shadow:0 4px 12px rgba(34,197,94,0.35);
+  text-transform:uppercase;
+  letter-spacing:0.5px;
+}
+
+.read-more:hover{
+  background:linear-gradient(135deg,#0f9f43,#16a34a,#22c55e);
+  transform:translateY(-3px);
+}
+
+/* ARROWS */
+.owl-nav button.owl-prev,
+.owl-nav button.owl-next{
+  background:white !important;
+  border-radius:50%;
+  width:50px;
+  height:50px;
+  border:2px solid #14532d !important;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  font-size:34px !important;
+  color:#14532d !important;
+  box-shadow:0 4px 12px rgba(0,0,0,0.15);
+  position:absolute;
+  top:38%;
+  transition:0.3s ease;
+}
+
+.owl-nav button.owl-prev:hover,
+.owl-nav button.owl-next:hover{
+  background:#d1fae5 !important;
+  transform:scale(1.1);
+}
+
+.owl-nav button.owl-prev{ left:-30px; }
+.owl-nav button.owl-next{ right:-30px; }
+</style>
+
+<div class=\"berita-section\">
+  <h1>Berita & Dokumentasi Kegiatan</h1>
+  <h2>Dinas Pemberdayaan Masyarakat dan Desa Kalimantan Barat</h2>
+</div>
+
+<!-- WRAPPER PUTIH -->
+<div class=\"carousel-bg\">
+
+  <div class=\"owl-carousel\">
+
+    
+      <div class=\"news-card\">
+              <img src=\"/grav/grav-skeleton-hadron+admin1/images/6/7/8/4/7/67847b4f9c0d8-2025-01-13-b214bdc1.png\" alt=\"\">
+      
+      <h4>Penilaian Pelaksanaan PKK Bangga Kencana Kesehatan</h4>
+
+      <a href=\"https://localhost/grav/grav-skeleton-hadron+admin1/en/blog/berita-post-07\" class=\"read-more\">
+        Selengkapnya
+      </a>
+    </div>
+      <div class=\"news-card\">
+              <img src=\"/grav/grav-skeleton-hadron+admin1/images/6/7/8/4/7/67847a62c5bcf-2025-01-13-363beb68.png\" alt=\"\">
+      
+      <h4>Rapat Pembentukan dan Evaluasi Jejaring, Skrining Layak Hamil, ANC, dan Stunting</h4>
+
+      <a href=\"https://localhost/grav/grav-skeleton-hadron+admin1/en/blog/berita06\" class=\"read-more\">
+        Selengkapnya
+      </a>
+    </div>
+      <div class=\"news-card\">
+              <img src=\"/grav/grav-skeleton-hadron+admin1/images/6/7/8/4/7/67847900be66a-2025-01-13-0007fbd5.png\" alt=\"\">
+      
+      <h4>Rapat Koordinasi Penyusunan SK Gubernur tentang Pembentukan TP Posyandu</h4>
+
+      <a href=\"https://localhost/grav/grav-skeleton-hadron+admin1/en/blog/berita05\" class=\"read-more\">
+        Selengkapnya
+      </a>
+    </div>
+      <div class=\"news-card\">
+              <img src=\"/grav/grav-skeleton-hadron+admin1/images/6/7/8/4/7/678477d4c3505-2025-01-13-f0cfb6c4.png\" alt=\"\">
+      
+      <h4>Rapat Evaluasi BBGRM 2024</h4>
+
+      <a href=\"https://localhost/grav/grav-skeleton-hadron+admin1/en/blog/test04\" class=\"read-more\">
+        Selengkapnya
+      </a>
+    </div>
+      <div class=\"news-card\">
+              <img src=\"/grav/grav-skeleton-hadron+admin1/images/6/7/8/4/7/678478bd50ed1-2025-01-13-d54fc51f.png\" alt=\"\">
+      
+      <h4>Bimbingan Teknis Pengelolaan BUMDesa Kalimantan Barat</h4>
+
+      <a href=\"https://localhost/grav/grav-skeleton-hadron+admin1/en/blog/test02\" class=\"read-more\">
+        Selengkapnya
+      </a>
+    </div>
+      <div class=\"news-card\">
+              <img src=\"/grav/grav-skeleton-hadron+admin1/images/6/7/8/4/7/6784796dea95b-2025-01-13-36161565.png\" alt=\"\">
+      
+      <h4>Peningkatan Kapasitas bagi Ketua Tim Pembina Posyandu Kecamatan, Desa dan Petugas Gizi di Puskesmas Kabupaten Kubu Raya Tahun 2024</h4>
+
+      <a href=\"https://localhost/grav/grav-skeleton-hadron+admin1/en/blog/test01\" class=\"read-more\">
+        Selengkapnya
+      </a>
+    </div>
+  
+  </div>
+
+</div>
+
+<script>
+\$(document).ready(function(){
+  \$('.owl-carousel').owlCarousel({
+    loop:true,
+    margin:25,
+    nav:true,
+    dots:false,
+    autoplay:true,
+    autoplayTimeout:3500,
+    smartSpeed:700,
+    responsive:{
+      0:{items:1},
+      768:{items:2},
+      1200:{items:3}
+    }
+  });
+});
+</script>
+";
+    }
+
+    public function getTemplateName()
+    {
+        return "@Page:C:/xampp/htdocs/grav/grav-skeleton-hadron+admin1/user/pages/01.home/02._highlights";
+    }
+
+    public function getDebugInfo()
+    {
+        return array (  30 => 1,);
+    }
+
+    /** @deprecated since 1.27 (to be removed in 2.0). Use getSourceContext() instead */
+    public function getSource()
+    {
+        @trigger_error('The '.__METHOD__.' method is deprecated since version 1.27 and will be removed in 2.0. Use getSourceContext() instead.', E_USER_DEPRECATED);
+
+        return $this->getSourceContext()->getCode();
+    }
+
+    public function getSourceContext()
+    {
+        return new Source("", "@Page:C:/xampp/htdocs/grav/grav-skeleton-hadron+admin1/user/pages/01.home/02._highlights", "");
+    }
+}

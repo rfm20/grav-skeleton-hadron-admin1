@@ -1,2 +1,0 @@
-1764907345
-O:39:"Grav\Common\Flex\Types\Users\UserObject":4:{s:4:"type";s:13:"user-accounts";s:3:"key";s:5:"admin";s:8:"elements";a:7:{s:5:"state";s:7:"enabled";s:5:"email";s:15:"admin@admin.com";s:8:"fullname";s:13:"Administrator";s:5:"title";s:5:"Admin";s:6:"access";a:2:{s:5:"admin";a:2:{s:5:"login";b:1;s:5:"super";b:1;}s:4:"site";a:1:{s:5:"login";b:1;}}s:15:"hashed_password";s:60:"$2y$10$S3r.98T0b6B7Ts37ito2hOn2E3p2PA/WNwhf5xvO7ikQUl.DG05GO";s:8:"username";s:5:"admin";}s:7:"storage";a:2:{s:11:"storage_key";s:5:"admin";s:17:"storage_timestamp";i:1762668822;}}
