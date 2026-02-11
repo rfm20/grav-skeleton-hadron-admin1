@@ -18,9 +18,15 @@ sidebar:
   --shadow-hover: 0 10px 26px rgba(13,110,79,0.18);
 }
 
+* {
+  box-sizing: border-box;
+}
+
 body {
   font-family: 'Inter', system-ui, -apple-system, sans-serif;
   background: #f9fafb;
+  margin: 0;
+  padding: 0;
 }
 
 /* ===== PAGE ===== */
@@ -37,10 +43,11 @@ body {
 }
 
 .section-title {
-  font-size: 2.5rem;
+  font-size: clamp(1.8rem, 5vw, 2.5rem);
   font-weight: 800;
   color: var(--primary-color);
   margin: 0;
+  line-height: 1.2;
 }
 
 .section-subtitle {
@@ -50,7 +57,7 @@ body {
   background: var(--primary-light);
   color: var(--primary-color);
   border-radius: 50px;
-  font-size: 0.9rem;
+  font-size: clamp(0.75rem, 2vw, 0.9rem);
   font-weight: 600;
   text-transform: uppercase;
   letter-spacing: 1px;
@@ -60,7 +67,7 @@ body {
 .profile-card,
 .section-card {
   background: #ffffff;
-  padding: 40px;
+  padding: clamp(20px, 4vw, 40px);
   margin-bottom: 40px;
   border-radius: var(--radius-card);
   border: 1px solid rgba(13,110,79,0.12);
@@ -74,38 +81,41 @@ body {
   box-shadow: var(--shadow-hover);
 }
 
-/* ===== CARD TITLE (CENTER & SAME SIZE) ===== */
+/* ===== CARD TITLE (CENTER & RESPONSIVE) ===== */
 .profile-card h2,
 .section-card h2 {
   text-align: center;
   color: var(--primary-color);
-  font-size: 1.75rem;
+  font-size: clamp(1.25rem, 3vw, 1.75rem);
   font-weight: 700;
-  margin-top: 0;
-  margin-bottom: 28px;
+  margin: 0 auto 28px;
   border-bottom: 2px solid var(--primary-light);
   padding-bottom: 10px;
-  display: inline-block;
-  left: 50%;
-  position: relative;
-  transform: translateX(-50%);
+  display: block;
+  width: fit-content;
+  max-width: 100%;
+  line-height: 1.3;
 }
 
 /* ===== CARD CONTENT TEXT ===== */
 .profile-card p,
 .section-card p,
 ul.custom-list li {
-  font-size: 1.05rem;
-  line-height: 1.7;
+  font-size: clamp(0.9rem, 2vw, 1.05rem);
+  line-height: 1.8;
   color: var(--text-dark);
-  text-align:justify;
+  text-align: justify;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  hyphens: auto;
+  margin-bottom: 1em;
 }
 
-/* ===== VISI ===== */
+/* ===== VISI BOX ===== */
 .visi-box {
   background: linear-gradient(135deg, var(--primary-color), #095039);
   color: white;
-  padding: 40px;
+  padding: clamp(25px, 5vw, 40px);
   border-radius: var(--radius-card);
   text-align: center;
   box-shadow: var(--shadow-hover);
@@ -113,21 +123,24 @@ ul.custom-list li {
 }
 
 .visi-label {
-  font-size: 1rem;
+  font-size: clamp(0.9rem, 2vw, 1rem);
   letter-spacing: 2px;
   font-weight: 700;
   margin-bottom: 15px;
   display: block;
+  text-transform: uppercase;
 }
 
 .visi-text {
-  font-size: 1.4rem;
+  font-size: clamp(1.1rem, 3vw, 1.4rem);
   font-style: italic;
   font-weight: 600;
   line-height: 1.6;
+  margin: 0;
+  padding: 0 10px;
 }
 
-/* ===== LIST ===== */
+/* ===== CUSTOM LIST ===== */
 ul.custom-list {
   list-style: none;
   padding: 0;
@@ -149,15 +162,50 @@ ul.custom-list li::before {
   height: 12px;
   border-radius: 50%;
   background: linear-gradient(135deg, #88c6b8, #4f7f72);
+  flex-shrink: 0;
 }
 
-/* ===== GRID ===== */
+/* ===== GRID LIST ===== */
 .grid-list {
   display: grid;
   grid-template-columns: 1fr;
   gap: 10px;
 }
 
+/* ===== REGULASI BOX ===== */
+.regulasi-box {
+  background: var(--primary-light);
+  padding: 16px 20px;
+  border-left: 4px solid var(--primary-color);
+  border-radius: 0 8px 8px 0;
+  margin-bottom: 28px;
+}
+
+.regulasi-box p {
+  margin: 0;
+  font-size: clamp(0.85rem, 2vw, 0.95rem);
+  line-height: 1.6;
+}
+
+.regulasi-box strong {
+  color: var(--primary-color);
+  font-weight: 700;
+}
+
+/* ===== STRUKTUR ORGANISASI IMAGE ===== */
+.profile-card img,
+.section-card img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
+/* ===== RESPONSIVE BREAKPOINTS ===== */
+
+/* Tablet (768px and above) */
 @media (min-width: 768px) {
   .grid-list {
     grid-template-columns: 1fr 1fr;
@@ -165,13 +213,198 @@ ul.custom-list li::before {
   }
 }
 
-/* ===== REGULASI ===== */
-.regulasi-box {
-  background: var(--primary-light);
-  padding: 16px 20px;
-  border-left: 4px solid var(--primary-color);
-  border-radius: 0 8px 8px 0;
-  margin-bottom: 28px;
+/* Tablet (768px and below) */
+@media (max-width: 768px) {
+  .page-wrapper {
+    padding: 30px 15px;
+  }
+
+  .header-container {
+    margin-bottom: 35px;
+  }
+
+  .profile-card,
+  .section-card {
+    margin-bottom: 30px;
+    padding: 25px 20px;
+  }
+
+  .profile-card h2,
+  .section-card h2 {
+    margin-bottom: 20px;
+    padding: 0 10px 10px;
+  }
+
+  .visi-box {
+    margin-bottom: 30px;
+  }
+
+  ul.custom-list li {
+    padding-left: 28px;
+    margin-bottom: 10px;
+  }
+
+  ul.custom-list li::before {
+    width: 10px;
+    height: 10px;
+    top: 7px;
+  }
+
+  .regulasi-box {
+    padding: 14px 18px;
+  }
+}
+
+/* Mobile (480px and below) */
+@media (max-width: 480px) {
+  .page-wrapper {
+    padding: 20px 12px;
+  }
+
+  .header-container {
+    margin-bottom: 30px;
+  }
+
+  .section-title {
+    font-size: 1.6rem;
+  }
+
+  .section-subtitle {
+    font-size: 0.75rem;
+    padding: 5px 12px;
+    letter-spacing: 0.5px;
+  }
+
+  .profile-card,
+  .section-card {
+    padding: 20px 15px;
+    margin-bottom: 25px;
+  }
+
+  .profile-card h2,
+  .section-card h2 {
+    font-size: 1.15rem;
+    margin-bottom: 18px;
+    padding-bottom: 8px;
+  }
+
+  .profile-card p,
+  .section-card p,
+  ul.custom-list li {
+    font-size: 0.9rem;
+    line-height: 1.7;
+  }
+
+  .visi-box {
+    padding: 20px 15px;
+    margin-bottom: 25px;
+  }
+
+  .visi-label {
+    font-size: 0.85rem;
+    letter-spacing: 1.5px;
+    margin-bottom: 12px;
+  }
+
+  .visi-text {
+    font-size: 1.05rem;
+    line-height: 1.5;
+  }
+
+  ul.custom-list li {
+    padding-left: 24px;
+    margin-bottom: 10px;
+  }
+
+  ul.custom-list li::before {
+    width: 8px;
+    height: 8px;
+    top: 6px;
+  }
+
+  .regulasi-box {
+    padding: 12px 15px;
+    margin-bottom: 20px;
+  }
+
+  .regulasi-box p {
+    font-size: 0.85rem;
+  }
+}
+
+/* Extra small devices (360px and below) */
+@media (max-width: 360px) {
+  .page-wrapper {
+    padding: 15px 10px;
+  }
+
+  .header-container {
+    margin-bottom: 25px;
+  }
+
+  .section-title {
+    font-size: 1.4rem;
+  }
+
+  .section-subtitle {
+    font-size: 0.7rem;
+    padding: 4px 10px;
+  }
+
+  .profile-card,
+  .section-card {
+    padding: 15px 12px;
+    margin-bottom: 20px;
+  }
+
+  .profile-card h2,
+  .section-card h2 {
+    font-size: 1.05rem;
+    margin-bottom: 15px;
+  }
+
+  .profile-card p,
+  .section-card p,
+  ul.custom-list li {
+    font-size: 0.85rem;
+  }
+
+  .visi-box {
+    padding: 18px 12px;
+  }
+
+  .visi-label {
+    font-size: 0.8rem;
+    margin-bottom: 10px;
+  }
+
+  .visi-text {
+    font-size: 1rem;
+  }
+
+  ul.custom-list li {
+    padding-left: 22px;
+    margin-bottom: 8px;
+  }
+
+  .regulasi-box {
+    padding: 10px 12px;
+  }
+}
+
+/* Print styling */
+@media print {
+  .profile-card,
+  .section-card {
+    box-shadow: none;
+    border: 1px solid #ddd;
+    page-break-inside: avoid;
+  }
+
+  .profile-card:hover,
+  .section-card:hover {
+    transform: none;
+  }
 }
 </style>
 
