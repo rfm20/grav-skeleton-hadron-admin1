@@ -20,9 +20,16 @@ media_order: 'TATA CARA MEMPEROLEH INFORMASI PUBLIK_page-0001.jpg,3.-TATA-CARA-P
   --shadow-hover: 0 10px 26px rgba(13,110,79,0.18);
 }
 
+* {
+  box-sizing: border-box;
+}
+
 body {
   font-family: 'Inter', system-ui, -apple-system, sans-serif;
   background-color: #f9fafb;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
 }
 
 /* ===== PAGE WRAPPER ===== */
@@ -39,11 +46,12 @@ body {
 }
 
 .section-title {
-  font-size: 2.5rem;
+  font-size: clamp(1.75rem, 5vw, 2.5rem);
   font-weight: 800;
   color: var(--primary-color);
   margin: 0;
   letter-spacing: -0.5px;
+  line-height: 1.2;
 }
 
 .section-subtitle {
@@ -53,10 +61,11 @@ body {
   background: var(--primary-light);
   color: var(--primary-color);
   border-radius: 50px;
-  font-size: 0.9rem;
+  font-size: clamp(0.75rem, 2vw, 0.9rem);
   font-weight: 600;
   text-transform: uppercase;
-  letter-spacing: 1px;
+  letter-spacing: 0.5px;
+  text-align: center;
 }
 
 /* ===== CARD STYLE ===== */
@@ -79,7 +88,7 @@ body {
 .section-card h2 {
   text-align: center;
   color: var(--primary-color);
-  font-size: 1.75rem;
+  font-size: clamp(1.25rem, 3.5vw, 1.75rem);
   font-weight: 700;
   margin-top: 0;
   margin-bottom: 28px;
@@ -89,14 +98,158 @@ body {
   position: relative;
   left: 50%;
   transform: translateX(-50%);
+  line-height: 1.3;
 }
 
 /* ===== CARD IMAGE ===== */
 .section-image img {
   width: 100%;
+  height: auto;
   border-radius: 10px;
   border: 1px solid #e5e7eb;
   margin-top: 15px;
+  display: block;
+}
+
+/* ===== RESPONSIVE BREAKPOINTS ===== */
+
+/* Tablet - Large (iPad Pro, etc) */
+@media (max-width: 1024px) {
+  .page-wrapper {
+    padding: 32px 16px;
+  }
+  
+  .header-container {
+    margin-bottom: 40px;
+  }
+  
+  .section-card {
+    padding: 32px 24px;
+  }
+  
+  .section-image img {
+    margin-top: 12px;
+  }
+}
+
+/* Tablet - Medium */
+@media (max-width: 768px) {
+  .page-wrapper {
+    padding: 28px 16px;
+  }
+  
+  .header-container {
+    margin-bottom: 32px;
+  }
+  
+  .section-card {
+    padding: 28px 20px;
+    margin-bottom: 28px;
+  }
+  
+  .section-card h2 {
+    margin-bottom: 24px;
+    padding-bottom: 8px;
+    max-width: 95%;
+  }
+  
+  .section-image img {
+    margin-top: 10px;
+    border-radius: 8px;
+  }
+}
+
+/* Mobile - Large */
+@media (max-width: 480px) {
+  .page-wrapper {
+    padding: 20px 12px;
+  }
+  
+  .header-container {
+    margin-bottom: 28px;
+  }
+  
+  .section-subtitle {
+    padding: 5px 12px;
+    letter-spacing: 0.3px;
+  }
+  
+  .section-card {
+    padding: 24px 16px;
+    margin-bottom: 24px;
+    border-radius: 12px;
+  }
+  
+  .section-card h2 {
+    margin-bottom: 20px;
+    max-width: 100%;
+  }
+  
+  .section-image img {
+    margin-top: 8px;
+    border-radius: 6px;
+  }
+}
+
+/* Mobile - Small */
+@media (max-width: 360px) {
+  .page-wrapper {
+    padding: 16px 10px;
+  }
+  
+  .section-card {
+    padding: 20px 14px;
+  }
+  
+  .section-image img {
+    margin-top: 6px;
+  }
+}
+
+/* Landscape mode optimization */
+@media (max-height: 500px) and (orientation: landscape) {
+  .page-wrapper {
+    padding: 20px 16px;
+  }
+  
+  .header-container {
+    margin-bottom: 24px;
+  }
+  
+  .section-card {
+    margin-bottom: 20px;
+    padding: 24px 20px;
+  }
+  
+  .section-card h2 {
+    margin-bottom: 20px;
+  }
+  
+  .section-image img {
+    margin-top: 10px;
+  }
+}
+
+/* Print styles */
+@media print {
+  body {
+    background: white;
+  }
+  
+  .section-card {
+    box-shadow: none;
+    border: 1px solid #ddd;
+    page-break-inside: avoid;
+  }
+  
+  .section-card h2 {
+    page-break-after: avoid;
+  }
+  
+  .section-image img {
+    page-break-inside: avoid;
+    border: 1px solid #ddd;
+  }
 }
 </style>
 

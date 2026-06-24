@@ -42,7 +42,7 @@
 
 .dpmd-footer a {
   text-decoration: none;
-  color: #ffffff;
+  color: #ffffff !important;
   font-weight: 500;
 }
 
@@ -52,9 +52,6 @@
   content: none !important;
 }
 
-.dpmd-footer a:hover {
-  text-decoration: underline;
-}
 
 .social-icons {
   display: flex;
@@ -66,7 +63,7 @@
   width: 38px;
   height: 38px;
   background: #064e3b;
-  color: #ffffff;
+  color: #ffffff !important;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -78,7 +75,7 @@
 
 .social-icons a:hover {
   background: #16a34a;
-  color: #ffffff;
+  color: #ffffff !important;
   transform: translateY(-3px) scale(1.07);
 }
 
