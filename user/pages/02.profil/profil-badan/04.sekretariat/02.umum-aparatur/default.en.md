@@ -1,6 +1,7 @@
 ---
 title: 'Umum Aparatur'
 date: '15-12-2025 13:32'
+visible: false
 ---
 
 <style>
