@@ -465,4 +465,329 @@ body {
     </div>
   </div>
 
+    <!-- ===== Regulasi Aset Desa ===== -->
+  <!-- ===== CARD ===== -->
+  <div class="section-card">
+    <h2>Regulasi Aset Desa</h2>
+
+    <div class="link-list">
+
+      <!-- ===============================
+           TEMPLATE 1 — LINK EKSTERNAL
+           (Google Drive / Website)
+      ================================ -->
+      <a class="link-btn"
+         href="https://drive.google.com/file/d/1R6XRTigGxptC7VH23qSYsQVTZs0k6C4R/view"
+         target="_blank">
+        <div class="btn-content">
+          <div class="icon-box">📄</div>
+          <span class="btn-text">
+            01 Permendagri No 1 Tahun 2016 Pengelolaan Aset Desa
+          </span>
+        </div>
+        <div class="btn-arrow">➜</div>
+      </a>
+      
+      <a class="link-btn"
+         href="https://drive.google.com/file/d/1ZzXHAdsIUSd8kIhkGdMAlVIrQOZoYPfQ/view"
+         target="_blank">
+        <div class="btn-content">
+          <div class="icon-box">📄</div>
+          <span class="btn-text">
+            02 Permendagri No 3 Tahun 2024 Perub Pmdn 1 2016 ttg Pengelola Aset Desa
+          </span>
+        </div>
+        <div class="btn-arrow">➜</div>
+      </a>
+      
+
+    </div>
+  </div>
+    
+  <!-- ===== Regulasi Batas Desa ===== -->
+    <div class="section-card">
+    <h2>Regulasi Batas Desa</h2>
+
+    <div class="link-list">
+
+      <a class="link-btn"
+         href="https://drive.google.com/file/d/1vg68gPpheCY4NqgU8Y3QATVvELNV5ai1/view"
+         target="_blank">
+        <div class="btn-content">
+          <div class="icon-box">📄</div>
+          <span class="btn-text">
+            01 UU 4 Tahun 2011 Informasi Geospasial
+          </span>
+        </div>
+        <div class="btn-arrow">➜</div>
+      </a>
+        
+      <a class="link-btn"
+         href="https://drive.google.com/file/d/1PPHuzMRZXla2CaQpLmd_D5AVH86d5l-i/view"
+         target="_blank">
+        <div class="btn-content">
+          <div class="icon-box">📄</div>
+          <span class="btn-text">
+            02 Permendagri No 45 2016 Pedoman Penetapan Penegasan Batas Desa
+          </span>
+        </div>
+        <div class="btn-arrow">➜</div>
+      </a>
+        
+      <a class="link-btn"
+         href="https://drive.google.com/file/d/170gW3k3hJw_PW9yeSHrEJ2_maPxleEUy/view"
+         target="_blank">
+        <div class="btn-content">
+          <div class="icon-box">📄</div>
+          <span class="btn-text">
+            03 Peraturan BIG No 15 2019 Metode Kartometrik Pada Penetapan dan Pengasan Batas Desa Kelurahan
+          </span>
+        </div>
+        <div class="btn-arrow">➜</div>
+      </a>
+        
+      <a class="link-btn"
+         href="https://drive.google.com/file/d/1-BrO9YqnsbDmNVILfDKEGrz09E5Kk-Pz/view"
+         target="_blank">
+        <div class="btn-content">
+          <div class="icon-box">📄</div>
+          <span class="btn-text">
+            04a Perpres Nomor 23 Tahun 2021 Perubahan Perpres 9 2016 Kebijakan Satu Peta
+          </span>
+        </div>
+        <div class="btn-arrow">➜</div>
+      </a>
+        
+      <a class="link-btn"
+         href="https://drive.google.com/file/d/1pSmwQHDfFtzrW7RxyMyl5vLHJw5ElppX/view"
+         target="_blank">
+        <div class="btn-content">
+          <div class="icon-box">📄</div>
+          <span class="btn-text">
+            04b Perpres Nomor 23 Tahun 2021 - Lampiran
+          </span>
+        </div>
+        <div class="btn-arrow">➜</div>
+      </a>
+
+    </div>
+  </div>
+    
+  <!-- ===== Regulasi BUMDES ===== -->
+    <div class="section-card">
+    <h2>Regulasi BUMDES</h2>
+
+    <div class="link-list">
+
+      <a class="link-btn"
+         href="https://drive.google.com/file/d/1FByja_twW0N3HUXL1shSVFwv_xv8Wm6m/view"
+         target="_blank">
+        <div class="btn-content">
+          <div class="icon-box">📄</div>
+          <span class="btn-text">
+            01 UU Nomor 06 Tahun 2014 UU Desa
+          </span>
+        </div>
+        <div class="btn-arrow">➜</div>
+      </a>
+        
+      <a class="link-btn"
+         href="https://drive.google.com/file/d/1UZ-2w9tNplrf28TgioZUXbz-HjjqFtw4/view"
+         target="_blank">
+        <div class="btn-content">
+          <div class="icon-box">📄</div>
+          <span class="btn-text">
+            02 PP Nomor 11 Tahun 2021 BUM Desa
+          </span>
+        </div>
+        <div class="btn-arrow">➜</div>
+      </a>
+        
+      <a class="link-btn"
+         href="https://drive.google.com/file/d/1w2aUcUf9RZbvnyWhOwhEnBJ87ZhrLf8g/view"
+         target="_blank">
+        <div class="btn-content">
+          <div class="icon-box">📄</div>
+          <span class="btn-text">
+            03 Permendes PDTT No 4 Tahun 2015 Pendirian Pengurusan Pembubaran Bumdes
+          </span>
+        </div>
+        <div class="btn-arrow">➜</div>
+      </a>
+        
+      <a class="link-btn"
+         href="https://drive.google.com/file/d/1ZvGJqw2QGauJctYCShb0EBC3GcP6Z5ps/view"
+         target="_blank">
+        <div class="btn-content">
+          <div class="icon-box">📄</div>
+          <span class="btn-text">
+            04 Permendes PDTT No 3 Tahun 2021 Pendaftaran Pemeringkatan PBJ BUMDES DESMA
+          </span>
+        </div>
+        <div class="btn-arrow">➜</div>
+      </a>
+
+    </div>
+  </div>
+    
+    
+  <!-- ===== Regulasi Indeks Desa ===== -->
+    <div class="section-card">
+    <h2>Regulasi Indeks Desa</h2>
+
+    <div class="link-list">
+
+      <a class="link-btn"
+         href="https://drive.google.com/file/d/1EWA3AJ8ki4gEHWGMACdEvD07Fr2m1GK8/view"
+         target="_blank">
+        <div class="btn-content">
+          <div class="icon-box">📄</div>
+          <span class="btn-text">
+            01 Permendesa Nomor 2 Tahun 2016 indeks desa membangun
+          </span>
+        </div>
+        <div class="btn-arrow">➜</div>
+      </a>
+        
+      <a class="link-btn"
+         href="https://drive.google.com/file/d/1o2TAz4N82WUrZCDJj3btOy3jXMCoQbj6/view"
+         target="_blank">
+        <div class="btn-content">
+          <div class="icon-box">📄</div>
+          <span class="btn-text">
+            02 BUKU PERMENDES 9 TAHUN 2024 ttg Indeks Desa
+          </span>
+        </div>
+        <div class="btn-arrow">➜</div>
+      </a>
+        
+      <a class="link-btn"
+         href="https://drive.google.com/file/d/1G7xTID03kcm0bz1bnPRKDz8oA3cdMxwd/view"
+         target="_blank">
+        <div class="btn-content">
+          <div class="icon-box">📄</div>
+          <span class="btn-text">
+            03 SK Gubernur tentang Pembentukan Tim Verifikasi dan Validasi Pendataan Indeks Desa 2025
+          </span>
+        </div>
+        <div class="btn-arrow">➜</div>
+      </a>
+        
+      <a class="link-btn"
+         href="https://drive.google.com/file/d/1taoLT15FKGSlnpAdk7ziQk7cSXTWsl6R/view"
+         target="_blank">
+        <div class="btn-content">
+          <div class="icon-box">📄</div>
+          <span class="btn-text">
+            04 KepmenDesPDT 343 Tahun 2025 ttg Status Kemajuan dan Kemandirian Desa 2025
+          </span>
+        </div>
+        <div class="btn-arrow">➜</div>
+      </a>
+        
+      <a class="link-btn"
+         href="https://drive.google.com/file/d/1PGLG--MB5rV6JcRkCxqM24P4riXM2jUY/view"
+         target="_blank">
+        <div class="btn-content">
+          <div class="icon-box">📄</div>
+          <span class="btn-text">
+            05 Status Indeks Desa 2025 Kalbar
+          </span>
+        </div>
+        <div class="btn-arrow">➜</div>
+      </a>
+
+    </div>
+  </div>
+    
+  <!-- ===== Regulasi Penggunaan Dana Desa ===== -->
+    <div class="section-card">
+    <h2>Regulasi Penggunaan Dana Desa</h2>
+
+    <div class="link-list">
+
+      <a class="link-btn"
+         href="https://drive.google.com/file/d/1jW9rzXgWGARx8Xe73Yme0sTz804eXKH-/view"
+         target="_blank">
+        <div class="btn-content">
+          <div class="icon-box">📄</div>
+          <span class="btn-text">
+            01 Peraturan Menteri Desa, PDT, dan Transmigrasi Nomor 7 Tahunn 2023 tentang Rincian Prioritas Penggunaan DD
+          </span>
+        </div>
+        <div class="btn-arrow">➜</div>
+      </a>
+        
+      <a class="link-btn"
+         href="https://drive.google.com/file/d/1DVINm9FYZ3G-yRjyycKb8RgyM_VTMpMD/view"
+         target="_blank">
+        <div class="btn-content">
+          <div class="icon-box">📄</div>
+          <span class="btn-text">
+            02 Permendesa PDT No 2 2024 - Juknal Fokus Penggunaan Dana Desa Tahun 02 2025
+          </span>
+        </div>
+        <div class="btn-arrow">➜</div>
+      </a>
+        
+      <a class="link-btn"
+         href="https://drive.google.com/file/d/1ZAVSA6XMPkixNkBt0m2NuwjujgoqeB0a/view"
+         target="_blank">
+        <div class="btn-content">
+          <div class="icon-box">📄</div>
+          <span class="btn-text">
+            03 Kepmendes PDT No 3 2025 - Panduan DD _Ketahanan Pangan
+          </span>
+        </div>
+        <div class="btn-arrow">➜</div>
+      </a>
+
+    </div>
+  </div>
+    
+  <!-- ===== Regulasi Ketahanan Pangan Desa ===== -->
+    <div class="section-card">
+    <h2>Regulasi Ketahanan Pangan Desa</h2>
+
+    <div class="link-list">
+        
+      <a class="link-btn"
+         href="https://drive.google.com/file/d/17EU2Ti985jouukcju47s5tAjHclPKMKM/view"
+         target="_blank">
+        <div class="btn-content">
+          <div class="icon-box">📄</div>
+          <span class="btn-text">
+            003 Kepmendes PDT No 3 2025 - Panduan DD _Ketahanan Pangan
+          </span>
+        </div>
+        <div class="btn-arrow">➜</div>
+      </a>
+        
+      <a class="link-btn"
+         href="https://drive.google.com/file/d/1STmsy2DfTC0Dsx2dpLBh-DbgWH7_vLuD/view"
+         target="_blank">
+        <div class="btn-content">
+          <div class="icon-box">📄</div>
+          <span class="btn-text">
+            71 Surat Edara Gub Pangan Lokal 2025 OPD_PHRI
+          </span>
+        </div>
+        <div class="btn-arrow">➜</div>
+      </a>
+        
+      <a class="link-btn"
+         href="https://drive.google.com/file/d/19Zi3AWrkXKXJE-aeYki_dJU8HGtGcpL3/view"
+         target="_blank">
+        <div class="btn-content">
+          <div class="icon-box">📄</div>
+          <span class="btn-text">
+            Bagaimana sebenarnya aturan pelaksanaan penggunaan Dana Desa untuk ketahanan pangan
+          </span>
+        </div>
+        <div class="btn-arrow">➜</div>
+      </a>
+
+    </div>
+  </div>
+    
 </div>
