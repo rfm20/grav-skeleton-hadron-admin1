@@ -389,10 +389,10 @@ body {
     <span class="section-subtitle">Dinas Pemberdayaan Masyarakat & Desa</span>
   </div>
     	
-<!-- ===== Aturan Aset Desa ===== -->
+<!-- ===== Regulasi Aset Desa ===== -->
   <!-- ===== CARD ===== -->
   <div class="section-card">
-    <h2>Aturan Aset Desa</h2>
+    <h2>Regulasi Aset Desa</h2>
 
     <div class="link-list">
 
@@ -428,9 +428,9 @@ body {
     </div>
   </div>
     
-  <!-- ===== Aturan Batas Desa ===== -->
+  <!-- ===== Regulasi Batas Desa ===== -->
     <div class="section-card">
-    <h2>Aturan Batas Desa</h2>
+    <h2>Regulasi Batas Desa</h2>
 
     <div class="link-list">
 
@@ -497,9 +497,9 @@ body {
     </div>
   </div>
     
-  <!-- ===== Aturan BUMDES ===== -->
+  <!-- ===== Regulasi BUMDES ===== -->
     <div class="section-card">
-    <h2>Aturan BUMDES</h2>
+    <h2>Regulasi BUMDES</h2>
 
     <div class="link-list">
 
@@ -555,9 +555,9 @@ body {
   </div>
     
     
-  <!-- ===== Aturan Indeks Desa ===== -->
+  <!-- ===== Regulasi Indeks Desa ===== -->
     <div class="section-card">
-    <h2>Aturan Indeks Desa</h2>
+    <h2>Regulasi Indeks Desa</h2>
 
     <div class="link-list">
 
@@ -624,9 +624,9 @@ body {
     </div>
   </div>
     
-  <!-- ===== Aturan Penggunaan Dana Desa ===== -->
+  <!-- ===== Regulasi Penggunaan Dana Desa ===== -->
     <div class="section-card">
-    <h2>Aturan Penggunaan Dana Desa</h2>
+    <h2>Regulasi Penggunaan Dana Desa</h2>
 
     <div class="link-list">
 
@@ -669,9 +669,9 @@ body {
     </div>
   </div>
     
-  <!-- ===== Aturan Ketahanan Pangan Desa ===== -->
+  <!-- ===== Regulasi Ketahanan Pangan Desa ===== -->
     <div class="section-card">
-    <h2>Aturan Ketahanan Pangan Desa</h2>
+    <h2>Regulasi Ketahanan Pangan Desa</h2>
 
     <div class="link-list">
         
@@ -714,9 +714,9 @@ body {
     </div>
   </div>
 
-  <!-- ===== Aturan KDKMP ===== -->
+  <!-- ===== Regulasi KDKMP ===== -->
     <div class="section-card">
-    <h2>Aturan KDKMP</h2>
+    <h2>Regulasi KDKMP</h2>
 
     <div class="link-list">
 
