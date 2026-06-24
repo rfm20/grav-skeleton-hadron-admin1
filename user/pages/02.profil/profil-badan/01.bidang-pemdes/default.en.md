@@ -73,7 +73,8 @@ body {
 }
 
 /* ===== CARD TITLE ===== */
-.section-card h2 {
+.section-card h2,
+.section-card h3 {
   text-align: center;
   color: var(--primary-color);
   font-size: 1.75rem;
@@ -95,6 +96,25 @@ body {
   line-height: 1.7;
   margin-bottom: 18px;
   text-align: justify;
+}
+
+/* ===== REGULASI BOX ===== */
+.regulasi-box {
+  background-color: var(--primary-light);
+  padding: 16px 20px;
+  border-left: 4px solid var(--primary-color);
+  border-radius: 0 8px 8px 0;
+  margin-bottom: 28px;
+}
+
+.regulasi-box p {
+  margin: 0;
+  font-size: 1rem;
+  color: var(--text-dark);
+}
+
+.regulasi-box strong {
+  color: var(--primary-color);
 }
 
 /* ===== LIST STYLE ===== */
@@ -125,18 +145,62 @@ ul.custom-list li::before {
   box-shadow: 0 0 4px rgba(79,127,114,0.4);
 }
 
-/* ===== GRID LIST ===== */
-.grid-list {
+/* ===== LINK BUTTON ===== */
+.link-list {
   display: grid;
-  grid-template-columns: 1fr;
-  gap: 10px;
+  grid-template-columns: repeat(auto-fit, minmax(300px,1fr));
+  gap: 20px;
 }
 
-@media (min-width: 768px) {
-  .grid-list {
-    grid-template-columns: 1fr 1fr;
-    column-gap: 40px;
-  }
+.link-btn {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 16px 20px;
+  border-radius: 14px;
+  background: #fff;
+  border: 1px solid #e5e7eb;
+  text-decoration: none !important;
+  transition: .3s ease;
+}
+
+.link-btn:hover {
+  transform: translateY(-4px);
+  border-color: var(--primary-color);
+  box-shadow: var(--shadow-hover);
+}
+
+.btn-content {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.icon-box {
+  width: 42px;
+  height: 42px;
+  background: var(--primary-light);
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: var(--primary-color);
+  font-size: 20px;
+}
+
+.btn-text {
+  font-weight: 600;
+  color: var(--text-dark);
+}
+
+.btn-arrow {
+  color: var(--text-muted);
+  transition: .2s ease;
+}
+
+.link-btn:hover .btn-arrow {
+  color: var(--primary-color);
+  transform: translateX(4px);
 }
 </style>
 
@@ -170,7 +234,54 @@ ul.custom-list li::before {
       <li>Pemberian saran dan pertimbangan kepada Kepala Dinas mengenai pelaksanaan tugas dan fungsi di bidang pemerintahan desa.</li>
       <li>Pelaksanaan tugas lain yang diberikan oleh Kepala Dinas sesuai ketentuan peraturan perundang-undangan.</li>
     </ul>
-
   </div>
+    
+    
+  <div class="section-card">
+    <h2>Publikasi Pemdes</h2>
 
+    <div class="link-list">
+      <a class="link-btn" href="https://drive.google.com/file/d/1HmCipSV9nW6CHFMSGJ9H0xYD3YTkV_47/view?usp=sharing" target="_blank">
+        <div class="btn-content">
+          <div class="icon-box">📄</div>
+          <span class="btn-text">Rekapitulasi Laporan Dana Desa Per 15 Maret 2021</span>
+        </div>
+        <div class="btn-arrow">➜</div>
+      </a>
+
+      <a class="link-btn" href="https://drive.google.com/file/d/196gtZScFm4RVMG7sQ1V5LrzcNoPCcQdh/view?usp=sharing" target="_blank">
+        <div class="btn-content">
+          <div class="icon-box">📄</div>
+          <span class="btn-text">Detail Rekapitulasi Laporan Dana Desa Per 15 Maret 2021</span>
+        </div>
+        <div class="btn-arrow">➜</div>
+      </a>
+        
+      <a class="link-btn" href="https://drive.google.com/file/d/1mulVpqadKgXghWzNdC1sXYYrKCeYNeY-/view?usp=sharing" target="_blank">
+        <div class="btn-content">
+          <div class="icon-box">📄</div>
+          <span class="btn-text">Rekapitulasi BLT DD Per 15 Maret 2021</span>
+        </div>
+        <div class="btn-arrow">➜</div>
+      </a>
+      
+      <a class="link-btn" href="https://drive.google.com/file/d/1A6_5zp4J5QVqoZKBbQmq5MOTaYoaO3bZ/view?usp=sharing" target="_blank">
+        <div class="btn-content">
+          <div class="icon-box">📄</div>
+          <span class="btn-text">Detail Rekapitulasi BLT DD Per 15 Maret 2021</span>
+        </div>
+        <div class="btn-arrow">➜</div>
+      </a>
+
+      <a class="link-btn" href="https://drive.google.com/file/d/1mQ9ophLKM6TWtmaDx4BwJjP5IsYaWHl-/view?usp=sharing" target="_blank">
+        <div class="btn-content">
+          <div class="icon-box">📄</div>
+          <span class="btn-text">Identifikasi Persyaratan Penyaluran DD TA. 2021</span>
+        </div>
+        <div class="btn-arrow">➜</div>
+      </a>
+        
+    </div>
+  </div>
+    
 </div>
