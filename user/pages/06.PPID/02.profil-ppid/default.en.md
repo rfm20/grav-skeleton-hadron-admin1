@@ -449,6 +449,20 @@ body {
     {% endmarkdown %}
   </div>
 
+          <!-- ===== JADWAL PETUGAS LAYANAN ===== -->
+  <div class="sub-card">
+    <h2>Jadwal Petugas Layanan</h2>
+    <div class="link-list">
+      <a class="link-btn" href="https://drive.google.com/drive/folders/1wZVR7aVDIRQSoioWVIoHrlqI_yM3-HG8?usp=sharing" target="_blank">
+        <div class="btn-content">
+          <div class="icon-box">📄</div>
+          <span class="btn-text">Jadwal Petugas Layanan</span>
+        </div>
+        <div class="btn-arrow">➜</div>
+      </a>
+    </div>
+  </div>
+    
   <!-- ===== MAKLUMAT ===== -->
   <div class="sub-card">
     {% markdown %}
