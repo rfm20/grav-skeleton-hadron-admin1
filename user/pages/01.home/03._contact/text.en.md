@@ -3,177 +3,107 @@ title: Contact
 process:
     markdown: true
     twig: true
-media_order: 'jdih.jpg,jdih.png,lapor.png,logo-dpmd.png,ppid.png,sikedip.png,SEKAMPADI.png'
+media_order: 'jdih.jpg,jdih.png,lapor.png,logo-dpmd.png,ppid.png,sikedip.png,SEKAMPADI.png,SANDI.jpeg'
 ---
 
 <style>
-/* ===== ROOT VARIABLES ===== */
-:root {
-  --primary-dark: #14532d;
-  --primary: #15803d;
-  --primary-light: #d1fae5;
-  --bg-white: #ffffff;
-  --shadow-soft: 0 4px 14px rgba(0,0,0,0.12);
-}
-
-/* ===== RESET ===== */
-*,
-*::before,
-*::after {
-  box-sizing: border-box;
-}
-
-body {
-  margin: 0;
-  padding: 0;
-}
-
-/* ===== SECTION TITLE (JIKA DIPAKAI) ===== */
+/* SECTION TITLE */
 .partner-section {
   text-align: center;
-  padding: clamp(24px, 5vw, 40px) 0 20px;
+  padding: 40px 0 20px;
   margin-top: 40px;
 }
 
 .partner-section h3 {
-  font-size: clamp(1.4rem, 4vw, 1.75rem);
-  color: var(--primary-dark);
+  font-size: 28px;
+  color: #14532d;
   font-weight: 800;
   margin-bottom: 8px;
 }
 
 .partner-section p {
-  font-size: clamp(0.85rem, 2.5vw, 0.9rem);
-  color: var(--primary);
-  margin-bottom: 30px;
+  font-size: 14px;
+  color: #15803d;
+  margin-bottom: 35px;
 }
 
-/* ===== WRAPPER PUTIH ===== */
+/* WRAPPER PUTIH */
 .carousel-bg-partner {
   width: 100%;
-  background: var(--bg-white) !important;
-  padding: clamp(20px, 5vw, 30px) 0;
-  border-radius: clamp(14px, 4vw, 22px);
-  position: relative;
+  background: #ffffff !important;
+  padding: 30px 0;
+  border-radius: 22px;
 }
 
-/* ===== HILANGKAN BACKGROUND CARD OWL ===== */
+/* HILANGKAN BACKGROUND CARD */
 .owl-carousel-partner,
 .owl-carousel-partner .owl-stage-outer,
 .owl-carousel-partner .owl-stage,
 .owl-carousel-partner .owl-item {
-  background: var(--bg-white) !important;
+  background: #ffffff !important;
 }
 
-/* ===== LOGO ===== */
+/* LOGO TANPA CARD */
 .partner-logo {
   display: flex !important;
   justify-content: center;
   align-items: center;
-  height: clamp(80px, 18vw, 110px);
-  padding: 8px;
+  height: 110px; 
   margin: 5px;
-  transition: transform 0.3s ease;
+  transition: 0.3s ease;
 }
 
 .partner-logo:hover {
-  transform: translateY(-4px) scale(1.05);
+  transform: translateY(-4px) scale(1.06);
 }
 
-/* ===== IMAGE LOGO ===== */
+/* GAMBAR LOGO */
 .partner-logo img {
   width: 100%;
   height: 100%;
-  max-width: 160px;
   object-fit: contain;
-  transition: transform 0.3s ease;
+  transition: 0.3s ease;
 }
 
 .partner-logo:hover img {
   transform: scale(1.08);
 }
 
-/* ===== NAVIGATION ARROWS ===== */
+/* ARROWS */
 .owl-carousel-partner .owl-nav button.owl-prev,
 .owl-carousel-partner .owl-nav button.owl-next {
-  background: var(--bg-white) !important;
+  background: white !important;
   border-radius: 50%;
-  width: clamp(38px, 8vw, 45px);
-  height: clamp(38px, 8vw, 45px);
-  border: 2px solid var(--primary-dark) !important;
+  width: 45px;
+  height: 45px;
+  border: 2px solid #14532d !important;
   display: flex;
   align-items: center;
   justify-content: center;
-  font-size: clamp(20px, 4vw, 26px) !important;
-  color: var(--primary-dark) !important;
-  box-shadow: var(--shadow-soft);
+  font-size: 26px !important;
+  color: #14532d !important;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.12);
   position: absolute;
-  top: 50%;
-  transform: translateY(-50%);
+  top: 38%;
   transition: 0.3s ease;
-  z-index: 10;
 }
 
 .owl-carousel-partner .owl-nav button:hover {
-  background: var(--primary-light) !important;
-  transform: translateY(-50%) scale(1.08);
+  background: #d1fae5 !important;
+  transform: scale(1.08);
 }
 
-/* POSISI ARROW */
-.owl-carousel-partner .owl-nav button.owl-prev {
-  left: clamp(-12px, -2vw, -15px);
-}
+.owl-carousel-partner .owl-nav button.owl-prev { left: -15px; }
+.owl-carousel-partner .owl-nav button.owl-next { right: -15px; }
 
-.owl-carousel-partner .owl-nav button.owl-next {
-  right: clamp(-12px, -2vw, -15px);
-}
+.owl-carousel-partner .owl-dots { display: none !important; }
 
-/* ===== DOTS ===== */
-.owl-carousel-partner .owl-dots {
-  display: none !important;
-}
-
-/* ===== TABLET ===== */
+/* RESPONSIVE */
 @media (max-width: 768px) {
-  .partner-logo {
-    height: 95px;
-  }
-
-  .partner-logo img {
-    max-width: 140px;
-  }
+  .partner-logo { height: 95px; }
+  .owl-carousel-partner .owl-nav button.owl-prev { left: -8px; }
+  .owl-carousel-partner .owl-nav button.owl-next { right: -8px; }
 }
-
-/* ===== MOBILE ===== */
-@media (max-width: 480px) {
-  .partner-logo {
-    height: 80px;
-  }
-
-  .partner-logo img {
-    max-width: 120px;
-  }
-}
-
-/* ===== TOUCH DEVICE ===== */
-@media (hover: none) and (pointer: coarse) {
-  .partner-logo:hover,
-  .partner-logo:hover img {
-    transform: none;
-  }
-
-  .owl-carousel-partner .owl-nav button:hover {
-    transform: translateY(-50%);
-  }
-}
-
-/* ===== PRINT ===== */
-@media print {
-  .owl-carousel-partner .owl-nav {
-    display: none !important;
-  }
-}
-
 </style>
 
 <div class="carousel-bg-partner">
@@ -206,6 +136,12 @@ body {
     <a href="https://sekampadi.kalbarprov.go.id/" target="_blank" class="partner-logo">
       {% markdown %}
 ![SEKAMPADI](SEKAMPADI.png)
+      {% endmarkdown %}
+    </a>
+      
+      <a href="https://pkdkalbarprov-source.github.io/sandidesa/" target="_blank" class="partner-logo">
+      {% markdown %}
+![SANDI](SANDI.jpeg)
       {% endmarkdown %}
     </a>
 
